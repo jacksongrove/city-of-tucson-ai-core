@@ -1,1 +1,1 @@
-A repo to learn and build a Discord chatbot
+# A repo to learn and build a Discord chatbot
