@@ -1,0 +1,465 @@
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: <@720062880762036224> we are in 648!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Hey! We will meet in room 618!
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: Coming
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: I'm in room 617/618 at the moment!
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: For sure I’ll be there
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: If you can join at 3 that would be great
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: My bad, I had a meeting with my professor and it’s kinda going longer than I expected
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: <@1146314390535151648> How about you?
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Great! Then let's meet at 618 or 619!
+
+ID: 1202052520105746482
+Username: nicolas_90861
+Name: Nicolas Littleman
+Message: I'll be in after 3 today.
+
+ID: 1245512256272334902
+Username: abhishekdeore_
+Name: Abhishek Deore
+Message: <@784603879169982505> I want to know the status of our database! Is it ready to be queried by the RAG?
+
+ID: 1067851827531489372
+Username: pauiinaa.
+Name: Paulina Aguirre
+Message: I’m going to be working at my other job tomorrow, but I can still work on the presentation at home afterwards. Let me know if there’s any specific slides you’d like for me to work on tomorrow!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Hi team! I'm available in office from 12 - 5, so let's use the time to finish our presentation! If you can't show up, please let me know!
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Reminder: Presentations are due on Tuesday. Most of it should be completed. Then we can work together and make adjustments.
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Here is the link to the canva template you guys will be using. If you need any help or have any questions let me know. Get started and can't wait to see the final presentation. (You guys can change the template) https://www.canva.com/design/DAGLztTYDWM/OZw0edhPwurFpLyBaS_9Bg/edit
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Below is the link to the canva template that should only be used as an example and not as your original template for the presentation. Looking forward to see what you guys come up with! Due next week Tuesday. https://www.canva.com/design/DAGJET7gRsg/en9I-VFGzDr6bDKFaRJfzg/edit?utm_content=DAGJET7gRsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Where is everyone?
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Hi! Today's meeting will be on 2pm. Please Dm me if you can't make it and I'll see how to coordinate!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: <@1067851827531489372> I can talk to you on Friday about your work!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Hi! Let's have the next meeting on Thursday! It will be a shorter update meeting, and I'll answer every questions!
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: Connected to the V2 of the chatbot, and now its answering prompts before successfully.
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: I'm in caracol now!
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: 
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: And we will have a call at 1pm!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Hi! I'm not going to work today, but I will be active on Discord, so send me your questions!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Will do!
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: <@784603879169982505>  can you add me to the backend repository and <@1067851827531489372> to the frontend
+
+ID: 1245512256272334902
+Username: abhishekdeore_
+Name: Abhishek Deore
+Message: https://aws.amazon.com/rds/mysql/pricing/
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: Fs ill stop by
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Feel free to put in your availability here!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: https://docs.google.com/spreadsheets/d/1CzXu3ajDnWrjdT-mdAIJYMDFaaz0TdsqT-bEkExc3Yo/edit?usp=sharing
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: I am available next week on thursday and wednesday, Monday I have an exam in the afternoon and might be able to come in early in the morning
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: This is for next week, but if you guys are free, come to room 619. I'm there
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: I came in this week on Monday Wednesday and Thursday, to get more comfortable with node and work on the chatbot that Abhishek assigned Todd and I
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: I’m free 10-5, I’m working downstairs rn
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: Yes
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: <@1146314390535151648> <@1067851827531489372> <@1202052520105746482> <@547632745485041674>
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: And also, do you guys have time on wednesday and thursday? I would love to have more meetings so we can work together and speed up our work. We will get hands-on work with the project starting next Monday!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: <@1146314390535151648> <@1067851827531489372> <@1202052520105746482> <@547632745485041674> Hi guys! A series of subtasks will be sent to Trello with your name assigned to it, please finish them and report to me by the deadline established!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: <@686986285952270359> Will do!
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@784603879169982505> and <@&1254868438074265783> May I see a demo of working code please? I need to know how much progress has been made.
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: You all should have access to edit but if you don't let me know.
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Here is the link for you guys to the google doc where Thomson, Abhishek, and I will have meeting notes on. You guys can also insert your notes to help you and your teammates better understand the project. It will be updated every Monday so you all can see what we will be doing that following Tuesday. https://docs.google.com/document/d/1wWmaMVrzYw4--dPSmcdSr4S8jcm8UGQ97oGVQmK3yrg/edit#heading=h.ymtu4ccvfbg2
+
+ID: 1245512256272334902
+Username: abhishekdeore_
+Name: Abhishek Deore
+Message: 
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: <@&1254868438074265783> I believe there is not a separate playground for the project radian yet. For now, feel free to use the "AI Core Training A/B/C/D" to test the accuracy of your csv files. I will let you guys know when a separate workspace is up for Radian.
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: <@1245512256272334902> ?
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: I cant find any assistants under the name of radian
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: where in the playground is it?
+
+ID: 1245512256272334902
+Username: abhishekdeore_
+Name: Abhishek Deore
+Message: Check your Dm for the files.
+
+ID: 1245512256272334902
+Username: abhishekdeore_
+Name: Abhishek Deore
+Message: That's alright.
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: Ohh okay, yeah I did. Sorry I confused myself
+
+ID: 1245512256272334902
+Username: abhishekdeore_
+Name: Abhishek Deore
+Message: Did you not attend the Custom Gpt training?
+
+ID: 1245512256272334902
+Username: abhishekdeore_
+Name: Abhishek Deore
+Message: I will share the testing file with you in few minutes.
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: yes
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: I don’t think I do
+
+ID: 1245512256272334902
+Username: abhishekdeore_
+Name: Abhishek Deore
+Message: You both have access to the playground, right?
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: where do i gain access to it?
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: For sure, will do! I’m going to be in office at 1 1
+
+ID: 1245512256272334902
+Username: abhishekdeore_
+Name: Abhishek Deore
+Message: <@1146314390535151648> <@547632745485041674>  Can you guys work on the custom GPT for the Radian. Last time me and <@747494247766163596>  tried making the custom gpt based on the data we have for the radian and it was giving pretty good results. Can you guys try it out and check its performance for me?
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: Ok that sounds good to me
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: The 11am meeting is between the interns and the mentor (which is not me), but the 1pm meeting is the meeting where the entire team (with me and Abhishek) would be meeting the mentor. After that, we can have a 30 minute chat of the initial task needed to be done.
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: 
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: I thought our first meeting was scheduled for today at 11 in room 643
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Hi guys! We will have our first meeting today, to see how we should allocate the work and meet our teammates. What time would be the best for everyone? I'm here from 9 to 5, so everytime works for me.
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Thank you! We will definitely reach out if there's any confusion.
+
+ID: 1067851827531489372
+Username: pauiinaa.
+Name: Paulina Aguirre
+Message: paulinaa3@arizona.edu
+
+ID: 687772429883670582
+Username: michaelmandel
+Name: Michael Mandel
+Message: I just uploaded my final six Excel workbooks with evaluation data to the Data Transfers Box folder.  I will still continue to attempt to collect data from other instructors, but I cannot guarantee that any of the other instructors will respond to my request over the summer.
+
+I also added a separate workbook that includes the list of questions and the stock feedback generated for the current iteration of the evaluation surveys.  I thought the stock feedback in particular would be helpful in training this model, as it demonstrates the static feedback we have historically given to each student on each of the first 10 (of 11) questions based on their calculated scores from their teammates.
+
+Please let me know what else I can provide, how I can clarify if necessary, or if there is anything else I can do to support your work.  Thank you!
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: My bad, I should now have an acct. with my arizona.edu
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: All right!
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: yes
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Has everyone received the invitation?
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: rnkeze@arizona.edu
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: I think you need to create your own Trello account to access the board
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: that other email was the one connected to my current github account
+
+ID: 1202052520105746482
+Username: nicolas_90861
+Name: Nicolas Littleman
+Message: nelittleman@arizona.edu
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: sp3@arizona.edu
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: toddlow5@arizona.edu
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Do you have an UoA email? I think that would work better
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: shivompaudel@icloud.com
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: And welcome to the project!
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Hi guys! I'm Thompson, the team lead for this project. Can everyone send me your emails so I can add you guys to the Github repo and (possibly) the Trello board? I'm not sure if I'm authorized with the Trello board but I can ask Shalon to authorize everyone right away.
+
+ID: 1067851827531489372
+Username: pauiinaa.
+Name: Paulina Aguirre
+Message: I'm not in the trello board either
+
+ID: 547632745485041674
+Username: shivom_
+Name: Shivom
+Message: I haven't been accepted either <@1202052520105746482>
+
+ID: 1202052520105746482
+Username: nicolas_90861
+Name: Nicolas Littleman
+Message: Has anyone else been able to join the trello board? I sent my request sent last week.
+
+ID: 687772429883670582
+Username: michaelmandel
+Name: Michael Mandel
+Message: I hear you.  UArizona entities needing to "legitimate their authority" is more or less the story of my life too at this point.  I think the Human Subjects group tried to come at us for the 360s years ago, but we successfully argued then too that it is not at all research.  I don't have much institutional memory to offer beyond that, though, beacuse I was not leading the team at the time and today is literally the last day of the person who did (Kim, who has moved to North Dakota to embark on her next chapter).  Let me know how I can best support you in this.
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Ok, I'll run with this.  Frankly, I'm at the point now where I need these individuals to legitimate their authority rather than just assert it.  I'll run with the non-research classification for now (which I believe applies to the whole of our organization and see where it leads)
+
+ID: 687772429883670582
+Username: michaelmandel
+Name: Michael Mandel
+Message: We don't have anything like that because we could always previously argue that this was a team-building tool rather than a research tool.  Does the Research Security Team have any guidance or sample language?  If not, I can try to come up with something appropriate.  I assume it would primarily center on the fact that Radian uses AWS, which is a secure platform, with NetID-protected login and access to backend data collected through the platform restricted to specific faculty members?
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Team <@&1254868438074265783> It seems we are making steady progress both on the web application and the AI components.  <@687772429883670582> do you have any experience with 'data handling agreements' with regards to the data you and your team collect on the Radian project? We're being asked to provide documentation to the effect that we have a data handling plan for personally identifiable information.  Do you have a pre-existing arrangement we can forward to the "Research Security Team" (a newly created organization that is injecting itself into all project work relating to AI)
+
+ID: 784603879169982505
+Username: tu8619
+Name: Tu Nguyen
+Message: Got it!
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@784603879169982505> I've populated the first Trello card on the Radian board, it has a fairly thorough TODO list that should keep you busy for a while.  Please work with <@1217589600055463958> to configure the Radian hosting space in AWS.  Let me know if you encounter roadblocks and good luck!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 💼  Radian
+
+Eller College of Management professors team up this summer to expand the Radian 360 Business Communications feedback and professional development platform – now powered by AI. Over six years of high quality curated interviews and presentations data will be processed and augmented to train foundation models in the arts of business communications – the Eller way with chatbots, agents, and avatars.
+
+🧑‍💻 Join the Trello board for this project here: https://trello.com/b/xp82Pd7X/radian
+
+✋ If you're interested in being on this project team react to this message with  🥇 for first choice, 🥈 for second choice, or 🥉 for your third choice project!
+

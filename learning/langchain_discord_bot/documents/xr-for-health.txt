@@ -1,0 +1,850 @@
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Sounds great to me. Thank you for being so quick, Andy 🙂
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@747494247766163596> we aren't using any GAN or ML in our project, as we ended up moving away from the idea of using synthetic data during the first week of development. 
+
+"This project utilizes computer vision and large language models (LLMs) to develop a health visualization platform that synthesizes realistic depictions of dermatological conditions across a spectrum of skin tones using color correction algorithms and techniques. The platform is designed to support precise visual and textual analysis, enhancing the inclusivity and accuracy of medical imaging."
+
+I think this is about as technical as we can get
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: This is what I got from the showcase description but this is more focused on marketing and takes a bit more space than we have.
+```Description: This project focuses on the development of a health visualization platform that involves the creation of realistic textures of skin diseases for awareness and medical-education applications. The project explores the use of large language models (LLMs) and computer vision models to provide educational enumerations on the defining visual characteristics of the skin lesions. The platform visualizes for a diverse range of skin tones, addressing gaps in medical imaging.```
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Hi <@&1253414412174491738> <@525162442603364355> We are currently making a poster about the amazing work AI Core is doing to present in the Uarizona IT summit. Could you guys give me a small description to put in the poster in the space we have reserved for you? I'd prefer formal terms (more research and technical focused). Heard you guys used GAN and ML which are not worded quite much here so can you drop in here a 2/3 sentence description about the project tailored towards pasting in a research poster please!
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: shoud i be pushing the revised api call code onto repo or?
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: 
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: sounds good
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@927744258528673842> this is a great tutorial for the ring implemention (the blueprinting of it could be heavily based on 7:44)
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: https://www.youtube.com/watch?v=IBR8rGKJTOo
+
+ID: 1245881119501451347
+Username: alexisbyrnes
+Name: Alexis Byrnes
+Message: If I need to make any adjustments to it just let me know!
+
+ID: 1245881119501451347
+Username: alexisbyrnes
+Name: Alexis Byrnes
+Message: thank u haha !!
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: dang good job on writing it, there's sm detail to it lol
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: you're good 👍
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: i see it
+
+ID: 1245881119501451347
+Username: alexisbyrnes
+Name: Alexis Byrnes
+Message: Okay, it should be in the XR for Health playground now
+
+ID: 1245881119501451347
+Username: alexisbyrnes
+Name: Alexis Byrnes
+Message: I didn't even realize there was a separate playground for XR for Health, sorry! I will add it in there right not!
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Hey <@1245881119501451347> , I can't find your XR for Health Melanoma Bot in OpenAI Playground. Did you add it to the xr-for-health playground?
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@&1253414412174491738> I payed for more bandwidth. We now have 50 GB which should be more than enough for what we need to do
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: we're over bandwidth for pushing code. but once we get it figured out i will do it
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: <@&1253414412174491738> could you guys push your portion of the project to the background branch of the github so we can all see what we have
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: https://www.canva.com/design/DAGLzb_S9n8/6_WsdF-WCcrFBWIjpnxuwA/edit?utm_content=DAGLzb_S9n8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: https://www.canva.com/design/DAGJET7gRsg/en9I-VFGzDr6bDKFaRJfzg/edit?utm_content=DAGJET7gRsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: https://docs.google.com/document/d/186GF_NFAYckRSCCyAg4Mfe9_EB3wTQopG9tl3GoEmkg/edit
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: will be there soon! heating up my lunch
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: <3
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: now i manifest that andy can fix opacity mask
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: https://melanoma-opacity-masks.s3.amazonaws.com/masks/mask_ISIC_0101040.jpg
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: thanks vivian 🙏
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: this is SICK 😫☝️
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: cool lil update
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@386706298936229889> Here is the API call I made that returns melanoma images along with the corresponding opacity mask
+
+https://auxjuyi3ac.execute-api.us-east-1.amazonaws.com/dev/image
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: https://www.youtube.com/watch?v=kB1_qxNUi9Q
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: i mean it’s still sick tho
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: ahh i see
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: It cycles through colors like a 2011 carameldansen video though so it’s not actually this color all the time unfortunately
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: I think this right here could be used! I like the simplicity and it would definitely keep the body model a focal point of the scene. Great job
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: 😫☝️
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: i think the color scheme is on point
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: 
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: <@&1253414412174491738> Here's what I currently have the scene looking like right now as a prototype (after giving up on Blender), I wanted to throw out a prototype to get ideas and wonder if I'm going the right way. But looking at the current build, I think I modeled it too much to look like a mall or something (I haven't added any of the futuristic components yet but the floating screens will have something related to that soon when I figure it out)
+
+- I added the leaves because I was curious if you guys thought maybe a futuristic/biophilic theme would be fitting and if I should do more like add plants or something 
+- What kinds of things do you think I could add to make it look more futuristic? 
+- I plan on at least extending the room at least horizontally to make it look a little less cramped? maybe
+
+But really any idea kind of helps rn since I'm kind of stuck
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Cool, excited to check it out!
+
+ID: 1245881119501451347
+Username: alexisbyrnes
+Name: Alexis Byrnes
+Message: Hey guys, I got the GPT all set up. I tried to make it so that the answers are pretty concise so it wont be an overload of information when it scans the spot. It's in the OpenAI Playground called the XR for Health Melanoma Bot. Also, please let me know if I should make any changes to it or make it more concise or anything.
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: 11-3? Is that what u said
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: But let’s meet tomorrow and make sure we are on the same page. Ultimately, I’m not sure how much intensive blender modeling we would need.
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: That would really help
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: I’ve been modeling basic ideas of rooms in UE5, I made a glass texture today and then really just played around with tools
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: I can help out because I have some blender experience
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: Blender has so many tools for control so a lot of the detail could be done there but omg the learning gap is huge
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: I’m trying to do it both ways in UE5 and blender
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Wait are you 3d modeling from scratch in blender?
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: I have no idea how you guys are doing it so well
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: You guys have made so much good progress, I wanted to show off what I had done today but modeling is SO SO hard to me💀
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: Yoooo that’s really cool
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Yes we have one in the project but I can finalize my api and get it generating automatically
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: do u guys have any material or texture maps of the melanoma lesions yet? Right now I'm just using a random material to test the scan on but I could try to do it on an actual melanoma texture and see if I can get everything to work
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: also minecraft icon on bottom based
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: wait huge!
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: 
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: <@&1253414412174491738> Hey guys, I've been working on the scanning effect and I thought it would be cool if we had a scanning effect that looked like this (see video below). I did this on Ue5 today! What I'm visualizing is having the user press a key and then this scanning effect will play, and after it is played, the lesions on the skin of the 3D model will stay highlighted for further inspection. This would also prompt a textbox that calls Alexis' chatbot! Let me know any thoughts or suggestions!
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: KK then we would need to import that image as well from the api
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Right, the api is able to retrieve a melanoma image and create an opacity mask like that on the spot, using Python scripting
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: i also request for the inverse of the inverse masking image
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: these two basically
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: or are u doing it prior
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: are u having the api make the image on the spot
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: If you are saying that each melanoma image would require its own opacity mask, the API I created has a script that does that
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: What do you mean?
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: Thanks for the reference photo
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: Ok, I'll keep that in mind when I'm designing today. 👍
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: We would need to reference both the color/opacity of each melanoma image in order to get a good result
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: Yes
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: You are referring to the blueprints we implemented on Friday with Julian, right?
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: I’m not sure how to pair images to their opacity but again I have blueprints to make it so the decal will change from the given texture changes
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Not yet, but it should be an smooth implementation
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: Are you able to randomize the image as well? And I think I can have it update the decal everytime as well from my previous blueprints
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: The photos you were using as inspiration were alright, but there was a lot going on in the middle, and it would be difficult to just throw our 3D model on top of it.
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@838956105190604810>  I think something like this is what we should go for, as it leaves the middle of the background open, allowing for a focal point to exist in the picture (Instead of the doctor, imagine our 3d model being there).
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@386706298936229889> I finished the API that will retrieve a melanoma lesion image from the dataset, as well as its corresponding opacity map! We can implement this with the UE5 project next shift
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: something like this minus the doctor in the middle
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: 
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@838956105190604810> About the background environment, we think it should look more futuristic / sleek. In the current background, it kinda departs from the theme. I think we should find different inspo photos to base off of. <@927744258528673842> when you get the chance, could you share the photos you found?
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@838956105190604810> <@386706298936229889> Today, in the mentor meeting, we went over what our final product should look like. <@386706298936229889> , we also discussed the background environment.
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: Legs
+
+https://www.turbosquid.com/3d-models/male-legs-1540842
+
+https://www.turbosquid.com/3d-models/feet-study-883758
+
+Hand
+
+https://www.turbosquid.com/3d-models/free-hand-1311775
+
+https://www.turbosquid.com/3d-models/hands-1961009
+
+https://www.turbosquid.com/3d-models/muscular-human-hand-1440075
+
+Face
+
+https://www.turbosquid.com/3d-models/female-face-scan1-2104675
+
+https://www.turbosquid.com/3d-models/male-face-scan-2102953
+
+https://www.turbosquid.com/3d-models/female-face-scan-2102094
+
+full body
+
+https://www.turbosquid.com/3d-models/base-mesh-1540948
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: https://www.blenderkit.com/get-blenderkit/6e6fd776-6854-417e-9996-824c721d60c8/
+
+https://www.blenderkit.com/get-blenderkit/bf7ab2c7-edd2-4f3a-9af8-ad9135fa162f/
+
+https://www.blenderkit.com/get-blenderkit/5ba602d5-4ceb-42f2-88c0-9bc151abfbeb/
+
+https://www.blenderkit.com/get-blenderkit/437603e3-d256-4306-96b6-c367a67d4c98/
+
+https://freepbr.com/product/human-freckled-skin-1/
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: here are some pbr skin textures
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: https://www.turbosquid.com/3d-models/emily-blender-2157992
+
+https://www.turbosquid.com/3d-models/daven-blender-2160053
+
+https://www.turbosquid.com/3d-models/male-anatomy-model-1333572
+
+https://www.turbosquid.com/3d-models/3d-model-farah-realistic-middle-age-women-free-2196455
+
+https://www.turbosquid.com/3d-models/sacha-baron-cohen-1673069
+
+https://www.turbosquid.com/3d-models/3d-free-asian-woman-realistic-female-model-2173072
+
+https://www.turbosquid.com/3d-models/realistic-human-basemesh-male-and-female-free-sample-preview-1425443
+
+https://www.turbosquid.com/3d-models/beautiful-asian-girl-2060543
+
+https://www.turbosquid.com/3d-models/roger-3d-model-character-1861645
+
+https://www.turbosquid.com/3d-models/muscle-men-1355158
+
+https://www.turbosquid.com/3d-models/mike-freeman-maya-rig-1191338
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: here are some 3D models/assets that i found
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: its now also randomized size
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: ok gamers i got this going
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: I’ll be there in a bit
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Yea
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: 683 right?
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@&1253414412174491738> Just a reminder, we will meet again at 11AM (same place) to go over plans for the week! I'm updating Trello right now. Again, perfectly fine if you can't make it, as we will check in again on Tuesday.
+
+ID: 1062863385798115349
+Username: shalonwalter
+Name: Shalon Walter
+Message: We have a revopoint 3D scanner at the office if you wanna use it
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: We haven’t used it for body scans but <@1062863385798115349> has used it for faces. She might know
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@864537084790177813> Can Poly-Scan create realistic body part scans?
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: Yeah I can see but no guarantees🥲
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@386706298936229889> Can you look for higher poly meshes? Still a lot of room for improvement in that regard. May look into 3d scanning services.
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: a closer up screenshots of it
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@&1253414412174491738> This is the image we applied
+
+Blending and color correction looks really good (s/o <@1246596594841944116> )!
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: pogress!!
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@386706298936229889> here is the opacity mask we can try:
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: of course, let me send you the dataset
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: <@525162442603364355> could you send me another image of melanoma i wanted to test something, anything with a different skin color
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: sheeesh okay, i can work on that, it looks great
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@&1253414412174491738> I spent some time getting the melanoma textures to apply to another mesh into UE5. <@386706298936229889> I'm going to need some help in UE5 with color correction / blending
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@&1253414412174491738> and <@525162442603364355> it looks like there's a lot of progress happening here, nice work.  I would like to check-in re: the GAN strategy.  I'd like to know what you think is possible and how you are going about it.
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: https://jamboard.google.com/d/1aSsCKRhBRdkHwnoLMnFv9WgJF29K9crlhn6idEfYUeQ/edit?usp=sharing
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: https://github.com/comfyanonymous/ComfyUI
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: https://github.com/isophrosynei/MainContentForProject
+https://github.com/andyelu/ue5-img-generation
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@&1253414412174491738> See you guys at 11! Also, I spent a good about of time creating new tasks on the Trello Board. Check it out when you guys get the chance!
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Thanks a lot for getting this done over your day off! I downloaded the HAM10000 and Kaggle dataset you linked and I think they looked great
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: https://www.youtube.com/watch?v=cfQ14QZU7Ic
+
+ID: 1245881119501451347
+Username: alexisbyrnes
+Name: Alexis Byrnes
+Message: Hey guys, I added the datasets that I found under my role in Trello board, with some descriptions on why I think they might be useful for our trainings.
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: https://us-east-1.signin.aws/platform/login?workflowStateHandle=90b5ca07-7a59-4cc1-861e-660770028aa1
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: I’ll be there in an hour
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@&1253414412174491738> We will be meeting in room 683!
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@&1253414412174491738> Let's aim to meet on Monday and Tuesday next week at 11 AM to discuss our weekly plans and tasks. This should work well since everyone will be able to attend at least one of the meetings.
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Hey Jonathan, thanks for providing all this, especially given that it is your off day!
+
+<@927744258528673842> pointed out this github repository: https://github.com/gcastro-98/synthetic-medical-images
+
+This is a GAN that is trained to produce pictures of melanoma, as well as other skin pathologies. We should definitely look into using this.
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: But this is mostly just because I found it kind of difficult to follow the tutorial you linked. I might be doing it wrong, so I'm open to anything
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: If we get access to Google Colab pro, I think the training times would be decreased since it offers better GPUs to work with (but I think we should experiment first)
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: I kind of found this tutorial a bit hard to follow, and noticed that he was using Jupyter Lab (which might make training a bit more difficult since it uses your GPU specifically to work with)
+
+I found that the tensorflow websites give pretty good detailed tutorials on designing your own GAN, and also they make use of Google Colab, an entirely free resource that gives you access to T4 GPUs for machine learning/training. This means that you don't have to have a computer with high specifications to develop a GAN.
+
+This is a DCGAN tutorial from TensorFlow that I thought looked helpful:
+https://www.tensorflow.org/tutorials/generative/dcgan#setup
+
+And here is a StyleGAN2/3 tutorial that teaches you to implement your own dataset (I'm currently looking at it right now):
+https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_2_train_gan.ipynb
+
+I think these resources would be easier to use to learn, and also provides everyone on our team the ability to do ML without needing use of a really good computer (training times might still be long)
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: Sure my laptop is auto updating so I’ll be there when it finishes
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: <@386706298936229889> can you meet in the XR Dev room? I want to show you what I have in UE5 rn, and then get it sent to you
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: im here until 12pm so im able to, whatever works for you guys is good w me
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: if u want, i mean if youre home u can just vibe
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: I didn’t plan on being at work today, but I’m going to watch the video Andy sent right now. Maybe I can join vc and we can work together there if you’re still up for it?
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: Did any of you guys wanna meetup to just work
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: You're right; I plan on checking this out tmrw
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: Maybe for more complex purposes like data synthesis where it might require more control of the code we’re using, it might be better to make our own model
+
+ID: 838956105190604810
+Username: integerfunctions
+Name: ∞/∞
+Message: I don’t think it would necessarily be a bad idea to build our own model, but would it be more cost effective and time efficient to use an open-source GAN like StyleGAN2 that is known for its quality? 
+
+Here’s a GitHub repository specifically geared for texture generation: https://github.com/JueLin/textureSynthesis-stylegan2-pytorch
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: okay sounds good
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Hey <@386706298936229889> <@838956105190604810>, check out this video about the GAN model implementation: https://www.youtube.com/watch?v=AALBGpLbj6Q&t=85s
+
+I'm gonna be working on this tomorrow.
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Oh that’s right! Okay no worries I’ll add you to both
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: https://aicorestaging.arizona.edu/webapi-gallery
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: im also on the marketers one but i can leave that one if thats easier!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@927744258528673842> are you on another board in trello besides the xr for health board? i can only add you to one and its saying you're already on one
+
+ID: 1245881119501451347
+Username: alexisbyrnes
+Name: Alexis Byrnes
+Message: This coming Monday, the 8th, I will be out of town so I can only work remotely that day. But every Monday after I would be able to be there for a meeting.
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Hey <@&1253414412174491738> ! I talked with some of you about meeting availability, and some of you made me aware of exceptions. 
+
+As far as meetings go, we will meet every Tuesday (starting tomorrow) from 11:00 - 12:30 in Room 645. However, I also wanted to change up my schedule by adding a Monday shift to better fit everyone else's. This would open up Monday as another day we could all meet, which would help all of us to stay in the loop.
+
+For our initial meeting tomorrow, our agenda covers introductions, discussing the project overview, answering questions, and also providing individual assignments.
+
+Here is an invite to the Trello Board: https://trello.com/b/j3x8O2g3/xr-for-health-innovation
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: i think just tuesday. looks like andy is only in 10-6 on tuesdays and thursdays. but i think if we wanted to as a team we can meet anytime on mondays for team scrums
+
+ID: 1245881119501451347
+Username: alexisbyrnes
+Name: Alexis Byrnes
+Message: Hey just wanted to check, are we meeting at all tomorrow or just on Tuesday?
+
+ID: 927744258528673842
+Username: vivbiffed
+Name: vivian !
+Message: I can do Mondays 9-12pm,  and all day tuesday
+
+ID: 1245881119501451347
+Username: alexisbyrnes
+Name: Alexis Byrnes
+Message: I am available all day Monday and Tuesday until 4pm, and Wednesday morning until around noon
+
+ID: 386706298936229889
+Username: isophrosynei
+Name: isophrosynei
+Message: I can switch my schedule around if anything
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Currently trying to find good times that we can meet. Is everyone's schedule up to date in the AI Core spreadsheet?
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: 
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: Hey <@927744258528673842> <@386706298936229889> <@838956105190604810> <@1245881119501451347> , I've already been in contact with some of you already, but I'm excited to start kicking off our project and seeing what this team can do!
+
+I created a scope of work document for this project so that we can all get a better idea of whats to come. I've also created a pipeline diagram to give a high-level overview of how our text-to-texture modality will work.
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 🧑‍⚕️ XR for Health Innovation
+
+Professor Matthew Briggs of UArizona Health Sciences Design leads development this summer in pursuit of a novel technique leveraging LLM and Computer Vision models to create convincing PBR Textures for medical simulation. By pioneering physically based rendering the team will create a "text-to-texture" modality for AI – bringing to life highly realistic avatars and NPCs in real-time.
+
+🧑‍💻 Join the Trello board for this project here: https://trello.com/b/j3x8O2g3/xr-for-health-innovation
+
+✋ If you're interested in being on this project team react to this message with  🥇 for first choice, 🥈 for second choice, or 🥉 for your third choice project!
+

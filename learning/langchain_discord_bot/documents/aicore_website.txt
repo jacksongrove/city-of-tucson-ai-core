@@ -1,0 +1,145 @@
+AI CORE
+Join Us For Summer 2024
+Who Are We?
+
+At AI Core, we are a student-workforce development program committed to boldly navigating the ever-evolving technological landscape. By embracing change and leveraging AI, we aim to enhance efficiency, develop innovative solutions, and foster exploration.
+
+Contact Us
+AI CORE PRODUCTS
+Speaking & Engagement
+
+Discover how AI is revolutionizing the world in our interactive workshops. Experience live demonstrations to see first hand how AI can be used to solve problems quickly and efficiently. Join us to explore the transformative power of AI!
+
+Learn More
+The Prompt
+
+Keep pace with the rapidly evolving world of AI by subscribing to our monthly magazine The Prompt! See how AI Core is innovatively using and developing AI solutions for our partners. Plus, enjoy brain-teasing puzzles in each issue to keep your mind sharp!
+
+Subscribe
+Our Chatbot UI
+
+Meet AI Core's chatbot, Dev-0, powered by every Foundation Model we can get our hands on. Equipped to assist with a diverse array of tasks our ChatBot UI is home for exploring new models and custom bots as they emerge from industry, and our Bench.
+
+Experience Dev-0
+LIVE FROM THE BENCH
+Keep an eye on these fascinating developments in AI and popular posts on our Discord server
+KEEPING UP WITH AI
+AI Agents
+AI agents are like super-smart digital buddies that are specialized in doing specific tasks. They use fancy tech to figure out what's happening and act, whether it's cracking jokes or driving a car. Think of them as quirky little assistants who make your life easier and more fun, all while learning and adapting as they go!
+
+Learn More
+ROBOTICS
+NVIDIA
+NVIDIA is supercharging robots with brainpower that's out of this world! Their tech helps robots see, learn, think, and act fast & smart, making them perfect for jobs like zipping through traffic or sorting boxes in a blink. Picture a future where robots are like handy pals, always there to lend a high-tech hand with whatever we need!
+
+Learn More
+Join Our Mailing List
+Stay updated with AI Core and receive our monthly newsletter, The Prompt!
+
+Join the list
+chat
+
+AI CORE
+SUMMER 2024 PROJECT PORTFOLIO
+HEALTH
+XR for Health Innovation
+Professor Matthew Briggs of UArizaona Health Sciences Design leads development this summer in pursuit of a novel technique leveraging LLM and Computer Vision models to create convincing PBR Textures for medical simulation. By pioneering physically based rendering, the team will create a "text-to-texture" modality for AI - bringing to life highly realistic avatars and NPCs in real-time.
+Scientific XR Visualization Platform
+With our partners at CATalyst Studios Main Libraries this game dev team is authoring an XR platform for the visualization of UArizaona scientific data. This summer, explore the inner topology of the human neural network as revealed in FRMI brain scan data come to life in stunning virtual reality!
+The Learning Vault
+Speech, Language, and Hearing Sciences professor and lab crew team up with AI Core to apply Web Applications and AI technology to the task of helping delayed-learning toddlers and young kids acquire language skills. We'll also be exploring GenAI for improving visual communication strategies and the cutting-edge technique of manufacturing synthetic data to accelerate AI reasoning capabilities.
+BUSINESS
+Radian
+Eller College of Management professors team up this summer to expand the Radian 360 Business Communications feedback and professional development platform - now powered by AI. Over six years of high quality curated interviews and presentations data will be processed and augmented to train foundation models in the arts of business communications - the Eller way with chatbots, agents, and avatars.
+Retail Sciences XR/AI Lab
+Partnering with UArizona Norton School of Human Ecology this team will invent next-generation experiences and discover of Augmented Reality, Computer Vision, and Agentic LLM structures in Norton's state-of-the-art Retail Sciences Laboratory. A true-to-life retail space complete with product, mood music, and rigged for maximum AI and XR - shopping may never be the same!
+Joyful Jobs
+Finding a job has been upended by AI this year, and maybe not in the best way for job seekers. Arizona recruiter Joyful Jobs joins force with AI Core this summer to pioneer AI systems that work for job applicants and the recruiters that place them. LLMs, Agents, and GPTs unleashed to make finding the right job possible - and joyful - again.
+Alio AI
+Cross-border advanced manufacturing firm Alio IT partners with AI Core this summer to explore LLM/RAG/Agentic architectures for automating shop floor decision making. with an emphasis on decades of company know-how, safety, and economic productivity, this team aims to author a first-generation AI for factory automation.
+AI Core Media & Events Team
+An operation as large as the SECD / AI Core Summer Internship requires its own logistics, marketing and professional development support. This team will capture the highlights and awesome product outcomes from other teams, throw a few parties, do something amazing with a big TV, and capture our story for our Fall 2024 nationwide marketing push. Also, game nights!
+CULTURE
+City of Tucson Chatbot
+What does it take to deploy a first generation chatbot capable of being the face of an entire US city? AI Core! This team will learn the ropes of Prompt Engineering, GPTs, RAG, and vector embedding techniques to launch the first-of-its-kind civic chatbot. Certain to become a feature of 21st century urban life, we’ll explore text, image, voice modalities, avatars, and more.
+Cybersecurity CTF Gaming League
+Pima Community College’s excellent Cyberwarfare Range and UArizona’s AI Core partner this summer to explore a capture-the-flag cybersecurity tournament competition for Arizona in 2025 and beyond. Firing-up with an AI twist, which team will take down all others in the all-out AI-powered cyber defense/offense battle royale? And how many languages can we live stream this in?
+The Play District
+Southern Arizona specialists in all things fun and family-friendly The Play District will collaborate with AI Core this summer to explore the power of GenAI and GPTs, taking local search to an all new level. This team will leverage Agents and custom LLMs while working closely with their industry mentor to make AI work for parents and kids all over.
+Pima County Visitor’s Center NPC AI
+This summer, AI Core teams up with tourism pros at Pima County’s Visitor’s Center to explore Animated AI Non-Player Character technology to tell the story of Tucson and Pima County.
+chat
+
+Speaking & Engagement
+Speaking and Engagements
+
+Explore the forefront of artificial intelligence for your organization with an AI Core custom speaking engagement or hands-on work session. We can address crucial topics such as AI in education, public safety, ethics, labor, media, privacy, governance, and beyond, sharing with you insights, techniques and thoughts on policy as we acquire them at the University. Whether you seek insights, strategy development, or implementation guidance, we're equipped to expedite your journey into the realm of AI!
+
+Schedule a Zoom consult
+Our Presentations
+
+We've presented to a wide range of academic, industry, and public sector partners to bring up-to-date understanding of AI. Whether you're a local business, community organization, a university department or lecturer, we are eager to share what we've recently learned and to get that knowledge out into your organization.
+
+AZ Broadband Council
+Arizona Small Business Association
+Oro Valley Chamber of Commerce
+University of Arizona Central Marketing & Communications
+Southern Arizona Attractions Alliance
+Arizona Historical Society
+Tucson Public Sector Communicators
+chat
+
+Jobs at AI Core
+Apply Now
+Interested in joining AI Core? Fill out this form.
+Email address*
+What position are you applying for?
+AI Engineer
+Coder
+Marketer
+Product Manager
+XR Specialist
+UI/UX Designer
+Logistics Specialist
+Videographer
+Digital Marketing Specialist
+Sales Manager
+
+Job description:
+The AI Core student engagement program at the University of Arizona is hiring for the position of AI Engineer. This work involves rapid learning, exploration, deployment, development, and innovation in a team environment with Generative AI, LLMs, Machine Learning, NLP, RAG, cognitive services and other aspects of the artificial intelligence revolution. The AI Engineer will be joining a team of dedicated technologists, creatives, business managers, and entrepreneurs to build the innovate AI Core programming and services team. Project work is focused on innovation and the dissemination of AI capability throughout the Arizona Business Community. The AI Core is fundamentally a workforce development program dedicated to moving the Arizona economy into the AI era.
+
+Preferred Requirements
+We are looking for candidates with demonstrable experience in the use of AI tools and methodologies including use of ChatGPT, the OpenAI API and GPT store, MidJourney, Dall-E, Runway.ml, Adobe Firefly, or any other tool. We also value academic and research experiences, please highlight in your cover letter. During the application process please provide a URL demonstrative of your work or experience. An information science Major may be preferred for this position but we encourange students of all backgrounds to apply if you have already begun experiment with AI. Please state your Major clearly in your cover letter. If you are highly interested in this position but feel that you do not have enough prior experience, spend the weekend YouTubing and get back to us on Monday with a demo – you can do it.
+
+Mandatory Requirements
+• You must be a student at the University of Arizona (undergraduate or graduate) with an expected graduation date of no earlier than December 2024.
+• You must be eligible and eager to work 13 hours per week during the Spring, Summer, and Fall semesters. It is especially important that you are able to work during the Summer as you’ll be supporting a massive cohort of interns who will be relying on you for AI instruction and expertise.
+• Candidates must be able to work in a hybrid environment featuring both in-person and asynchronous/online work environments.
+
+Compensation: This position pays $15/hr. The AI Core will advocate strongly for your individualized learning and career development. It is also super fun.
+Read More
+What's your major?*
+Expected graduation date
+Spring
+Summer
+Fall
+Winter
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+Resume*
+upload Upload File
+Cover letter*
+upload Upload File
+Link to your work
+Share an optional link to a page showcasing your work.
+I am available to work over the summer
+I can work at least 13 hours/week
+I am authorized to work in the US
+Submit Application
+chat
+
