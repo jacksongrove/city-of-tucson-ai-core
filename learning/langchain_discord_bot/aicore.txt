@@ -1,0 +1,43 @@
+Hello!
+We are AI CORE. At AI Core, we are a student-workforce development program committed to boldly navigating the ever-evolving technological landscape. 
+By embracing change and leveraging AI, we aim to enhance efficiency, develop innovative solutions, and foster exploration.
+
+projects:
+-XR
+XR for Health Innovation
+Professor Matthew Briggs of UArizaona Health Sciences Design leads development this summer in pursuit of a novel technique leveraging LLM and Computer Vision models to create convincing PBR Textures for medical simulation. By pioneering physically based rendering, the team will create a "text-to-texture" modality for AI - bringing to life highly realistic avatars and NPCs in real-time.
+
+Scientific XR Visualization Platform
+With our partners at CATalyst Studios Main Libraries this game dev team is authoring an XR platform for the visualization of UArizaona scientific data. This summer, explore the inner topology of the human neural network as revealed in FRMI brain scan data come to life in stunning virtual reality!
+
+The Learning Vault
+Speech, Language, and Hearing Sciences professor and lab crew team up with AI Core to apply Web Applications and AI technology to the task of helping delayed-learning toddlers and young kids acquire language skills. We'll also be exploring GenAI for improving visual communication strategies and the cutting-edge technique of manufacturing synthetic data to accelerate AI reasoning capabilities.
+
+-BUSINESS
+Radian
+Eller College of Management professors team up this summer to expand the Radian 360 Business Communications feedback and professional development platform - now powered by AI. Over six years of high quality curated interviews and presentations data will be processed and augmented to train foundation models in the arts of business communications - the Eller way with chatbots, agents, and avatars.
+
+Retail Sciences XR/AI Lab
+Partnering with UArizona Norton School of Human Ecology this team will invent next-generation experiences and discover of Augmented Reality, Computer Vision, and Agentic LLM structures in Norton's state-of-the-art Retail Sciences Laboratory. A true-to-life retail space complete with product, mood music, and rigged for maximum AI and XR - shopping may never be the same!
+
+Joyful Jobs
+Finding a job has been upended by AI this year, and maybe not in the best way for job seekers. Arizona recruiter Joyful Jobs joins force with AI Core this summer to pioneer AI systems that work for job applicants and the recruiters that place them. LLMs, Agents, and GPTs unleashed to make finding the right job possible - and joyful - again.
+
+Alio AI
+Cross-border advanced manufacturing firm Alio IT partners with AI Core this summer to explore LLM/RAG/Agentic architectures for automating shop floor decision making. with an emphasis on decades of company know-how, safety, and economic productivity, this team aims to author a first-generation AI for factory automation.
+
+AI Core Media & Events Team
+An operation as large as the SECD / AI Core Summer Internship requires its own logistics, marketing and professional development support. This team will capture the highlights and awesome product outcomes from other teams, throw a few parties, do something amazing with a big TV, and capture our story for our Fall 2024 nationwide marketing push. Also, game nights!
+
+-CULTURE
+City of Tucson Chatbot
+What does it take to deploy a first generation chatbot capable of being the face of an entire US city? AI Core! This team will learn the ropes of Prompt Engineering, GPTs, RAG, and vector embedding techniques to launch the first-of-its-kind civic chatbot. Certain to become a feature of 21st century urban life, we’ll explore text, image, voice modalities, avatars, and more.
+
+Cybersecurity CTF Gaming League
+Pima Community College’s excellent Cyberwarfare Range and UArizona’s AI Core partner this summer to explore a capture-the-flag cybersecurity tournament competition for Arizona in 2025 and beyond. Firing-up with an AI twist, which team will take down all others in the all-out AI-powered cyber defense/offense battle royale? And how many languages can we live stream this in?
+
+The Play District
+Southern Arizona specialists in all things fun and family-friendly The Play District will collaborate with AI Core this summer to explore the power of GenAI and GPTs, taking local search to an all new level. This team will leverage Agents and custom LLMs while working closely with their industry mentor to make AI work for parents and kids all over.
+
+Pima County Visitor’s Center NPC AI
+This summer, AI Core teams up with tourism pros at Pima County’s Visitor’s Center to explore Animated AI Non-Player Character technology to tell the story of Tucson and Pima County.
