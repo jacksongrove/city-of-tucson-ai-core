@@ -1,0 +1,3036 @@
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://tenor.com/view/funny-animals-say-cheese-smile-creepy-excited-gif-3718769781885886018
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: I can pick you up
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Hi guys, could any of you give me a Lyft tomorrow when you are going to the all hands? my car stopped working today :c I live very close to the building
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: LETS GOO
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Absolutely great work everyone! thank you for all your effort <@357721542689292290> the furniture looks awesome! <@648047940950163466> the checkout is 🔥 can't wait to get the security cams in here that you did <@1014014122691678259> ITS COMING TOGETHER
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: looking so good!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: its in the updated building project, branch 'clothes'
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I am pushing this update right now
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Omg like at that I want to get buried here
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: we could use the term digital twinning
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: that sounds pretty accurate and technical
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: This is what I found in the AI core showcase announcement but this was more marketing focused (correct me if im wrong) ```Revolutionizing the shopping experience, this project invents next-generation augmented reality (AR) experiences and explores AI in a realistic retail space. By integrating AR, computer vision, and agentic LLM structures, the team creates a dynamic and immersive retail environment that showcases the potential of AI and XR in retail sciences.```
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Hi <@&1253410242771947600> <@864537084790177813> <@1163029733076910081> We are currently making a poster about the amazing work AI Core is doing to present in the Uarizona IT summit. Could you guys give me a small description to put in the poster in the space we have reserved for you? I'd prefer formal terms (more research and technical focused).  Can you provide a 2/3 sentence description about the project tailored towards pasting in a research poster please!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: We still have to add the clothes to your furniture and work on importing your work, we are just hopping it will be a smooth transition but its better to have time for troubleshooting
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Got you, I believe you will figure it out, in any case reach out to another xr developer if you see someone it doesn’t hurt to ask, but if you keep having issues its not a priority to be able to push the furniture in player mode, in any case translate them as we usually do
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: yes!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Oh so you see the furniture moving on the floor, not like if you were grabbing it with your hand?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: its more like, since im getting the furniture to move, i am doing it in a way that attaches the object to the person, and as the person moves the item moves with them
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Like the brain of the scientific xr team when you grab it?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: So you want to be able to see that you are grabbing something
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: yesterday was hectic and I had to go do some stuff early in the morning too, but i did find some tutorials that are a bit more helpful with first person BP, so im watching that rn
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ty 🥲
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: But we can do that after you attempt the blueprint, whenever you feel better
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: And if necessary I’ll go in person
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Nope, I wanted to jump in a call with you to take a look at the furniture, the moving around and weight thing and take a look at all that needs to me imported to the main project
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: yupp, are you in office as well?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Greaat
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: but ty !!
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ill look at the textures that came with the pack because I think i saw something similar
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Very simple model, I can help you find the texture
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: They’re  fine just there
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: do we want those to be movable as well? Or just there
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: There are these tables are are being used in the retail lab
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: thats all the furniture right? Am i missing anything?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Oooohhh
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: but thats all i have left to do
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: i want the object to be seen when attached to the user
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: first person attaching
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: What is the blueprint for?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Im trying to fix the blueprint, but since im not following a tutorial im just trying to make sense of it 😭
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: yeah im here !
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: <@357721542689292290> are you in office?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Sure it’s okay
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Actually I have a dentist appointment tomorrow morning so I might be arriving a little late depending on how long my appointment takes
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Btw I figured out how to add videos to unreal engine with the tutorial you sent, it is a little bit outdated so the process is not exactly the same but we could do that display videos on the screens of the kiosks
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Tomorrow probably but I’ll be going early like 9
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Are you going today to the office or until tomorrow?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Very good job Joeli
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Thanks
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: OMG YES
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: U see the x in the top left corner
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Yeah it triggers when ur close (kinda) but I figured out how to close the buy items widget when it pops up
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: You mean it already triggers when you get close???
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: I know this probably isn’t that big of a deal but I finally got the close widget working for the buy items menu 🙏🙏
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: thank you<3
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: or do and they can choose from there as well, I can add the univerisy logos to that merch without an issue
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: added the light rig to the box folder
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I was thinking to leave the clothes shop where it is in the digital twin since the model is not similar to any other furniture or shelf that we actually have in the retail lab now that they set it up, just leave it there because it looks pretty, if necessary we can add a collision blockage so users dont try to interact with it
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: oh then yes
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: https://www.cgtrader.com/3d-models/architectural/lighting/light-truss-8
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: or wait wdym?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Yes yes yes
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://tenor.com/view/steven-universe-spinel-heart-gif-15845340
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Ah thank you!!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: https://www.cgtrader.com/3d-models/interior/other/clothes-shop-athletic-wear-01
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: the link to the specific model
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Where you bought them in cg trader
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Mollie do you have the link to the webpage of the clothes shop?
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: do we also want the lighting rig?
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@1163029733076910081> uploaded! and added everyone to the box folder
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: uploading the nike mannequins to box now
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Thank youu
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Yup yup
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Yes you just let me know, Im pretty much available after I solve this, if anyone else wants to join as well
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: not sure when ill be free since my dad needs me for something, but ill let you know when im home again and if youre available, get on call asap
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Yeah sure !
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: You can share your screen and show the interactions
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Maybe we can have a call later today to discuss what do we need to address in person
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Oh alright don’t worry
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ill be at office 9-2 tomorrow as well, hbu?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: i had to meet up with my dad for something and get food so i left for the day oh no 😧
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Oh you already left?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Im dealing with a personal thing but at what time are you leaving today Nilu?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I don’t know if that’s it
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: There is a weight feature in details, when you click on the mesh
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: They really identical
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Omg
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: amazing! i'll drop these as soon as I'm back at my computer
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ill work on the other two mesh and their BP at home 😭 , im hungry
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Pushing mechanic also looks good so they can be pushed and moved around, ill only look into how i can give it a feel of "weight" so it doesnt get moved around too fast
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: its not as much trouble as i thought it was going to be
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: i saved the first one! and almost done with the 2nd, im saving them one by one in the same furniture folder as i go. Things are looking good!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: What’s your status right now?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Everytime that you are in your project there is an option to saving changes while you keep working, lower right it shows “All Saved” or “(Number) unsaved” you can click there to see all the things that haven’t been saved yet and do so
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: That’s so frustrating
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: But id appreciate it if you could show me how to add stuff to the VR project, cuz thats what ill need help with understanding.
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Uhh.. a little problem came up :,DD I think my computer shut down yesterday because I didnt charge it before going to bed, and it looks like some of the changes I made were not saved. The older versions/pieces are still there thankfully, so I'll basically be working on getting them to look finished again.. But they probably will not be done by 11 am. I'll check the computer availability tomorrow and add them myself probably. Sorry about that 😭
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I will be using the one you created when you shared the clothes shop, can you invite everyone to be editors? Since you have their emails, Ill also be using that medium to upload pictures and video
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: <@864537084790177813> Im done with the other details of the building hehe, please share the nike models asap through box
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Peeeeerfect
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: thats fine, ill be there at 9 so itll be flexible for me!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Any moment after 11 works for me, I just have to go one more hour this week lol, but yeah whenever you say
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: that would be awesome, whenre you coming in office ?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Maybe I’ll see you tomorrow so we can add your blueprints to the project
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Alrighty! i had already half of it done last Tuesday so i have a couple more parts to add, ty !!
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: Glad you are feeling better <@357721542689292290>, also you all have until next Tuesday to have the presentation ready. That will be the day you receive feedback from another team & me
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: A lot better ! took a loooong rest in the afternoon and i feel rejuvinated. Thankfully i didnt get covid or anything, it was just exhaustion ig 😭 im gonna be in office wed-Thu-fri!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Are you going tomorrow?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: How did you feel today?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://tenor.com/view/simpsons-ned-okily-dokily-gif-4289162988260002514
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: i might have some afterall so i probably wont get need it but ty for letting me know 👍💕
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Oh!!! Right right we need portrait pics
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: After the all hands
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Its business casual
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Oh but on Friday they are taking pictures if you’d like to have yours
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ok awesome! ill add my paragraphs to the slides too
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Straight forward
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Today was all work
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Oh yeah we added more stuff, but Lucy didn’t add anything else
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: the place we wrote our own paragraphs
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: The google doc of the final presentation?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Did you all add any new tasks to the google doc btw? İll check rn anyway but in case there was other details she mentioned
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: The mock up was determined to be next Wednesday
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: So the presentation must be ready by this Thursday, we’ll show it to Lucy <@357721542689292290> <@1014014122691678259>
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://www.cgtrader.com/3d-models/architectural/lighting/light-truss-8 <@864537084790177813>
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: are you uploading your blueprints to the updated building?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: <@1014014122691678259> why are we working with the updated building project instead of the VR testing project like you told me yesterday?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: We are at the main office now
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: yes! Lucy, Joeli and me
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: I’m on my way denisse. Are you there?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Whenever you work on that, it would be good if you could write a project expectation for the interactivity with objects and clothes in the digital twin
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Focus on recovering, and if you have time and can work in your part of the presentation that’s great, if not I know you will do it any other time this week
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Get better soon Nilu❤️‍🩹
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: No one is here
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: I'm not gonna show up for the meeting today. I have a test I need to study for
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Things are somewhat back in order on my local device as well! Unfortunately im feeling a bit ill and im rly hoping it doesnt get serious, so ill have to see again next morning. İn case i cant make it rly sorry, i will work on the presentation out of office and will be online on discord in case you all need anything from me.
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Thanks for everyone’s hard work today and these last few weeks. It really is appreciated! See everyone tomorrow
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Ok I think we can just work in the updated building folder in the clothes branch from now on
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: oh no
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: 😭😭😭
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: But its all projects, its the computer
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Okay so the good news, its not our project
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: I'll be there in 20
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Levi signed in this computer and had some files waiting to be pushed for the retail lab, Idk if he is still here Im hoping he knows something
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Unless someone uploaded something
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: well ig we’re gonna give up on the repo
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: oh 😭
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: İm hoping we’re opening the wrong files
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: The problem was with the files on github, the local project was working normal
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Yeah you where with me
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I don’t know, last time I touched the project was on Tuesday
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: but we didnt touch it after last working on the shirt meshes ???
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: What 😃
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: What is going on with both projects 💀 the XR Retail Lab and the Updated Building are crashing
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: <@1014014122691678259> are you still using the computer from XR Devs?
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: morning all <@&1253410242771947600> see everyone at 1 today. Tomorrow we will go to the retail lab again after your design hours. Goals for this week are to:
+- Get our files cleaned up and merged into one 
+- Prepare for moving them to the meta quest headset 
+If we reach these milestones we can move on to exploring computer vision. See everyone this afternoon!
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: <@&1253410242771947600> Also, i need to mention that İ was out of Tucson during the weekend and thought İd be back on Monday, but the flight hours are a bit later than our meeting time so İ won’t be able to make it tomorrow 😭. İll work away from office so hopefully it wont negatively affect our progress. İll make sure to send over exported BPs as well!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: We should leave that folder for now and don’t add anything else until I can push it properly from the XR Devs computer, on Tuesday I was just able to push the .uproject file but not the rest of the folders that come with it, so at this moment it is corrupted, the priority this next week is to push it correctly at XR devs and add it to the XR Retail Lab folder
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Don't remember much else
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: I think I updated the project settings for the headset
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: <@1014014122691678259> did you do any alterations to the updated building folder other than changing the materials and adding the VR template?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: https://tenor.com/view/breezy-hacker-im-in-matrix-laptop-gif-22983973
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: im in
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: YAY!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@357721542689292290> you have access to the lab now 🤸🏻‍♀️
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: It looks like its the directional light (sun), it just needs to be rotated so there is daylight again
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: it's just dark for some reason. If you don't know how to fix it, I can port things back to the updated building project easily enough
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I think I will reach out to Chris on Tuesday to figure out the VR
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: con you send me a picture of the lighting before you go?
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Also, don't set forward render on or it'll say the shadows are overlapping and give an error
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: The blueprints are in the VR testing folder though. I'll need to port them back to the updated buildings or figure out how to fix the lighting on the level
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Ok will be something to do on Monday. I'm done for today. I uploaded a project with the retail lab and front side with replaced materials that will work in xr on a new branch
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I just saw a tutorial on how to do it, so after you drag the white circle (origin) to the body of your object, preferably to the middle of the body you right click > pivot > set as pivot offset
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I just kept dragging the origin everytime but it would go back to be far off
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: It is totally an issue, pisses me off but I have not taken the time to do it
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Still need to fix it eventually
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Yeah I think you're right
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I know, it is that off because the caps and other objects were originally part of the entire clothing shop model, so it locates the pivot point according to the model
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Might need to play around with the origin in blender to do so because I don't know how in unreal
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Another thing that we'll need to fix is the pivot point for some of the blueprints. The widget should be near the hat but it's far off, which will make spawning new instances difficult to position
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Yeah, but Taoseef is sick and Chris doesn’t work today so on Tuesday we can ask them
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: But yes totally the model is too heavy
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Oh no
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Also, I believe the clothing shop model is making the VR lag pretty badly. Probably too high quality
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Thanks for all your work on this step Levi
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Maybe they know something I don't then
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: For VR
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I also did the AI Core office with gltf and XR devs had no issue with the set up
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: 
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: I think these are the bad materials they come from the gltf default, so probably the format
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: And fbx also creates all the materials
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Unreal doesn’t work good with other exporting format, not even fbx in this case because it misses some of the mesh sides
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: So good to know
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Maybe try importing in a different format next time you use polycam
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Ok replacing the materials in the blueprints and the meshes seems to fix it
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Other error messages I get are that it can't refernece a target package under the materials
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: The front retail lab and the retail lab seem to be it
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: I tried deleting models to pinpoint which are problematic
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Well the error I get when I try to run VR is a cook issue
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Thank you for all your troubleshooting by the way
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: But how can they be the issue for VR?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Yes those are materials generated by default from the scan
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: For instance 7_9_2024_material_22
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: The walls of the retail lab have these default materials and I think they need to be changed
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Ok I think I found the issue
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Yeah doesn't work in that one either. Something in the retail lab main level is blocking the vr. I'll add each blueprint to a different level to see which one it is
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I couldn’t access the repo from github desktop that day and It just uploaded the uproject but the other dir are from the previous version
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I was not able to properly upload the progress that Mollie did on Tuesday from the XR Computer, so don’t trust that file right now
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: I tried running it from the updated building directory but it didn't work so I tried exporting it
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: That’s weird, are you running the project from the updated building directory or XR Retail Lab?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: But it does have the lamps in the frontside?
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: I can run the template vr level in the same project so I don't think it's the project settings
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Not sure what yet
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: There's something in the level that won't let the headset run it
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Not working for some reason
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: But anyways I'm trying to set up the vr for the level
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Its a little darker
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Different like what?
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: <@1163029733076910081> how did you set up the lighting in the retail lab level? I tried exporting the level but the lighting is different
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: It’s a weird day with so many people out sick. I’ll be around on discord if anything comes up
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Just hanging at the office
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Im not Levi - sorry. Did you need anything or just hanging at the office?
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: <@864537084790177813> are you all still here?
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Our diagram from todays computer vision brainstorming session
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Vinaka Levu <@1163029733076910081>
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Vanuinui vinaka ni siga ni sucu <@648047940950163466> !!
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Ok I'll be there in about 30
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: <@1014014122691678259> we are at the Marketers office, you can find us here
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: https://www.canva.com/design/DAGJET7gRsg/en9I-VFGzDr6bDKFaRJfzg/edit?utm_content=DAGJET7gRsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: https://docs.google.com/document/d/18QBarij27MMRV-vmxGs3cplEEgaY9qojDiv2DizuE7Y/edit?usp=sharing
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: canva presentation link: https://www.canva.com/design/DAGLyONvSZg/PgeZreb1W8jY1_VIf1v9EA/edit?utm_content=DAGLyONvSZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: She is with us in the office
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Is Mollie with you?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: <@1014014122691678259>
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: https://developer.oculus.com/downloads/package/oculus-developer-hub-win/
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: chapultepec channel
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: yep!
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: do you want to get in a call and share your screen? it would be easier to help that way
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: ok go here and download the 64 bit standalone installer: https://git-scm.com/download/win
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: yep!
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: are you using windows?
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: I can try
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: can you show me?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: and I didn't entirely understand where you were working, I should've asked
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I apologize that you kept working with the outdated model, since no one expressed the need to access the building project I didn't update to the repo until there was a solid progress and because Mollie needed access now
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: ok, i can do that but you should probably start using git to push and pull versions so we won't have to do that
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Nilu and Joeli started blank projects to create their blueprints and content and we will be adding everything to my file
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: yeah so probably what we are gonna do is that were going to export your work from the out of date building and add it to the new one
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: yeah it's not in that one
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: everything i've done is in there
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: i've been working in the xr-retail lab folder
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: but you don't have your contributions in that project right?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: yeah that's mine
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: ahhh, no if you mean what Nilu has been doing with Git Bash, no
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: 
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: ok i see
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: you haven't pulled from the github?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I won't because like I said I haven't download anything from you 🥲
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: you should see them in the content drawer
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: my files are in the build, pickup, security, and spawner folders
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I have just worked with the files that I have shared, I haven't implemented yours
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: not seeing the lights on mine are you working in the objectesting project or the other one
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: wait
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: ok i pulled the project, everything seems fine
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I am afraid we continue working in different versions of the file <@1014014122691678259>, my latest version doesn’t have any of your contributions
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: The version that I uploaded yesterday is in a new directory, called updated building
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Before your latest I'm pulling the new one now
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: At what time did you download?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Mesh that I didn’t even mess up with recently
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I think it was problems with mesh getting properly saved
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Git issues? I downloaded it yesterday and there were some git artifacts in the uproject file but I fixed it and got it to open
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I won’t be accompanying you today in person but I’ll be available to assist from home, last night I uploaded the most updated version of the project to the repo, it should be looking like this — if it doesn’t… crap. I’ve been having issues with project export
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@&1253410242771947600> reminder we’re meeting from 1-4 today in the office at HSIB
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: YESSS
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Although the merchant is only capable of selling one item at a time im gonna look into seeing a way into having numerous purchasing options
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: okay nice!
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: YOOOO
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: no i was focusing on the general functionality, but you can add placeholders before i get the BPs ready 💪
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: OMG JOELI
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Got the merchant up and running
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: also the door that gives to outside of the retail lab, I was also thinking that one has to be functional in case someone starts outside of the lab by accident
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: <@357721542689292290> are you already working with a specific door model? I was going to add a couple of wood doors to the retail lab that don't have actually too much functionality, but one of them could lead to a camera room where we put the security cameras recordings
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: thankfully! ty for the reminder Denisse :,]
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: you still have time!
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: omg, i actually forgot 😭
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: friendly reminder to submit the surveys in d2l that are due today :3
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://drive.google.com/file/d/1CxdAcaMFVyFFWsRuBK8C6MPiFpn19NRO/view?usp=sharing
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@1163029733076910081> could you drop your recording as well 🫶
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: 
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: https://www.youtube.com/watch?v=xtFbEHtPWRE
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: https://www.youtube.com/watch?v=F12p2qwGuAk
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: https://meet.google.com/oce-bazp-vrw?authuser=1&hs=122&ijlm=1721413772296
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@1163029733076910081> do we have a ue5 project file with the most recent updates in GitHub or box?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: nvm it doesnt rly matter
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ig theres a version 5.4.3 now ,but ill switch back to 5.4.2
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: im at AICore
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Are you at your house?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: İts probably the internet, and i mean the update installing, the software itself is probs fine
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Don’t tell me that
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: UE5 is updating for me and its so slow 😭
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: i'll be in office today until 4 for anyone thats available. i plan on working on one of the xr lab units
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@&1253410242771947600> see everyone today after all hands - we'll meet with jay at 11:30 to share our progress!
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: it's basic but it works i guess
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: ok i pushed a handheld scanner that can detect the pickup items
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: 
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: So far I I’ve got it so I can increase and decrease currency amount I’m about to work and see if it’s capable of buying items
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: 
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Thanks Levi I appreciate all the help I can get 🙏
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: It works in third person but I'm gonna see if I can implement in first person
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Ok cool I'll go ahead with the scanner then
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: I've been working on a currency system to implement as of late
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: <@648047940950163466> have you made any progress on the checkout system? I was planning on making a handheld item scanner today
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Let us know how it goes please
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Uhhhhh nice
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: but! idk about conflicts that could happen, ill test to see
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Havent tried it out concretely yet, but it basically updates the the file for you (rather than you going and downloading the .zip again and placing it in the same file) , so when you open it it has the up-to-date things
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: And how does the use of git bash makes it less laborious? Asking because we will have to be sharing blueprints regularly
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: it wont be a problem
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: i was goin to use git bash
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Levi was showing me that you can export blueprints
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: But you need to download the entire project again for that blueprint?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: He added a new BP system for item pick up that allows it to be copy pasted
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: What is Levi updating?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: I havent had the time to load the new project that levi pushed so ill get to that asap
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Yeah that wont be a problem!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: No need to have accurate measures of the door at this time, just the blueprint
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: There is a tutorial for that, I put it in the documentation
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: If you could create a sliding door that activates when the user approaches to the glass door would be a very nice progress
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I will be at the field trip all day tomorrow and Ideally we would go all together to the retail lab
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ill be in office thur-fri
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: oooo ok, if theres anything i can do as well id be happy to tomorrow
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Yep
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: next week?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Tuesday?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: If we could go to the retail lab on Tuesday would be perfect I need to see something about the pillars and we could also decide where to place racks, screens and checkouts
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: so awesomeeee! glad we were able to get it working somewhere <@1163029733076910081> will plan on working on the units in the xr lab for the rest of the merch work
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ohhh that makes sense
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: ok it's pushed
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: yeah, what I changed was basically setting the item on collision instead of the get all actors thing
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Alright ty
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ohh gotcha
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: it will be in the pickup folder in the project that I'll upload to the github right now
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Where is the BP for the items ? Do you mean like the specific clothes in the lab ?
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: ?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: At a sublevel?
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: pushing to a branch now
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: ok, I managed to edit the pickup system from the tutorial so that the pickup item blueprint can be duplicated and the mesh changed with the underlying logic the same
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: thank you!
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Thank you Denisse !
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: this is the documentation, you all have permits to edit now: https://docs.google.com/document/d/1pzy4RxLqxHRLeogcaOlIp5J7rVesExEervuT4fXds74/edit?usp=sharing
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: the good thing: clothes and all objects can be separated
+the regular thing: we might have to work with XR devs equipment as the project progresses, this model was hard to digest for my computer and nearly impossible for Mollie's
+the not-so-great thing: since meshes were separated, some clothes come in parts (for example, for the cap the crown and the bill are separated), we'll want to merge them in a blueprint which is not a hard process at all but has to be done for most of the clothes. On the other hand, some clothes (the ones that are the hangers, one after another), come all together, if you grab one, you'll grab the 5 of them. To address that we can work with the subdivisions of the mesh. These are all high poly so there is no trouble, but again, is a process. I will add to the documentation a video on how to merge meshes and I will do a video on how to work with subdivisions to separate the clothes in the hangers <@864537084790177813>
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: YOOOO
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Behold!
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: What room
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: here
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://www.cgtrader.com/free-3d-models/household/other/metal-flask-water-bottle
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://www.cgtrader.com/free-3d-models/character/clothing/belly-button-long-sleeve-shirt-ngchipv
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://www.cgtrader.com/free-3d-models/character/clothing/3-d-men-t-shirt
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://www.cgtrader.com/free-3d-models/character/clothing/sport-clothing
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://www.cgtrader.com/free-3d-models/character/clothing/wooden-cloth-hanger
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Sure
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Since we are staying from 9-3
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Papa John’s has a buy 1 get 1 free deal on pizzas right now, would y’all interested in buying one tomorrow?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Ty for giving it a shot though!
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: İ see i see, ill try to look into that as well
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: <@357721542689292290> I think that I can get it working tomorrow when we meet though. I think the key part is moving the logic from the character blueprint to the pistol blueprint
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: <@357721542689292290> sorry, doesn't look like the uproject file on its own is enough to use
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://youtu.be/axF0m6lOjG8?si=RR6FFHKjIEPjzq8W
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: https://www.youtube.com/watch?v=sPAPfQ1deuM&list=LL&index=3
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: https://www.cgtrader.com/3d-models/electronics/other/high-tech-kiosk-design
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://www.cgtrader.com/3d-models/architectural/lighting/stage-truss-with-lights
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: https://www.cgtrader.com/3d-models/furniture/other/bakery-stand-70982d03-f113-49ba-972a-c817b94321b7
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: good formats: .fbx, .glb
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: This image
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Mollie is going to be away for a bit at a team lead meeting.
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: <@&1253410242771947600> Me and Joeli are at room 638  (right in front of the AI Core office). We'll start discussing on a couple individual task specific things, and when everyone else comes we can continue altogether.
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Ill be there like in 5 min
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: The cat tran passed way before I got here… I don’t get the schedules on the website
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Yes its at the hsbi
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: I'll be late
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Ok I guess I'll go to the hsbi since I don't see anyone here
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: We're meeting at the lab, right?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Actually it can, from that stand we can create two of our furnitures, it would still be better to buy that one than build them from scratch
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: it could kinda be modified to fit them id say! But yeah the retail lab items all have interesting designs 😭
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@&1253410242771947600> reminder we’re meeting from 1-4 today as a team! See you all this afternoon
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Thanks for getting this going!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Also I saw the pictures of the furniture again, none of them looks like the stand I sent lol, everything looked combined in my mind
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I created a doc to add all our documentation/things that we learn/relevant videos divided by areas: https://docs.google.com/document/d/1pzy4RxLqxHRLeogcaOlIp5J7rVesExEervuT4fXds74/edit?usp=sharing
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Ikr, I found one that is even more accurate but double the price
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: makes senseö also woah basıcally the same structure??
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: right now a lot of stuff is half the price on CGTrader, that structure would serve us good
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I searched the marketplace also but it's limited compared to internet marketplaces
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: <@864537084790177813> this is one of the things that we'll have on the lookout to buy
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ohh, i was looking at the store and had not a lot of luck, but this looks really good
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: very similar to one of the Furnitures, can be edited manually to make it exact
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: look what I found
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Take your time, haha i have time
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Thats ok!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@357721542689292290> I just remembered I have my midterm Monday at 11 so ill be in closer to 1
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: can you send the picture of the whiteboard? <@357721542689292290> <@864537084790177813>
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I will send a very improved screenshot in a couple minutes
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: is this good?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: im getting food rn 😭 its gonna be a long day for me
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: When I get home like in 30 min
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@&1253410242771947600> can someone drop a screenshot of the retail lab in unreal with the front porch when they have a minute
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Oh I was going to do it next week, so feel free to keep going
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Oh cool! When are you thinking of getting to do this btw? Cuz i’m on track to finish the items up by the end of today (including event actions) so if you’re thinking of finishing them sooner İ wouldnt want to hold you back
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Ok I was probably going to follow this tutorial: https://youtu.be/sPAPfQ1deuM?si=31w9nva0wItOJYLP
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: same thing, i was also thinking of simple movement like pushing items that are theoretically too heavy to pick up
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: <@357721542689292290> what did you have in mind for the object interaction? I was thinking I'd make a pickup system so we could grab items and drop them off at a scanner. That way I could make the security scanner for unpurchased items
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: here are the blueprints
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: nope, we were in the meeting so i havent gotten to my computer yet, but ill check that folder then. Ty! i was just a little confused on what exactly you added since i couldnt download the project
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Oh and numpad + and - to cycle through the previews
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Have to be in first person though
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: It's like b, x, r, and l I think for the keys
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Did you manage to download the project? In the first person folder there's like a input default or something with the list of inputs for the system. You can place items, remove them, rotate them, and connect the security camera
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Do you mean you have the blueprints to interact with items ? im working on the object movements so i wouldnt want to do something that was already done
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Oh, ok ill try that out i do have git bash
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: And yeah the git pull https link
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: No, through git bash or some other git application
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: On ue5? No, whats the command for it ? git pull “link” ?
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Have you tried pulling it through the console?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: oh rip, yeah sure
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: The zip can’t be sent through here because its too heavy
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: We can check that today after the all hands
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: yeah 17 hours ago
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Did Levi do some changes ?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: I wanted to see what levi did, but ig it would be best to wait for your upload
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: That must be the same file you had already
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Hmmmm I haven’t uploaded the newest version of the project with the frontside yet
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: first is edge and the other is chrome
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Btw, is there any chance someone can send me the .zip of the latest push from here. Istg I've been trying to download it for so long and it keeps buffering but not actually downloading it. I tried different wifis and even browsers, but its just stuck:
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: im updating my computer atm, but ill check the latest updates as soon as its over!
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Okay, I finished the basic build system from the tutorial and pushed it to the github. If we get the furniture and other items from the retail lab, we can add those to the system and place them ingame
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: look at that, now we have a front side!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: that's great Joeli
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Hey guys I uploaded our project in the box repo that Ash sent out <@1163029733076910081> if you wanna upload the updated one that you have that would work as well and I can delete mine
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: i found your emails and sent invites to you all
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: morning everyone! we have all hands tomorrow as well as a meeting with our mentor Jay Sampson at 11:30 just after all hands. For everyone thats able to stick around please do so for the call with Jay - we'll be checking in with him weekly to show off our progress. nilu and joeli - if you dm me your emails i can add you to the calendar invite
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Super impressed team <@&1253410242771947600> this work is lifting the entire Core.  Keep it up! 💪
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: while we figure out how can everyone edit the same file without to need to be downloading everytime, If you want to make a permanent edit to the main file just let me know and I will start the session for you to access the project in multi user, if you just want to test you can keep using your project from the repo, whatever you do with that won't affect the main file
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: thank you so much for your work <@1014014122691678259>  and <@357721542689292290>, I also need to add the front of the retail lab that I scanned, that will be a major update that will be uploaded to the repo, so you will need to download the files one more time
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Oh! Thats also true 😭 i was focusing on replicating everything but looking for a base structure to add details to makes sense too, will do!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: this sounds great! also we have the option to buy any assets that are helpful to us - just let me know
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: İ thought it would be fine since it doesnt affect the original file cuz ill be working on my own project file
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: For sure ! Also i was just messing with blueprints for fun today, but i want to try building the items once i get the measurements and start testing for interractability by this friday if thats ok with everyone.
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Denisse and I tried another multi-user session in hamachi and i was able to join this time. Still need to see if we can get three people in. As we learn more about this feature and the sublevel feature we should hopefully be able to come up with a collaboration workflow and start tackling the pieces of work we researched.
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: thanks for tackling this levi! <@357721542689292290> when you're in tomorrow could you give this a try - curious to see if it works for our needs?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: here
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: can someone pull it to test if it works?
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: ok, I pushed a security sublevel to the github and it merged without an issue
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Thatd be useful actually 🐠 just in case
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: I could lend one as well if you need
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ill be there starting from 9, so whenever youre available 👍🏼
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: happy to lend a tape! are you planning on going before or after all hands friday?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Also, I was thinking, I have a lot of time on Friday, so can any of you (who trust me with your belongings lol) lend me a measuring tape so I can start measuring the items? I might also take new pictures of the racks so I can directly show the measurements on the image (maybe)
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: i hope this isnt difficult to read 😭
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Also the measurements that we got so far are actually pretty spot on! Just off on the decimals tbh.
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: nice!!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: hi all <@&1253410242771947600> ! i just found a feature in unreal called sublevels that i think could be another tool for our collaborating in unreal files. i'll drop some links below. chatted with levi a bit whos on today and will do some testing around this. let me know what you all think - does this work? 
+
+if this works we can come up with a way to divide the different pieces of work within the sublevels to be able to work on them independently. 
+
+https://docs.unrealengine.com/4.27/en-US/Basics/Levels/CollaborateWithSublevels/
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: They weren't that far off at least for one of the walls <@1163029733076910081> was mentioning how it was only off by a bit
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: cool, ty. how did the measurements compare to our scan?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: but yeah we're done measuring the walls, i just need to send them in after converting to metric
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: youre fine haha, you deleted as soon as i was done typing. Freaked me out for a second
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: 😆
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: lol sorry <@357721542689292290> i was in the wrong channel
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Manipulative
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 25.59.215.180:0
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Password: Retail-lab777
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Network ID: Retail-lab
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Btw <@864537084790177813> I just remembered this, while using Unity with other people, the version control system I used was Plastic SCM, and it would keep track of imported files and installed libraries for all collaborators. We kind of looked into it and it seems like there is a plugin for UE5, I'm wondering if any other xr devs would know more about it.
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: https://jamboard.google.com/d/1DHU42i2Iqn31TX5Tsm3zdQQWlHGoffRR4AoQMxjArmY/edit?usp=sharing
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: We’ll be trying to figure this out tomorrow since it’s a blocker for all our teams. Hopefully together we can all figure out the best option
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: https://dev.epicgames.com/documentation/en-us/unreal-engine/pixel-streaming-in-unreal-engine
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: The multi player plugin is in beta so it may be hit or miss. Ash said they’ve never gotten it to work but worth a try. The git/source control seems solid but might require more planning around who’s working on what so we don’t conflict. 
+
+I also just came across a third option called pixel streaming that could be interesting
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: ill try to do some research on this, surely there is someone who has reviewed both or either one
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: My understanding is sort of. From my research UE5 supports source control and integrates with Git. So we could go that route but would have to deal with potential merge conflicts etc. Trying to figure out if GitHub/Perforce or multi player editing will work and which one better suits our purposes.
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Ill make sure to bring some measuring tape tomorrow although I believe I only have one or two on hand
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Also rly sorry for the late reply I just got back home as well
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: is the issue like, after changes are made and pushed its a completely new project file that everyone else needs to load on UE5 all over again? Or different?
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Spent the afternoon trying to get multi user editing worked out with Taoseef - another xr project lead. We made some progress and will try again tomorrow. Luckily all of our teams have the same issue to figure out re file sharing etc
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: This is next on my list! Has anyone had a chance to try running this on their own machine <@&1253410242771947600> ?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Time to learn the good measuring system
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: For some reason they’re in meters and I can’t change that
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: These are the measures that came out from the scan
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: if anyones around im in the office
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Tomorrow the measuring tapes
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Perfect
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Yep we'll meet just after design lab at 11:15am on tuesday!
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Cool! Didnt know if itd be possible, thank you
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Yess. I was wondering if we could do this. Happy to try this when I’m in
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Also, if you check trello I added a proposal for trying the multi user editing plug in of UE so we can all be editing the project IRT, I would need a volunteer to try to join the project with me, and if it works later everyone can be added
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: The project is already uploaded to the repo in Git, everyone can download the content in the folder “XR-Retail-LabUE5” to run it in your machines and take a look at it. You will see I already did an alteration to the scan that was to fix the glass wall from the outside and inside, I did a video on how I did that and will upload it to the repo later today or tomorrow.
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Very good, I will be arriving to Tucson today in the afternoon
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Yes I believe so as that's when everyone's schedules allign and when we'll be visiting the retail lab again
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Meeting on Tuesday right?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: If not, it’s not a priority, I want the picture as a visual reference for a tutorial on how to create the glass wall
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: That could work, I also looked but didn’t find a front view, if you find it let me know
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: I don’t either - can grab one next week
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Sadly no, i could try to find it using google maps and look at the outside ?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Anyone has a picture of the outside of the lab? The glass wall where I started the scan
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Understood I’ll keep an eye out for the tutorials thanks again
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I started a free trial on Polycam to try the different exporting formats to see if any of them was better than .GLB, I had good faith that maybe FBX would be the best option but it actually was not capturing all the sides of the mesh. I also tried OBJ but at the end I decided GLB is still the best option. Something good, remember that I said that all the scan would export as one mesh and it would be laborious to separate it? I figured out how to work with it and that all the elements are automatically separated, I will make tutorials for everything
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Awesome! Thanks Denisse
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: hello everyone! as an update on the scan that we performed this Tuesday, its already in Unreal Engine! today I will submit all the files of the Unreal Project to the github repo. For when you want to run the project in your machine make sure you download all the files.
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: https://trello.com/c/J3EpVCmB/7-research-security-cameras-and-alarms this is awesome <@1014014122691678259> 🔥 thanks for getting that captured in trello
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Now I received it thank you
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: The email was in the logs just a little up
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: You didn't get it? I think I already sent it
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: add me when you can
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: denisseg@arizona.edu
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: you didn't ask for my email hehe
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: alright, I sent the github invitations to everyone
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: 
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: 
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: mclelland park
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: <@357721542689292290> Is it McClelland Park or Hall?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Yeah we’ll be here
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: <@357721542689292290>  how long will you be there? I can get there at 12:50ish from the HSIB
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: <@1014014122691678259> we are still at the retail lab if you want to stop by! At mclelland park
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Big news <@&1253410242771947600> , looking forward to how this Digital Twinning goes today, and then we've got another one for you...
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: https://docs.google.com/document/d/1sXT2yLwc64UkwWIxyrneKTYqGEUjHD6nEwnNA7zFs-w/edit
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: <@1014014122691678259>, on the shared document we are each completing a user persona for potential users of the retail XR lab. This will help us identify and understand our target users better. Add your persona  when you get the chance!
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: lucyomare@arizona.edu
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Thanks for the call
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Ok class is starting
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: joeliv@arizona.edu
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Levitaylor@arizona.edu
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: denisseg@arizona.edu
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: <@864537084790177813> I just joined the trello although it says I need approval for access if you could add me when you get the chance thanks!
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@&1253410242771947600> and <@&1232060265428811847> have a look around the 28:00 mark for thoughts on where we are at today with Computer Vision/4o: https://www.youtube.com/watch?v=-PS_nP2fZ-c&t=1704s
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: yayyyy! I shared it through the XR Devs channel, I will see how to add it to Trello too
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Excited to view the retail tomorrow
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@&1253410242771947600> for anyone that’s on tomorrow we’ll head to the retail lab from HSIB after 11 ☝️
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Thanks for checking in Nilu and reminding me about this! Yes the call is at Noon. My plan is to head over after 11 from HSIB on the cat tran. Anyone who’s available can join and we’ll tour the space/work on scanning it etc
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: The call with the company in Belgium will be at Noon so we are good getting there at 9
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: btw mollie do you need us to be there by 8 am tomorrow? If youre not sure I can still be there at 8 am jic and add that to my hours anyway
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: i got unreal up and running on my laptop! <@1163029733076910081> when you have a chance can you add your repo to the trello card so I can grab that file
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@&1253410242771947600> here is the trello board for the retail lab. i've made cards with the five interactable object types to research. if you're working on one please assign it to yourself. feel free to make your own cards as well - whatever is helpful to track things https://trello.com/b/FRr3QEwp/Retail%20XR%20Lab
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Also here's the tutorials I was talking about : 
+- item pick up (doesnt include placing down, but that can be figured out using the info in the tutorial): https://youtu.be/qVtoemgM7wI?si=T0LL8dg-jKVq_yxn
+- opening doors (we can modify it to use for sliding doors if needed | helpful with understanding BP a bit more): https://youtu.be/O7vmp73ue4Y?si=_YfZtkJV9MBh1jjU
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: I sent a request to join the trello board btw !
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: hi all! here is the scope of work for the retail xr project - we can all pick a interactable object type to research and learn about from it and then share here and in trello what we learn https://docs.google.com/document/d/1k42YqW8jSKxAFgn9iz2wX3VWV0mvSlzTxYKRtebDYKY/edit#heading=h.qa8codazhfkc
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: alright heading over rn
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: yeah sure, give me 5 mins
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@648047940950163466> <@357721542689292290> if you're around could you come into the main office?
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: cool cool ty!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: In the office for the meeting today!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I think its in HQ with Ash
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Also will we be meeting up in the general office area or the lab?
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Sounds good looking forward to it
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: Sounds awesome! Will be there both days 💪💪💪
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: We are already supposed to be meeting on Tuesdays since 11 am so no complaints gg
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@&1253410242771947600> Lets plan on meeting at 12:30 on Monday and Tuesday next week. I think everyone should be able to make at least one of those times by your schedules - excited to kick off!
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: *10-12
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: Next week I’m free Tuesday 9-6 Wednesday 10-11
+
+ID: 648047940950163466
+Username: cocollama
+Name: cocollama
+Message: For this week I’m free Wednesday 11-2 Thursday I’m free 10-12, Friday 10-12
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: For my case:
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: just an Update, next week I may not be available on Wednesday
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: next week
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: that's this week
+
+ID: 357721542689292290
+Username: kneelu
+Name: nilu
+Message: İts exactly like in the Aİ core training sheet, ill type that out rq
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: My schedule is up to date in the AI Core Schedule Sheet
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: 10-12 m-f I have japanese starting July 1 and I have meetings Wednesday and Thursday from 9-10. Aside from that, I'm free
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@1163029733076910081> <@1014014122691678259> <@648047940950163466> <@357721542689292290> what's everyones scheudle like? trying to figure out when we're all available so we can plan our schedules for project work
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Sounds good, thanks for the update
+
+ID: 1246596594841944116
+Username: julianschederblack
+Name: Julian Scheder Black
+Message: Sounds Good!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Not today. We’ll regroup after they get everything mounted.
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: <@864537084790177813> should we go back to the lab?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Are you doing the network set up today as well?
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@1246596594841944116> <@513387725198589974> <@1014014122691678259> we got some more info from Amoobi re the spider box. Seems like we don’t need it after all
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: It’s in the lobby on the first floor off the park entrance. I just wrapped up my midterm and will meet you all there.
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Never mind I think I found it
+
+ID: 1014014122691678259
+Username: ltaylor48
+Name: ltaylor48
+Message: Which room is the lab
+
+ID: 1246596594841944116
+Username: julianschederblack
+Name: Julian Scheder Black
+Message: Alright! Good to know. I'll look into it if needed
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: You don’t need a cat card or anything to get into the cat tran you can just take it
+
+ID: 1246596594841944116
+Username: julianschederblack
+Name: Julian Scheder Black
+Message: I don't really have acsess to a cat tran so I would have to walk
+
+ID: 1246596594841944116
+Username: julianschederblack
+Name: Julian Scheder Black
+Message: Alright! I'm good to go. Are any of you going to be in today or do I need to get myself over there?
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Excellent, I will be there!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: <@1246596594841944116> <@513387725198589974> another reminder we have the amoobi install tomorrow at 1pm at the retail lab - first floor of the mclelland park building
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: I am interested in this project ! 🕴️
+
+ID: 525162442603364355
+Username: andylumonkey
+Name: Andy
+Message: If you guys use github to store large UE5 files, make sure to do this fix!
+
+https://www.youtube.com/watch?v=cfQ14QZU7Ic
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Hello <@&1253410242771947600> !
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: We got to tour the Retail Lab yesterday in person at McClelland Park. Its an awesome space outfitted with retail fixtures and an influencer lab. We'll be working to install the hardware/sensors that will track movement in the space and help us draw out data and analytics about shopping patterns next week!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 🛍️ Retail Sciences XRI/AI Lab
+
+Partnering with UArizona Norton School of Human Ecology this team will invent next-generation experiences and discover the power of Augmented Reality, Computer Vision, and Agentic LLM structures in Norton’s state-of-the-art Retail Sciences Laboratory. A true-to-life retail space complete with product, mood music, and rigged for maximum AI and XR – shopping may never be the same!
+
+🧑‍💻 Join the Trello board for this project here: https://trello.com/b/FRr3QEwp/retail-science-xr-ai-lab
+
+✋ If you're interested in being on this project team react to this message with  🥇 for first choice, 🥈 for second choice, or 🥉 for your third choice project!
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: 
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: The AI Core / Norton XR Retail Lab Scope of Work: We will implement a first-generation AI analysis system within the Norton School of Human Ecology Retail Sciences Lab in preparation for launch Fall 2024.  AI components will integrate with existing sensing technology as much as feasible to enable real-time computer vision, audio, and other sensor input analysis of in-store activity via a v1 UI.  Additional goals include exploration of a v1 Digital Twin environment (also for analysis and visualization of in-store activity as well as simulation testing) and the exploration of multiplayer mixed-reality in-store experiences via Meta Quest 3 and Unreal Engine 5 development.
+

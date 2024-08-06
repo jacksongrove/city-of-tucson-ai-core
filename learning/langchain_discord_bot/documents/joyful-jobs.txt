@@ -1,0 +1,427 @@
+ID: 954585588512727070
+Username: frankoc3an
+Name: Al-Nur
+Message: Yes, I am.
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: at home right now
+Do you need something?
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Hey Team, are any of you working today?
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Use this to open up the .db file
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://sqlitestudio.pl/
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Change the APi key in config env to your API Key
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: 
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: https://www.canva.com/design/DAGLy7Xmn6s/LS1TpTOYJ2868hBYwiCfgg/edit?utm_content=DAGLy7Xmn6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: https://docs.google.com/document/d/1HXiviFEazcLJNYOBzrrqI7FDuaYC3_Yj6khWBbp4ZvM/edit
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: https://www.canva.com/design/DAGJET7gRsg/en9I-VFGzDr6bDKFaRJfzg/edit?utm_content=DAGJET7gRsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Hey Team, great news. We are now going to work full fledged on the resume chatbot with all the resumes provided by <@1249851179735973968> and the interview transcripts. I am going to invite you all tomorrow into the Google Cloud Platform and OpenAI project that Emily had created and we will code and work in there from now. A lot of exciting stuff and work ahead.
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: https://docs.google.com/document/d/1V4aaqe4VP1cPlWvU8cipvc0I-PTWb5YTiRETUGF9pbY/edit?usp=sharing
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: For inspiration...
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: Okay sounds good
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Come to the AI Engineers office. It is empty. We can work from here.
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: Hey Naman, I’m in room 637 right now
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: I’ll be in the office at 11:00
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Hey Team are you in the office today?
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Thanks for invite <@1249851179735973968> I'll see you on 7/15 at 2:30!
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: we are in the ai engineers room, but naman is busy with something
+
+ID: 954585588512727070
+Username: frankoc3an
+Name: Al-Nur
+Message: Are you guys in a room? If not, come to room 637
+
+ID: 1243620332791795784
+Username: lucyomare
+Name: Lucy Omare
+Message: https://jamboard.google.com/d/1NymiffrMDm_W9O2oVPVnnFk2v7rXEUTmworlhOS2UEs/edit?usp=sharing
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://www.youtube.com/watch?v=MXPYbjjyHXc&t=524s
+
+Check this out, team.
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Thank you Emily, means a lot to me. Yes, we are building a lot of exciting stuff. I can showcase that to you soon enough and will schedule a meeting with you.
+
+ID: 1249851179735973968
+Username: echavez713_54048
+Name: echavez713
+Message: <@686986285952270359> no rush of course but just checking back on this proactively as I am only available Monday-Wednesday this week and next. Feel free to DM me if you'd like to get on a call to discuss. I do have what I believe is a highly interested client, so it's possible we could get the first official request very soon!
+
+ID: 1249851179735973968
+Username: echavez713_54048
+Name: echavez713
+Message: Hey all, I'm the Founder/CEO of Joyful Jobs - it's great to see all the interest in our project, and I want to give a special shout out to Naman who has been working so hard and made very impressive strides already. I look forward to seeing what else you all achieve, and please let me know what you need from me. As an FYI, I will be out of office this upcoming Thursday and Friday 7/11 and 7/12, as well as next Thursday and Friday 7/18 and 7/19. However, if you need to chat either this week or next Mon-Wed, my schedule is fairly open at the moment. Thanks again!
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: Oh okay, I'll head over there right now
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: Sorry Aidan I didn’t see your message, I’m hanging out by the AI Engineers office
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: Hey I just got here, are you guys in a room yet?
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: Hey, are you guys in a room yet?
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Yes of course. See you then!
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: Okay sounds great! I can meet you in the AI Engineers room tomorrow then we can go from there if that’s works
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Yes, we can meet in one of the rooms and I can start on-boarding you guys on AWS and I have made major changes to my code. So, wanted to get you all working with it as soon as possible.
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: I was gonna come in tomorrow from 10-2, should we meet in one of those rooms that we had our group meeting in or should I work on more tutorials independently?
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: So sorry I meant Monday, Wed, and Thurs 9-3 and Friday after the meeting  is good with me. 
+
+Also I might have jury duty this upcoming week, I won’t find out til this weekend if the judge is going to excuse me.
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Perfect, this works for me. We should be able to achieve our project goals. See you on Monday, team.
+
+ID: 954585588512727070
+Username: frankoc3an
+Name: Al-Nur
+Message: My availability is Mon-Wed 10-3, Tuesday 9-2, and couple hours on Friday.
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: My availability is 9-2 on Monday, Tuesday, and Wednesday, and I would be able to stay a little on Friday as well
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: Hey! My availability is mon, tues, and wed 9-3 and I can stay a little longer on Friday after the all hands meeting. I can only work for 4 hours at one time though. But as long as the time is between 9-3, I can come in
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: i am available anytime from 9-5
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Hey Team, 
+
+Can you please tell me your availability for the next two weeks? I am going to be working  Mon-Thur from 10 to 6 and then a couple of hours on Friday. Do you all think you would be able to find time between this for us to start working together?
+
+ID: 1249851179735973968
+Username: echavez713_54048
+Name: echavez713
+Message: Thanks so much - I agree, it can be amazing. I'd love for you all to promote it on your side like you mentioned. Definitely any info you have on the portfolio of projects is helpful - either if you throw together additional creatives, or if you just send me text, my virtual assistant can design more fliers/whitepapers etc. It might be helpful to get on a brainstorming call as well to discuss more the types of projects and employers we want to target as well as what the process would look like once we have a client wanting to start.
+
+ID: 954585588512727070
+Username: frankoc3an
+Name: Al-Nur
+Message: Noor@arizona.edu
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: aidanrains83@arizona.edu
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: josephmarbella@arizona.edu
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: GitHub: Sign in to GitHub
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://github.com/UA-AICore/aicore_aws-rag-architecture/tree/main
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: It’s okay Aidan! We haven’t started yet, so I don’t think you’ll miss much when we do start
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: Sorry guys, I completely misread the schedule for today. I’ll hopefully be there for the meeting by 9:25. If you guys would like, I could join a discord call until I am there in person that way nothing needs to be repeated
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Thank you <@1249851179735973968> my first glance is that this looks AWESOME.  I mean that from a deep, instinctual level.  The moment I saw the flyer I realized this is going to work.  Such a good idea.  Second reaction is... let us work on our end a bit with this (our media/web, not the flyer).  I want to task the <@&1253453459240259594> crew with dressing this up a bit, and I want to run it by a few folks at the UA.  We have time.  We should lean into the 'GPT Showcase' page our <@&1229905767302168587> crew is publishing as a 'teaser' or 'portfolio' function for your potential customers to peruse, we can also pull together more creative on our end.
+
+ID: 1249851179735973968
+Username: echavez713_54048
+Name: echavez713
+Message: Hi Ash, sorry, missed this message before. I have begun marketing as of last week with the attached flier. Got one person potentially interested so far who I'm trying to get on a call with to hear about his project/idea. The only deliverable I can think of is if you could provide a basic "menu" of possible projects that can be done, in "5th grader language", I think it will help make things more tangible to employers. Even just an overview of all the projects in this AI Core program currently would be helpful to show examples of what can be done. Of course we can entertain projects proposed outside of the menu options as well. Also, would you be willing to do a LinkedIn Live with me to discuss AI in general and the program/our partnership to help promote it? It would be a 30-minute video session, interview style, no prep required.
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Sent.
+
+ID: 954585588512727070
+Username: frankoc3an
+Name: Al-Nur
+Message: ayanlenoor7@gmail.com Thank you
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Whenever you guys get time can you start going through the GitHub code? I have added you guys except <@954585588512727070> on it. 
+
+You can paste the code in ChatGPT and ask it to explain it to you. The "Working OpenAI Resume Bot.ipynb" is what I want you to go through and when you come in tomorrow we can all activate the chatbot on your system and let you know of the work going ahead.
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: jwmarb
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: I'll be in room 673. until 1-130ish studying! Just in case if anyone needs me!
+
+ID: 751649451130748938
+Username: daniellenicole_520
+Name: DanielleNicole
+Message: dncunes-dncunes@arizona.edu
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: AidanRains - aidanrains83@arizona.edu
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Hey, can all of you send me your Github username or email address? I will add you to my repo. You guys can start going through the code then.
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: I'll be in room 682 on the 6th floor until 11AM if anyone needs me
+
+ID: 1143232107230007346
+Username: minglaiyang
+Name: MillerY
+Message: We can always run the pre-trained model locally. Here is a small demo, using google Colab T4 GPU is good enough:https://github.com/amrrs/emotion-detection-from-text-python/blob/main/Text_Emotion_Detection_in_Python.ipynb
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: https://huggingface.co/j-hartmann/emotion-english-distilroberta-base
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: to reduce api usage, is it possible we could host a whisper v3 model locally? its only 1.5B parameters
+
+https://huggingface.co/openai/whisper-large-v3
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@1217589600055463958> please work with Emily to get a voice chat together between the 3 of us to discuss the Data Handling aspect of the personally identifiable resume data, thanks!
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Hi <@&1253453459240259594> can I please get an update on where we stand with the effort to bring a group of AI-skilled temporary employees to Emily for employment? What's the next step, are there any deliverables on our end?
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: https://www.youtube.com/watch?v=8BV9TW490nQ
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://youtu.be/AVNqdT5ilOg?si=4nAamqHWSwkVXIDK
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://youtu.be/r4YIdn2eTm4?si=hemyLCAwSW96O6i7
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: https://www.youtube.com/watch?v=u5Vcrwpzoz8
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://youtu.be/2djqKsRXt_Q?si=RXv9BrzFkbhgcZ6i
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://youtu.be/wM5837pVh1g?si=WaNbPwlbVPULyvop
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: https://youtu.be/T-D1OfcDW1M?si=-08JY8AGHvN8MVH8
+
+ID: 1245879871209734215
+Username: aidanbranigan.
+Name: Aidan Branigan
+Message: I can't now but I can on Monday anytime.
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: Do you want to chat now? You can come in the AI Engineers office.
+
+ID: 1245879871209734215
+Username: aidanbranigan.
+Name: Aidan Branigan
+Message: Hello, I am interested in joining this project!
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: Yeah that works, I’ll be over in a sec
+
+ID: 1217589600055463958
+Username: namanjain1618
+Name: naman
+Message: That's great Aidan. Do you want to chat now? You can come in the AI Engineers office.
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: Hello! I am interested in joining this project!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 🧑‍💼 Joyful Jobs
+
+Finding a job has been upended by AI this year, and maybe not in the best way for job seekers. Arizona recruiter Joyful Jobs joins forces with AI Core this summer to pioneer AI systems that work for job applicants and the recruiters that place them. LLMs, Agents, and GPTs unleashed to make finding the right job possible – and joyful – again.
+
+🧑‍💻 Join the Trello board for this project here: https://trello.com/b/xxJ0ggHi/joyful-jobs
+
+✋ If you're interested in being on this project team react to this message with  🥇 for first choice, 🥈 for second choice, or 🥉 for your third choice project!
+

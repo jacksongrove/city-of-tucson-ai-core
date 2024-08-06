@@ -1,0 +1,783 @@
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Omg that looks soooo goooood
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: sounds good
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Called “PimaCountyUnreal”
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: The unreal project is on the right pc in xr lab
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: gotcha - we're getting down to the wire here, so I would focus on the presentation. We need to have a world where we can implement the cacti, which at this point will likely be the colossal caves one. So once that's done, and the cactus can be implemented there, then go ahead and move on to the presentation.
+
+ID: 1261030855963447329
+Username: aicorexr_36927
+Name: AiCoreXRLab
+Message: <@290979217556897792> I (Alex) plan on cleaning up the heli scan and the bomber plane scan and then after that what am i supposed to work on?
+
+ID: 1261030855963447329
+Username: aicorexr_36927
+Name: AiCoreXRLab
+Message: Finished Everything I said
+
+ID: 1261030855963447329
+Username: aicorexr_36927
+Name: AiCoreXRLab
+Message: 
+
+ID: 1261030855963447329
+Username: aicorexr_36927
+Name: AiCoreXRLab
+Message: https://youtu.be/xAawJWCUG6Y
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: I've achieved step one - Chat GPT now has a pipeline to UE5. The next step is figuring out how to get a specific assistant instance to be called in UE, instead of just the standard 4o model. <@1217589600055463958> any ideas? The input for that sort of thing requires a link - but there is no link to a specific assistant. So I'm not sure how to proceed.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: nice! sounds great!
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: I will have all the scans cleaned up by the end of today, look up and add the dark background for the cave, and then add some lights in it
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: https://www.canva.com/design/DAGLyN7TKkM/nmYWmjwQYtIoitYcJb7kBA/edit
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: <@1152009686082658335> <@1247046451855495209> Are you guys joining the meeting? We need to be present every week for the full two hours
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys, I'm in the Palenque breakout room whenever you're all ready
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: Gotcha, will do.
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Please find 3 document provided by Pima Visitors Center here: https://arizona.app.box.com/folder/270503418651
+
+Please work with <@&1229907313436000256> to investigate technique for storing this information in a RAG and attaching it to a Colossal Cave project NPC... <@290979217556897792>
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: since most of the team was gone at the conference, and we spent a lot of tuesday working on trying to prep the presentation
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Currently we have only uploaded the scans to github. Today I will be able to make a fully explorable environment today
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: I am waiting for a pc to be availible in the xr lab
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: In what way did you not have much time last week, what happened?
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: I believe Alex is handling that - I'll check in today since we didn't have much time last week.
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@&1254871480181723189> and <@290979217556897792> can I get a status on the Colossal Cave and Air & Space Museum scans? Do we have an environment or artifacts to explore yet?
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys, since i’m sick I’ll be joining you guys from home through discord tomorrow. Please still show up in person to meet with your teams during your regularly scheduled meeting times (unless you’re sick like me and join through discord).
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: I hope that’s alright
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: The demo slides aren’t going to be up to my par but if it’s only a practice then I’d just put up a video I made about the office floor
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys, on Tuesday we will be doing a practice presentation. This means you guys will need to have maybe more of the presentation done by then than I originally thought. Let me know if you guys need any help with it
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: I got it
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: These don't all have to be done by next week but please get started!
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: For the presentation, I'd like to give you guys certain slides to work on so no one gets stuck doing it all. 
+Andy: 4-6 (look at the Design Thinking Overview to help you with it, and/or plug into ChatGPT)
+Alex: 7-10 (the product demo obv doesn’t have to be done rn)
+Maya: 11-14 (maybe type out something to say for the conclusion in the notes of the doc, not on it)
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Please begin filling out the Canva. I'd like to have some of it done by the time we meet next week
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: ^ Link to the Final Presentation canva
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://www.canva.com/design/DAGLyN7TKkM/nmYWmjwQYtIoitYcJb7kBA/edit
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: ^ Design Thinking overview for the canva
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://docs.google.com/document/d/1XssAStS8L4s3lXJqleL60q1IlFMN18j65y89cMIlYB4/edit#heading=h.bl58gbwyggoh
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://www.canva.com/design/DAGLyN7TKkM/nmYWmjwQYtIoitYcJb7kBA/edit
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://www.canva.com/design/DAGJET7gRsg/en9I-VFGzDr6bDKFaRJfzg/edit?utm_content=DAGJET7gRsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey everyone. Today we're gonna start working on our final presentation. I know the project itself is still a work in progress but since our final presentation/product demo is in three weeks, we'll be getting started today. Lucy made us a very nice reference/template to use, but we have to make our own just based off of the content in the canva I'm going to send. I think we can make it look really cool, especially with some of the canva templates I've seen today with my other groups.
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Could I get your email?
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Yea tomorrow on Tuesday I can take the scans off
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Alex was asking for our emails to personally add our scans to a github repo, but he said he could meet you and do it for you if you prefer, I’m not sure if Alex is in Office today <@1152009686082658335> ❗️
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@&1254871480181723189> Can somebody help grab the Colossal Cave and Pima A&S Museum scans off my phone or let me know where you want them?  Thanks...
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: I'm working on editing the photos from yesterday, just figured I'd send this one to you guys
+
+ID: 1247046451855495209
+Username: azura_may_03143
+Name: Maya T
+Message: I won't be able to make the all the hands. I will be online, so let me know what y'all need!!
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: Great job today team, I think we got some good material!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: We are at the gift shop, A/C too
+
+ID: 1247046451855495209
+Username: azura_may_03143
+Name: Maya T
+Message: There is AC in here if y’all wanna wait 🫠
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: i'm here
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: This is where we parked
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: i'm headed out now - i'll probably be around 15 minutes behind you guys
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: i'll be meeting you guys at the caves
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: <@290979217556897792> are you here?
+
+ID: 1247046451855495209
+Username: azura_may_03143
+Name: Maya T
+Message: I am here, i am checking for something and will be right out
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: I am here with the van! I am downstairs outside on the west side of the building in the parking lot
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Me
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: I’ll be at the office in about 5 minutes
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: I am here at the office
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: We will need one to test run the professional camera approach
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Who is taking their laptop today?
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: This was my absolute favorite, what we are aiming for tomorrow!
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: 
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Also take a moment to look at these amazing cave scans that people share through Polycam, all of these have been made with LiDAR
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: If you do, please bring it with you
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Could be very useful tomorrow (after 10 years)
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Anyone has a selfie stick?
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: <@&1254871480181723189> Hey team - if you guys have a chance to watch this video from Denisse, that would be great - it's super helpful.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: gotcha. thanks!
+
+ID: 1247046451855495209
+Username: azura_may_03143
+Name: Maya T
+Message: I believe our team starts at 11 no? And then the other one at 1. I am on my way over now.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: sorry, i'm not sure how to access the times 😅
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: what time is it at?
+
+ID: 1247046451855495209
+Username: azura_may_03143
+Name: Maya T
+Message: I’ll be late to the morning meeting, I am finishing up some stuff at the library.
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Hey team, I am going to be in the xr lab for our designer check ins because I need the work station
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: We will depart from HSIB at 8AM, scan the cave from 9-11. Grab lunch somewhere, scan AIr & Space museum from 1-2:30 and stop by the Visitors Center which is near the university from 3:30 - 4:00.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: how late should we be there? I'm scheduled from 8-4 that day.
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@1245936915488706618> <@290979217556897792> <@1163029733076910081> <@1152009686082658335> <@1246978937658277958> <@1247046451855495209> We have the van secured for Thursday! Woot! We'll meet early at AI Core, head to the Colossal Cave, scan it, jump in the van and head to the Pima Air & Space Museum, scan a plane or two, then pop over to the Visitor's Center downtown.  It will be a full day, you'll all be heros...
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Morning Pima team, I have a proposal for the scanning of the Colossal Cave that I want you to check out, it's a viable option that  can be implemented this Thursday, here's the link! https://drive.google.com/file/d/1nhyKHsrS1buQiNVZZnDQHGmuUUuJ5Mi0/view?usp=sharing
+
+ID: 1246978937658277958
+Username: aidanrains83
+Name: Aidan Rains
+Message: Yes, that works for me
+
+ID: 1245936915488706618
+Username: _andy_rosas_
+Name: andy
+Message: yess for me too
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Yes for me
+
+ID: 1163029733076910081
+Username: denisse_83289
+Name: Denisse Guerra
+Message: Yes for me 🙂
+
+ID: 1062863385798115349
+Username: shalonwalter
+Name: Shalon Walter
+Message: What about everyone else?
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: for me at least
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: oh, yes, that also works!
+
+ID: 1062863385798115349
+Username: shalonwalter
+Name: Shalon Walter
+Message: <@&1254871480181723189> <@1163029733076910081> <@1246978937658277958> Does Thursday at 8:00am work for you guys for the visit?
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: excellent
+
+ID: 1245936915488706618
+Username: _andy_rosas_
+Name: andy
+Message: well, all day for me too
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Alex: All day
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: i'm asking shalon about that, though.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: I think we'll likely meet at the office and then leave from there - what times are you available?
+
+ID: 1245936915488706618
+Username: _andy_rosas_
+Name: andy
+Message: What time?
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: <@&1254871480181723189> looks like Monday is our day then! I'll be excited to get to work then!
+
+ID: 1261030855963447329
+Username: aicorexr_36927
+Name: AiCoreXRLab
+Message: ⬆️ for all hands (if we are showing)
+
+ID: 1261030855963447329
+Username: aicorexr_36927
+Name: AiCoreXRLab
+Message: https://streamable.com/c099x3
+
+ID: 1247227909681184910
+Username: kristopherriley_16712
+Name: Kristopher Riley
+Message: I can do Monday, Tuesday and Thursday as well.
+I have doctor’s appointments on Wednesday.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: hmm... we'll have to work around that then - <@1062863385798115349> what are our next steps?
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: I have collage courses and pre-planned events, I can do Monday, Tuesday, Thursday
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: <@1152009686082658335> <@1247227909681184910> <@1245936915488706618> hey - we might be looking at next Wednesday for the field trip, does that work?
+
+ID: 1247046451855495209
+Username: azura_may_03143
+Name: Maya T
+Message: Imma try it out now and then I’ll update you,
+
+ID: 1247046451855495209
+Username: azura_may_03143
+Name: Maya T
+Message: Yeah I’ve read about it, they have a version I can use on the poly cam website
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: https://www.reddit.com/r/photogrammetry/comments/11w4m27/best_photogrammetry_software_3df_zephyr_vs/
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: that is whats its called. its a process (not a softwere) to create realistic 3d "scans"
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: <@1247046451855495209> Photogrammetry
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Either needs to be done in blender or something. I don’t know an unreal yet.
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: As of now no, I plan on and will learn how to do that next work day
+
+ID: 1247227909681184910
+Username: kristopherriley_16712
+Name: Kristopher Riley
+Message: thats pretty cool.  Are you able to readjust the sections that are incorrect and make them look more like building?
+
+ID: 1261030855963447329
+Username: aicorexr_36927
+Name: AiCoreXRLab
+Message: https://streamable.com/9tgp02
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: cool - we can just meet in the XR room in the main office if that's okay.
+
+ID: 1247227909681184910
+Username: kristopherriley_16712
+Name: Kristopher Riley
+Message: I’m here already so just let me know which room # for the meeting at 1pm.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: Hey <@&1254871480181723189>, if you're here today, let's plan to meet at 1. We need to discuss the next steps Ash has given us, and hopefully get scanning today if possible.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: i'll get on the test run right away - and have my team attempt it today if that's okay.
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@&1254871480181723189> Hello team, we're taking a field trip to Colossal Cave to attempt a digital twin.  Travel to occur as soon as feasible.  It is a one day excursion and does not require Travel Authorization.  We have to put our heads together to determine the best method for transporation.  The project design is a) create digital twin of a Pima County attraction (Colossal Cave) b) acquire documents from PCVC about Colossal Cave, create a RAG database about the cave with <@&1229907313436000256> and drop The Saguaros into the digital twin with the RAG database attached (instant tour guide).  
+
+<@290979217556897792> please organize with your team to arrange travel dates and discuss transportation.  <@864537084790177813> we also want representation from the <@&1253410242771947600> team, as your team is running away with Digital Twinning.  <@1163029733076910081> is already onboard.  Mollie, please coordinate with Chris and your team, and <@1062863385798115349> and myself regarding travel dates and transportation modes.
+
+We will use Polycam and iPhones with LiDAR.  I have an iPhone 13 max to add to the mix.  We need several scanner concurrently.
+
+I propose we give ourselves a test run before heading to the cave... let's form a team of personnel and give ourselves 180 minutes to scan the entire first floor of the HSIB building.  We can then stitch it all together in UE5.  This will be our bootcamp/learning experience.  All <@&1232060265428811847> can assist with the model imports/staging/output to XR stages as well.
+
+Will follow-up in-person.  All crew stoked for this please show up at HQ and get involved.  Sounds like an awesome project!
+
+Please response with 👍 to show that you've read this...
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: I think that's an excellent idea - let's discuss more on Thursday
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Kristopher Brough up a good point to me earlier today 
+He asked what he should learn to that would be benificial to the project and I thought that was a excilent question.
+
+<@290979217556897792> Do you think it would be a good idea to break people off into their roles and have them get really good at it?
+Example, 1 - 2 people are really good at unreal
+Another good at scanning and importing (its not hard so they can learn other thing but have scanning as the main)
+Have another person work on the AI 
+And then lastly another making the 3d moddles for the cactus and animations ??
+
+ID: 1247227909681184910
+Username: kristopherriley_16712
+Name: Kristopher Riley
+Message: https://discord.com/channels/@me/1248348605203353600/1253096810545807370..  Here is a more through UE5 explanation.
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://jamboard.google.com/d/1l07hSziBVI-M929ylQJwxPWPME-bAILdqk7jzWcAs84/viewer
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: nice!
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: 
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: we got it to work
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: First, a Small update, it seems that Poly cam decides which type of chairs are used on a random basis.
+Second, we are currently working on uploading the 3d file to Unreal, but it breaks up each element (A chair, a table) into a individual item to be added to the environment, we are currently learning how to properly upload it to unreal
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: https://github.com/Chriscooo/PolyCamTwinning
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys here's a document we're going to use for our upcoming mentor meetings https://docs.google.com/document/d/11JzwY_Jsw6RTi9ew_41VVvPWZV_nDRCnHKwwiaTSWyk/edit?usp=sharing
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Dang <@1152009686082658335> this is promising!
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: We'll need to address this next week.  It will have to be a "pop into HQ thing" because I'll have to study and learn the subscription model.  If I'm not free you can always cooridnate with <@1062863385798115349> - she cannot make the purchase but she can organize everything else.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: gotcha, sounds like a plan
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: What is lacking after some testing is that this is all the detail you will get with room scans, to make it more detailed for the final project we will need to do scans that include small object level quality but for the entire area or room. I will do some testing to figure out how much time that takes
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: looks excellent
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: nice!!
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Here is what is possible with 3 mins of scanning. 
+I’ve tested this measurement with a real tape measure. (I brought because I was curious how accurate it would be) and it was only 1 inch off.
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: <@686986285952270359> would you like me to talk to you about that today? Or once the free trial runs out?
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Awesome !
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: awesome idea! I'm excited to get started!
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@1152009686082658335> <@1163029733076910081> <@290979217556897792> AI Core will pay for your PolyCam subscriptions, fire them up!
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Hi <@&1254871480181723189> , listen up <@&1229907313436000256> and <@&1232060265428811847> here is the plan for the Visitor Center NPC AI project.  It is simple, straight-forward, and powerful.
+
+We will build a digital twin of a Tucson area attraction (probably either Colossal Cave or the Titan Missle Museum, but there are few other options) and make an experience people can explore at the Visitor's Center in XR.  We'll build a RAG database specializing in the lore and significance of the attraction and attach it to one of The Saguaros.  We'll insert the Cacti friend into the scene where it can interact with the user and the environment, all while powered by the RAG.  A digital guide and companion...   The Saguaros can power *many* attractions... this will be epic, and we can do it.
+
+It was a hard start today but we are on track for a fun build.  I'm working on buying a workstation or two for the office.  <@290979217556897792>  let's work to build a workflow so that team members can be productive in Apporto.  Work done in Apporto can be shared so that scenes are ultimately compiled and shipped to headset by any developer in the XR Lounge.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: sounds like a plan! thanks!
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Perfect, I have used GitHub a ton for my personal python projects. 
+
+<@290979217556897792> I have just tried poly cam at home (7day free trial) and it has been far superior than any others. I will be contacting Denisse about how she had access to poly cam and if we have a company account I could use.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: I can teach you guys to use git next time we meet
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: Edit : I may have fixed it but I'm not completely sure if everything necessary has / can be uploaded.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: Side Note : The Git repository is on hold until tomorrow, as I cannot upload files of the size I need.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: Hey there team! As talked about with Ash earlier (with the couple of you that were there). We're pivoting directions yet again to a new goal. As of now, Ash suggested we work in UE to get used to the systems - so the plan is to mostly just play around in there.
+
+We'll have Alex (as the only one with LIDAR) scan and import objects around the office into a Git repository, then the rest of you can import those into UE and place them around the digital office space (the point being to get used to UE). You can also import models from the internet if you would like. 
+
+Keep in mind at some point we still will be working on the Pima County Project, however it is no longer the central focus (due to various factors). At some point we will return to it. 
+
+Next, we will attempt to work with metahumans in UE, perhaps making copies of ourselves to import into the digital office space. We could (theoretically) create a multiplayer space in which we can all run around as ourselves in our digital office. 
+
+That's all I have for now, but please let me know if there are questions and I will answer them as best as I can, and / or ask Ash on your behalf. 🙂
+
+ID: 1247046451855495209
+Username: azura_may_03143
+Name: Maya T
+Message: Are we supposed to be having a team meeting now or later?
+
+ID: 1247227909681184910
+Username: kristopherriley_16712
+Name: Kristopher Riley
+Message: Setting up a meeting was a good idea. 
+I know we have team meetings tomorrow so I’m sure will have some directions moving forward.
+
+ID: 1152009686082658335
+Username: alex_to_the_m
+Name: Alex M
+Message: Currently what I know is that Chris works on Tuesday and Thursdays only. I have a meeting set up with him tomorrow to get to know him and the project. So as of now I do not know much more than that
+
+ID: 1247227909681184910
+Username: kristopherriley_16712
+Name: Kristopher Riley
+Message: Good morning, I signed up to work from 9-3pm today and recently was added to the visitor center project.
+Is there something I can start working on, or someone I should report to? 
+The office is pretty empty at the moment.
+
+ID: 290979217556897792
+Username: chriscoo
+Name: Chriscoo
+Message: Hey there team (assuming this is the right channel, if not oops), I wanted to let you all know my office hours so we can set up meetings in the future. I work (most of the time) from 10 to  6 on Tuesday and Thursday. Please reach out if you have questions before we start our work!
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 🌵 Pima County Visitor’s Center NPC AI
+
+This summer, AI Core teams up with tourism pros at Pima County’s Visitor’s Center to explore Animated AI Non-Player Character technology to tell the story of Tucson and Pima County.
+
+🧑‍💻 Join the Trello board for this project here: https://trello.com/b/lOrZvnqX/pima-county-visitor-center
+
+✋ If you're interested in being on this project team react to this message with  🥇 for first choice, 🥈 for second choice, or 🥉 for your third choice project!
+

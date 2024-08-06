@@ -1,3 +1,4 @@
+
 import discord
 from discord.ext import commands
 from dotenv import load_dotenv, find_dotenv
@@ -21,8 +22,13 @@ embeddings = OpenAIEmbeddings()
 chat = ChatOpenAI(temperature=0)
 
 # Define the prompt template
-prompt_template = """ You are role-playing as the "AI-Core Discord chatbot", an AI designed to provide comprehensive and accurate information for AI-CORE. 
-You will respond to users' queries about various aspects of AI-CORE's projects and members information based on txt files provided.
+prompt_template = """I'm an AI-Core Discord chatbot. 
+
+You are role-playing as the "AI-Core Discord chatbot", an AI designed to provide comprehensive and accurate information for AI-CORE. 
+You will respond to users' queries about various aspects of AI-CORE's projects and members information.
+
+## Refer to the .txt files for information. aicore_website.txt is information for the company. The other txt files include employee's id, name, username, and messages. 
+
 
 ## Introduction
 When started, give this information to users.

@@ -1,0 +1,1275 @@
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Yeah sure
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: That sounds like a good idea, and a demo video or during the discord session of the current capabilities would be great
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: <@&1254877766969462794> do you guys want to do a Discord session 5-6pm to get the presentation fully ready for tomorrow?
+
+The project is in great shape, I can do a demo of the current capabilities, I finished implementing the rest of the UI in this guide
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: This is what Julian implimented for us: https://www.youtube.com/watch?v=GZtwWT7n_Cs
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: https://youtu.be/-IzDYXhJg4M?si=jXrKWoDyJrs0wpIW
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: 
+
+ID: 762712951047454761
+Username: .gale_
+Name: nitegale_
+Message: 
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: 
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: https://youtu.be/0paJLbWPyyA?si=vkn6hxKdnTIR-53C
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: https://forums.unrealengine.com/t/blueprint-issues-with-scaling/298122/2
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: https://forums.unrealengine.com/t/how-to-get-world-position-of-the-hands-controllers/109518/4
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: https://www.canva.com/design/DAGLym1nFDs/Z4pK_gm8GReYaqqBtLv9jQ/edit?utm_content=DAGLym1nFDs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: 
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: **COGS 500: Computing for the Research Lab
+3-credit, asynchronous, iCourse - Fall 2024:** 
+
+1st 7.5 week session 08/26/2024-10/16/2024
+
+**Syllabus**: https://docs.google.com/document/d/1Qdd50THw6s8LmLz2o-Ci6Wxdm0XLtuxytDcRdQhVrWA/edit?usp=sharing
+
+Research labs need computationally competent students who can identify and solve hardware, network, and software problems. This course is ideal for students who would like to improve their abilities to contribute to research by enhancing their technical expertise. It provides fundamental concepts, vocabulary, advice, and experience, enabling students to be more confident, productive, and organized members of any research lab.
+
+Students with a broad range of backgrounds will benefit from COGS 500 and it does not assume you know anything about computers! This friendly, asynchronous, 3-credit, graduate-level iCourse offers plenty of hands-on experience and will empower you to handle topics like:
+
+- Best practices for organizing research files and directories
+- How to select the right computer hardware
+- Why the network is down, and how to troubleshoot it
+- Going beyond Excel (Relational databases, OpenRefine, Tableau)
+- Working with the Unix command line, 
+- Using and understanding Docker Containers, 
+- Introduction to programming: Python and Matlab
+- MATLAB and digital signal processing
+- And much more!
+
+No prerequisites….really!
+
+You can find the course in the Class Search: https://studentcenter.arizona.edu/app/ui/public/select-campus
+
+Main Campus: Subject COGS, Catalog Number 500
+
+This course can be counted towards the **Certificate in Neuroimaging Methods**: 
+https://cogsci.arizona.edu/programs/certificate and is a prerequisite for **Computing for Neuroimagers**.
+
+
+Contact Dianne Patterson, Ph.D ([dkp@arizona.edu](mailto:dkp@arizona.edu)) with any questions. Upper division undergraduates are welcome (there are some extra forms)
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: yes we got approval, lets all meet up at the xr lounge at 1130 and we can take the cattran from HSIB at 1142 to get to the main library
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: Did we get approved for the catalyst lab for today <@250945642543841291>
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: 
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: 
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: <@927744258528673842>
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: # TODO
+
+## Arrange a timeline of progress for the:
+- development slide and
+- implementation & timeline slides
+## Take screenshots of progress
+- Grey brain
+- Colored + translucent brain
+- Brain with 2 meshes (base brain + one mesh IC3_run_1)
+- Brain with 4 meshes (base brain + IC3_run_1_8, IC3_run_1_6, IC3_run_1_2)
+## Recordings
+- Brain falling through the floor
+- 0kg mass Brain floating away
+- Collision tossing the brain away
+
+ID: 762712951047454761
+Username: .gale_
+Name: nitegale_
+Message: Final Presentation Link: https://www.canva.com/design/DAGLym1nFDs/Z4pK_gm8GReYaqqBtLv9jQ/edit?utm_content=DAGLym1nFDs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 762712951047454761
+Username: .gale_
+Name: nitegale_
+Message: presentation template
+
+ID: 762712951047454761
+Username: .gale_
+Name: nitegale_
+Message: https://www.canva.com/design/DAGJET7gRsg/en9I-VFGzDr6bDKFaRJfzg/edit?utm_content=DAGJET7gRsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: https://youtu.be/qAHVNN6CHH4?si=6SzeK7Afpfn72n1O
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: Yeah I think that is right
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: It was where you changed the quality to 100. Threshold I change to the lower bound we wanted I think that's correct not sure tho.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: that's amazing, do share how you did this with the rest of the team
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: Region extraction: Another possible solution.  I have a tool that extracts a mean value for each region of interest in the brain.  Thus, a few different levels instead of true gradients.  These are choropleth-like visualizations: https://neuroimaging-core-docs.readthedocs.io/en/latest/pages/choropleths.html. and I can produce a NIfTI file of such values.  I've provided 2 example files in box, both based on IC3_run1: 
+ HO-CB_IC3_run1_0_stats.nii.gz retains all regions with positive stats values. https://arizona.box.com/s/lt25w9ayucfxh2do0ciafncp0erxxszc
+HO-CB_IC3_run1_1.3_stats.nii.gz retains only those positive values greater than or equal to t=1.3
+https://arizona.box.com/s/rz908x45jf9qhu0uct6heqxoci3gs8yo
+
+Gradients are prettier though ; )
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Think I figured out the gradient if you can't get the texture way working.
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: NSCS will be offer undergraduates access to COGS 500, COGS 510 and COGS 505: all neuroimaging classes.  I'm program coordinator, so let me know if you are intrigued.
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: I should have mentioned: The IC I gave you all is one of several interacting ICs, that all overlap and change.  Here's one of the relevant papers.  I guess, the point is, once you get the technical details of exporting gradients worked out (fingers crossed) then we COULD add considerably more detail and complexity....
+
+Finally, the IC number I gave you does not correspond nicely to the IC numbers reported in the paper (Comp 1 in the paper corresponds to the IC you've got).
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: https://youtu.be/u7JoDDYwvIg?si=6tO68VhO4X-6XbVA
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: https://www.youtube.com/watch?v=sPAPfQ1deuM&list=LL&index=4&ab_channel=LocoDev
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: https://www.youtube.com/watch?v=fsos3YV0Ajk&ab_channel=AdamBPC
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: https://www.youtube.com/watch?v=h14ph57kY-8&ab_channel=unrealmagic
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: https://www.youtube.com/watch?v=qpWhKjkS0KE&ab_channel=FragosoEntertainment
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: https://youtu.be/M6R_rLmxArs?si=rubTPEjP22PY47kz
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Did the invite work? Pls let me know if it's broken, I'll send another one
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: 
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Hey team, <@171307894388555776> <@513387725198589974> <@455931400991014913> <@910404454937923585> do you guys want to go to catalyst studios on 29/7/24 11:30 AM? (if we go on Monday way we can report to our design lab mentor Tuesday with Catalyst-specific updates)
+
+We have the go ahead from the folks at Catalyst for that entire week (except Tuesday, emails attached). We can work our usual 4 hour block at Catalyst that day if you prefer (we'll have to plan for that accordingly: bring appropriate hardware for testing). 
+
+Once we decide, I'll send a reply-all email with the verdict.
+
+I'm giving you guys these options:
+(a) Monday 29/7/24 11:30 AM - 3:30 PM - Vote for this with 📅 
+- (Work that day's whole shift at Catalyst)
+(b)  Monday 29/7/24 11:30 AM - 1:30 PM - Vote for this with ☀️
+- (Work 2 hours of that day's shift at Catalyst and come back for the last hour)
+(c) Wednesday 31/7/24 11:30 AM - 3:30 PM - Vote for this with ⛱️ 
+- (Alternative if people can't make it on Monday)
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: My bad, I forgot to attach your email 😅, I added it now. Please let me know if it hasn't shown up. I copied the invitation details here just in case the email invitation doesn't go through.
+
+|| Taoseef Aziz is inviting you to a scheduled Zoom meeting.
+
+This meeting was created in a non-BAA environment and is not intended for the discussion of healthcare, health education, or health data research. 
+
+Topic: Meeting with Scientific XR team and Dr. Dianne
+Time: Jul 17, 2024 02:30 PM Arizona
+
+Join Zoom Meeting
+https://arizona.zoom.us/j/85018803074
+
+One tap mobile
++16027530140,,85018803074# US (Phoenix)
++13462487799,,85018803074# US (Houston)
+
+Dial by your location
+        +1 602 753 0140 US (Phoenix)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 6833 US (San Jose)
+        +1 253 215 8782 US (Tacoma)
+        +1 312 626 6799 US (Chicago)
+        +1 646 876 9923 US (New York)
+        +1 301 715 8592 US (Washington DC)
+Meeting ID: 850 1880 3074
+Find your local number: https://arizona.zoom.us/u/kKpkAqnP7
+
+Join by SIP
+85018803074@zoomcrc.com
+
+Join by H.323
+162.255.37.11 (US West)
+162.255.36.11 (US East)
+115.114.131.7 (India Mumbai)
+115.114.115.7 (India Hyderabad)
+213.19.144.110 (Amsterdam Netherlands)
+213.244.140.110 (Germany)
+103.122.166.55 (Australia Sydney)
+103.122.167.55 (Australia Melbourne)
+149.137.40.110 (Singapore)
+64.211.144.160 (Brazil)
+159.124.132.243 (Mexico)
+159.124.168.213 (Canada Toronto)
+65.39.152.160 (Canada Vancouver)
+207.226.132.110 (Japan Tokyo)
+149.137.24.110 (Japan Osaka)
+Meeting ID: 850 1880 3074
+||
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: <@250945642543841291>  I don't see the Zoom link.  Could you send it to dkp@arizona.edu?
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Excellent, that sums up our talking points very concisely
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Thank you so much for being so supportive and enthusiastic. I created and sent a Zoom link to you and the Scientific XR team members for tomorrow 2:30 pm. 
+
+Also guys <@513387725198589974> <@455931400991014913> <@171307894388555776> <@910404454937923585> I rearranged our trello points and collected all of the talking points for Dr. Dianne in one card so we can just pull that up during our conversation.
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: Hi All,  I'd love to talk to you, but I'm fighting COVID right now, so I'm not at the top of my game.  That said, I'm supposed to have a Zoom meeting at 1pm tomorrow, so 2:30 might work out.  Let's go ahead and try.  Send me a zoom link.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Dr. Dianne, could we set up a zoom meeting you and us (the Scientific XR team). We have quite a few questions for you.
+
+Is 7/17/24 2:30 pm - 3:00 pm a good time for you?
+The whole team is available 7/17/24 11:30 am - 3:30 pm.
+
+<@997962712405524510>
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: ^today's whiteboard
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: 
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Here you can see functional mixed reality in UE5
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: 
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: https://developer.oculus.com/downloads/package/meta-xr-mr-utility-kit-upm/
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Whiteboard from yesterday for reference before i erase it
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Thanks Taoseef
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: I have it
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Hey Taoseef I don’t have the pin for the other desktop
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Im dming you
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: <@250945642543841291> there’s a pin on one of the xr dev computers, do you know it?
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Ya I think once we figure out the pass though setting it should work.
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: https://youtu.be/8bNBgoL6TGA?si=S88szxaONqMdEB_z
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Devin and David daily report. Figured out how to get the brain activity into obj files. Also attached those files to the brain mesh in ue5. Figured how to view these files with the meta quest in vr. Worked on getting it to transfer to ar but no luck on that end today.
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Kyle & Maryam Daily Report: Figured out how to use Blender to reduce the polygon count in order to eliminate lag. We found that setting the ratio to 0.850 on decimate geometry was optimal to keep detail high and lag at a minimum. Additionally, we found out how to edit graphic preferences in MetaQuest. Set up Unreal Engine for an AR setting, but have not had success in getting it to run. Plug-ins were enabled, however, we discovered that the video we were using to guide us was designed to set up AR via a mobile app, where as we want MetaQuest. More research is needed to continue with the project
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: These are great questions. Both look healthy to me. The brain on the left has probably retained CSF, which fills in all the sulci (valleys).  I'm betting this was a volume, rather than a surface, and was saved as a surface, without any further cleanup. 
+
+The one on the right, I think, is already a cleaned up surface, so they made sure it looked nice and you could see into all the sulci.  So, surfice offers you several nice clean looking surfaces like this. They are all "standard brains", meaning  an average of many brains, typically all normal young adults....so it doesn't represent a single real person.  Because it is a standard average brain, it may not make sense to ask if it is healthy.
+
+Interestingly, sulci are bigger and more pronounced in aging brains because the tissue shrinks, leaving more and more fluid.  This means it is easier to clean up an elderly brain and get a nice "look".
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: https://youtu.be/5DA0ILJIGLY?feature=shared
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: https://youtu.be/rgOi_RjmMJs?si=lCqXWUvWtTknOdZL
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: We’re in the XR Devs office
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: I'm in 643
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Pardon the crappy audio, here's the quick rundown of the meta XR plugin and deploying to the Quest 3. Take note of the deployment steps.
+
+Watch this first thing once you guys get here, since the target tomorrow is to get every one of you guys to deploy the template project to the Quest 3 tomorrow. 
+
+I haven't made Trello entries for the video since I just did one video instead of the two (so just make sure to watch the one video, no Trello tracking involved). I didn't make the second one which I thought I would make on the conversion from .nii->.fbx since there are quite a few ways to achieve that for the base brain, (I'll live demo 2 ways tomorrow and we can select which one we want to commit to) and we still haven't figured out how to convert the IC (overlay) files. 
+
+https://www.youtube.com/watch?v=S07x5-bvfNc
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: its not up yet, ill have it up tonight and ping you guys
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: Hey so is it just that one video posted in the Trello board that we have to watch by tomorrow?
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: Are one of these brains healthier than the other
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: the new asset was saved as an stl file through meshlab and then as an fbx file through blender
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: The difference between the old and new brain asset when uploaded into UE5 is monumental
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: I know how to use the EDC printers but I'm not too sure about the library ones.
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: It was my own.
+
+ID: 1261030855963447329
+Username: aicorexr_36927
+Name: AiCoreXRLab
+Message: <@171307894388555776> Hey 
+
+Do you have a 3d printer or did you use the main library to print the brain?
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: Nice!  Now you have to figure out how to paint the IC blobs onto it.  Chris Rorden, who wrote Surfice, might be willing to help if you were to write to him and describe the project.  Obviously he's done it, at some level, in surfice.  The ICs are statistical images, just like the motor overlay.
+
+ID: 762712951047454761
+Username: .gale_
+Name: nitegale_
+Message: https://docs.google.com/document/d/1ml9s6ht_BEIUHUHNRqTLZAH9ps_5_HDlJOiDPYiKJXA/edit
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: maryamheydarifar@arziona.edu
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Djt1@arizona.edu
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: dcruzegevorkiani@arizona.edu
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: kylebecerril@arizona.edu
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Awesome high fidelity base brain by the way, this is way higher poly than all of our previous attempts, great stuff!
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Oh, I think I misunderstood thinking that this was just an IC3 file converted to OBJ. It looks like I must have the base brain before loading any of the IC3 files. I thought we could just get OBJ files out of standalone IC3 files that we could retexture once in UE5
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: This is "BrainMesh_ICBM152.lh.mz3" (from the BrainNet samples folder) with 'motor_4t95vol.nii.gz' overlaid with different min/max ranges. 
+I've saved them into .OBJ files and then converted them into .FBX for UE5 using fusion360. I suppose my approach is flawed as the going to .OBJ loses all color information from the overlay?
+The grey images are from loading the final .fbx files in UE5, the green images are from fusion360.
+
+Maybe I just need to understand the encoding for each of the file formats and look at one which can encode the information from the overlaid scans.
+
+I'm also not sure if threshold is what we need to worry about or how that is supposed to help in this instance since I think I'm losing color info going from .nii->.obj
+
+Maybe it could be helpful if we could meet and whiteboard some ideas out after I familiarize myself with at least .nii, .obj and .fbx encodings
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: https://www.nitrc.org/forum/forum.php?set=custom&forum_id=6713&style=flat&max_rows=75
+RE: Surf Ice Overlap HELP
+You can overlay a statistical map in two ways, as described in the manual
+ https://www.nitrc.org/plugins/mwiki/index.php/surfice:MainPage#Overlay_a_normalized_SPM_or_FSL_statistical_map
+you can load an isosurface mesh, for example the motor_4t95mesh.mz3 that is included with the software. This has only one brightness defined with it, which was set when the mesh was created (e.g. with Advanced/ConvertVoxelwiseToMesh). The other option is to paint your background image with an overlay, for example adding the example image 'motor_4t95vol.nii.gz'. In this case you should be able to adjust the threshold levels. I can not replicate your problem, but I wonder if your image was pre-thresholded. Can you try loading the "BrainMesh_ICBM152Left.mz3" with File/Open and then loading 'motor_4t95vol.nii.gz' with overlay/add. Then try adjusting the min/max levels in the overlay window. Once you change the min or max value, hit the return key to apply the new threshold. This should help you troubleshoot how the software works. It might be worth examining your intended overlay image image MRIcroGL to check it is normalized to a standard template.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Thank you so much for helping us work through the tools/techniques and terminology
+
+I think even with the low poly .OBJ we can get the idea across for approximate locations of brain activity and use these as a starting point to get an XR demo up and running.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Ok this is awesome, I think this is exactly the direction in which we want to go. I can try this with quality flags/parameters maxxed out with nii2mesh to see if we can get a higher fidelity mesh out of just the IC files alone. We can then import them into UE5 as separate 3d meshes that we can color/texture and overlay onto the base brain
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: We have used both Surfice and Mango to view the base brain + a few of the IC files. But our challenge is to be able to get it to look like the view in Surfice/Mango in UE5
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: I just tried the surfice convert voxelwise data to mesh, and it makes a set of binary blobs (I chose OBJ)...not very satisfying
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: example
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: I'm not sure what surfice is doing behind the scenes, but surfice lets you load a nice anatomical brain surface and then drag the IC on top of it to display that gradient on the surface.  Surfice even has some overlay examples you can just open up on the surface.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: If we could, however, get a mesh out of an individual IC3_run1.nii.gz file, we could texture/color it independently and position it in 3D space (and overlay it on top of the basic brain) in UE5, but that approach produced no mesh unfortunately.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: I guess STL is not a good fit for overlaying each of the IC files since STL only encodes geometry information without color/texture. 
+
+We also tried simply loading IC3_run1.nii.gz into mango, build surface --> .vtk and viewed it in fusion360 before converting to .fbx. But that gave us a hollow cube with no mesh. So that's where we are currently stuck.
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: I just saw that utility myself! It is by the same guy that wrote surfice (Chris Rorden).  The original IC file I provided was just a 3D NIfTI file in standard space.  It is not so much a pretty brain, as it is a statistical image with gradient values representing the relative presence or absence of that component.  Surfice, of course, lets you display the ICs on top of a nice standard brain, and then even build a little animation, like one where IC3_run1 morphs and merges into IC3_run2 and then IC3_run3 etc.  What this illustrates s how the brain's activity is changing as it learns from one run to the next.
+
+I'm hoping maybe this context helps...as maybe it was lost over the months?
+
+I'm ignorant, but thinking STL isn't good for handling gradients??
+
+I notice the nii2mesh examples are for anatomical data, which easily becomes a surface because it doesn't have to represent a continuous gradient of activity.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Also, when it comes to the IC3_run1_video.webm video file that you guys shared, did you use this  "niitomesh" utility as found on this github repo to achieve the .stl file loaded into the video? I'm guessing from the file title on the blender window from the  "IC3_run1_video.webm" video shared on box. 
+
+Would there be any advantage to use that utility (in terms of fidelity or anything else)? We can work with .stl since we can get that to .fbx easily with blendere/fusion360 (we used fusion360 today).
+
+https://github.com/neurolabusc/nii2mesh?tab=readme-ov-file
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: I'm doing a little reading.  I see why you use fbx!  It seems like a really versatile format.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: I suppose we can import a .stl to blender and export as .fbx. Unreal Engine 5 wants one of these formats for 3d assets:  .fbx/.gltf/.glb
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: I think the thing we struggled with today was getting the base brain + an overlay (MNI152_T1_2mm_brain.nii.gz + IC3_run1.nii.gz) to show up on UE5 (so we would have the brain activity heatmap on the combined mesh) but I suppose the IC3_run1.nii.gz + MNI152_T1_2mm_brain.nii.gz is just the same mesh as the base brain as we're dealing with untextured meshes if we try to export from mango
+
+I'm trying out your suggestion with segmentation->export. I suppose a key struggle of ours is simply understanding the .nii format itself and segmentation
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: Can you convert something like STL (one of the few non-neuroimaging 3D formats I'm familiar with), to the kinds of meshes you want?  I'm not familiar with fbx.
+
+ID: 997962712405524510
+Username: diannepatterson
+Name: Dianne
+Message: I'm surprised you had that much success with mango.  I would have tried itk-snap which is more surface-aware.  It requires that the image you export is already a binary mask.  But then, for example: Segmentation → Export as surface mesh→ STL Mesh file.  Note that surfice provides some surface format images AND that under "Advanced" Surfice offers the option to export voxelwise volumes to surfaces (I have not done this, but it seems promising).  
+
+Thank you, all of you, for playing with this data!
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: 
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Some notes from today <@&1254877766969462794> , I'll also dump 1hr worth of content on the google doc (text descriptions + video tutorials maybe?) of our pipeline of going from .nii -> .fbx because there are some details we need to figure out whether we can get higher poly outpus (fusion360 parameters for repair+remesh: opacity, density, vertex thresholds... mango create surface parameters etc)
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Team <@&1254877766969462794> excellent work this week, keep on! 💪
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Hi Scientific XR, meet me at the XR room once you get to HSIB, we want to work at the XR room instead of 677 moving forward
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: So far we have only gotten at most two people into a multi user session with Hamachi. I don't know if this is a limitation of the Hamachi approach or something else.  Have you been able to get >2 people in at once?
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: See if this works for y'all too.
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: 
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: You can probably do all that on blender I just don't use it as much as I do fusion.
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Well first thing I did was get Mango to open the .nii files. Then using that I had it create a surface for the model. Then exported that as a vtx file. Using imagetostl.com I converted the .vtk to .stl which is readable by fusion. On fusion I went to mesh then repair. Repair type wrap then just hit okay should have a mesh around your model now. If you want a higher detailed mesh just hit repair again. Rebuild and just set your density to max. After all that save then just file export as a .fbx through fusion.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Devin pls share how you got the 3D files to load into fusion 360, and any conversions of file formats involved in the process. Share the file format that you got to load in fusion360, and whether or not we have a format that is UE5 friendly. Awesome work all of you guys
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: I will drop off the hotspot around 4 PM today:)
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: By the end of the poking around with each of the utility programs (don't spend more than 1/2 hours on that) that Dianne and Kyli shared with us in the boxnote readme, we should be able to either say utility program A doesn't work, B doesn't work, C doesn't work but D works and we're going to ditch working with A,B, C and keep working with D. Pls share your verdicts on each of the utility programs you guys are poking around with by the end of today's work session <@&1254877766969462794>. 
+
+I'll probably share some articles/videos on .nii files (the file format itself and segmentation) and google doc notes on how I set up the new XR workstation PC so you guys can orient yourself to where we're storing files, how we're sharing and what each utility program is for in the toolchain of XR development. (~30 minutes of your time)
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@&1254877766969462794> Here's a free UE5 plugin that might make for progress on 'gestures' (which could greatly simplify UI design): Search for "MiVRy 3D Gesture Recognition" on the UE5 Marketplace and it should come up...
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: I have Julian's 5.4 source build files ~230 gigs copied over already which allows us to avoid the Github forking and cloning issue that we were facing:  internet (even plugged in ethernet with a static IPV4 address) seems to be disconnecting and reconnecting during the Github clone process for the large repository.
+
+I got multi-user editing working using a mobile hotspot from my phone. Both the physical machines running Unreal need to be on the same access point for it to work; the client-server connection for multi-user editing fails if either of those machines are hosting the mobile hotspot. A workaround to avoid using a phone as a mobile hotspot is using Hamachi to create a virtual network, I believe Denisse and team were successful with getting multi-user editing working using Hamachi with the minor downside of being limited to 5 devices connecting to the virtual access point (I think we have <=5 people per XR team anyways) Maryam is bringing in a portable hotspot from the main library that we can experiment with and see if that has any upsides to using that over Hamachi. 
+
+I'm getting the environment set up on the new workstation so it's accessible to all XR teams and documenting how I'm configuring the workstation (UE5, android studio, Meta quest dev programs, etc, copying the 5.4 source build files from my machine over LAN) I'm also following along the guide you linked. We should have a .apk build for produced by the new workstation for the Quest 3 by EOD today.
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: We’re in Room 677
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: So after some testing and research on Surf Ice, it seems that it is only capable of adding overlays to the brain it has, rather than allowing me to use our brain scan as a base model.
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Maryam and I will be at AI Core at 9
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: To answer A and B, yes I believe we are all set on file sharing and I believe <@250945642543841291> was able to get multi-user editing to work. Also <@250945642543841291> I am still having problems getting Surf Ice to export files
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@&1254877766969462794> Wow, A-Level team work here! Love the communication.  A) are we all good on file sharing now? B) Any progress on the multi-user editing front? I've been unsuccessful with this in the past.  C) Does <@171307894388555776> 's technique for importing the brain data into UE5 work for all of the files we received from <@997962712405524510> and <@736753071945678881> ? If it does, that's huge progress and we should start to think UI.  Several of us have discussed that while NANO 2020 was a cool starting point we could be much better off building new in a proper XR direction (as opposed to the VR experience that NANO 2020 was built for).  Most likely that means breaking out Meta's XR API for Mixed Reality... https://developer.oculus.com/documentation/unreal/unreal-engine/ - When last investigated <@1246596594841944116> determined that Meta's approach requires a source build of UE5 with the Meta Plugin natively built into their version of the engine.  Please consider this as you look into it.
+
+Nice work see you at the shop!
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: I'm pinging you <@525162442603364355> since task delegation is a pain point for both of us, and <@864537084790177813> since you are a pro at this (plz provide feedback if anything jumps out).
+
+The team and our design lab mentor has been fantastic and refreshingly frank about how we delegate tasks. Here is how we started keeping track of things: tasks are individualized and each task has its own deadline. We're using 1 card for each week.
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: okay, good to know
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: I know we can color it with textures and just a photo but I'm so sure about the inside. Mango had a cool temp feature. Idk how that might work with ue5 though.
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: out of curiosity, is there a way to add complex details and color? I’m pretty sure that it’s possible only because for some reason it showed up that way on my end when working in 3d slicer, I don’t know how exactly
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: good thing too, I couldn’t figure out 3d slicer
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: no way, that’s awesome!
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: 
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: finally got it to work with fusionn 360
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: 
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: We're getting a new desktop (today) and a laptop soon. We currently have the alienware and my personal desktop (which the new 4060ti desktop is replacing)
+
+Here is our schedule for the Scientific XR Team. We already have meeting blocks (the yellow blocks are when We're all in person) 
+
+We need to figure out how we're going to share the XR room resources. We plan to spill out a little bit. We should communicate (today since were here) how we're going to share the systems <@&1232060265428811847>
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Devin managed to do .nii.gz ->.stl (with mango) and .stl->.fbx using an online converter. This is what it currently looks in UE5
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: ```No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+ImageToStl_com_mni152_t1_2mm_brain has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+ImageToStl_com_mni152_t1_2mm_brain has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) ```
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: 
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: 
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: I'm on my desktop if anyone wants to try
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Other than that i think ive figured out how to connect just need another desktop to test it out. Hopefully they dont have to be on the same network.
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Ya I don't think apporto works i couldn't even get it to open a server session. We will probably have to work on it separately and just import our files to the work station in the xrdevs room.  Or well probaly have to use our desktops.
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: dcruzegevorkiani@arizona.edu
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: Scientific XR
+
+Monday- 11:30-3:30
+Tuesday - 9-1
+Wednesday 11:30-3:30 
+Thursday- NO WORK
+Friday- 10-11
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: <@686986285952270359> should we meet at HQ for the check in?
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: We are in the XR Devs room
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: We want 5.3, since that's the version everybody is on
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: 
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: theres a dropdown tab where you can change which version the guide is for
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Is that only for 4.27? Is it the same for 5.4?
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: https://docs.unrealengine.com/4.27/en-US/ProductionPipelines/MultiUserEditing/QuickStart/
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: For anyone else who is here we are in Rm 643
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Yep figured it out
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Content drawer then just import I can explain more if needed
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Hey <@171307894388555776> how did you import the files into  UE5?
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: <@&1254877766969462794> I reorganized the box folder, moved google drive zip files to Box. We should only use box from now on to centralize all files to simplify storage and sharing, you guys can just bookmark the box folder and you'll find all the files the team is using within that folder so you won't have to go back and forth between Google drive and Box. 
+(NOTE: We're no longer using google drive for file sharing at all!!!)
+
+https://docs.google.com/document/d/1ml9s6ht_BEIUHUHNRqTLZAH9ps_5_HDlJOiDPYiKJXA/edit?usp=sharing
+
+Please take a look at the google doc entry that I added for 7/3/24 with bullet points of what we did today as a quick log so you guys (and myself) can keep all the relevant tools and resources straight in our heads.
+
+Feel free to add stuff to the Completed/Todo sections and have a great weekend!
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Try and see if you guys have read access on this zip file on box
+
+https://arizona.box.com/s/tlk3aqj8qakqucq0ikvdi39wpj060tvb
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: You're good, thanks for lending it to us, we're definitely not playing beatsaber on gamenight on it
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Forgot to say my controllers need double a's I'll bring some next time I'm in
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Djt1@arizona.edu
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: kylebecerril@arizona.edu
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: maryamheydarifar@arizona.edu
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: How about share your arizona emails here and I'll try to add you guys to the box folders?
+
+Might be better this way in case there are changes to the folder contents by the author
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Thank you
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Ok Ill download and reshare the files with you guys hold on
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: I cannot either
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: I cannot access the box for Scientific XR
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: I'm also going to bring in my desktop computer tomorrow to sub in for Julian's desktop. Devin is bringing his Quest 2. I'm hopefully going to have the PC setup by our 12pm meeting time so we can establish a workflow and collaboration setup.
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: <@&1232060265428811847> It might be worth looking into how we can collaborate on the building process the UE5 projects. The idea right now is to run the UE5 editor on our local machines and then export that to run on beefy workstation at the XR room.
+https://dev.epicgames.com/community/learning/tutorials/7Jx6/collaborating-with-multi-user-editing-in-unreal-engine
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Quick update <@&1254877766969462794>: this is the box folder of relevant fMRI scan files, ignore the google drive link I sent earlier.
+https://arizona.box.com/s/zoz820ec80rgg4fl64yg2l597d8m9bg6
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: <@&1254877766969462794> So the current step for us is:
+looking at the fmri scan files and seeing how we can port the files into UE5 assets. 
+Check the files on the google drive (link on google doc)
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Thanks!
+
+ID: 762712951047454761
+Username: .gale_
+Name: nitegale_
+Message: Yea of course, the shared google doc link is something I made with meeting notes, goals, project information and updates etc!
+
+ID: 762712951047454761
+Username: .gale_
+Name: nitegale_
+Message: https://docs.google.com/document/d/1ml9s6ht_BEIUHUHNRqTLZAH9ps_5_HDlJOiDPYiKJXA/edit?usp=sharing
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: If you’re able to team, it would be helpful if you gave a little summary of what you achieved each day, just so I can review this weekend when I get back to Tucson and be fully prepared for work on Monday
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: We're back in 643 <@455931400991014913>
+
+ID: 250945642543841291
+Username: taoseef
+Name: Taoseef
+Message: Here's a quick google doc to stay on the same page with the steps for the Quest setup
+https://docs.google.com/document/d/1DKEwyxMsqLafJru43MZLHvIabQXDR0nq_1cI2QFA6BI/edit?usp=sharing
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Also <@171307894388555776> we are in room 643
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Whenever you’re available at the office, I will go get it
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@&1254877766969462794> I have the NANO 2020 build (on flash drive) with me and whoever is on shift can grab it from me today.  The first thing to do is to get this application to run in the Unity game engine so that it can be experienced.  <@1246596594841944116> was able to do this in early June but this team will need to retrace those steps.  Once the crew understands how to load and experience NANO 2020 we can have a review of it and then determine next steps for XR development based on what this experience proves is possible.  See you at the shop.
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: I will do that
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: We spoke to Ash about it, so coordinate it with him
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Excellent, I will work on getting the original
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Alright <@513387725198589974> we were able to do some blueprinting work and got a little start on the NANO 2020 aspect, as we were all able to program UE5 to allow us to shrink and grow an actor at the press of a button. We do still need to get access to the original NANO 2020 to have a better feel for it, but we made good progress
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: You can just send her a discord message and she should give you access
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Okay, or should I ask when I get back?
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Okay I lied its not letting me add you. Message Shalon and she should be able to give you access
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: dcruzegevorkiani@arizona.edu
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: oh perfect
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: yeah I can explain nano 2020 better when I get back, but it seems like you got a grasp on it
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Also I can send you the access to Trello but I need your email
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Nvm we figured it out
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Hey <@513387725198589974> any idea what NANO 2020 is?
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Got into the Trello
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: 
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: 677
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Yeah we're here
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Are yall still here or no?
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: Okay cool was about to ask
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: For whoever else is coming to AI Core, we are in room 677
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Same here. Still nothing
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Right, interesting, I did sign up with my school email
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Shalon said to sign up using our school emails, but still have to wait for the approval to get access to it
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Thank you!
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Yeah I'll as when some more people show up
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Or you could ask someone while you are there, if possible
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Okay, just wondering, I’m sure it’ll go through soon
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: No, haven't gotten access to that either as far as I know
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Also has anyone else been able to join the trello board? my request was sent, but it’s been a minute
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Alright
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: I think that going over some more unreal engine tutorials would be beneficial, especially those pertaining to blueprints
+
+ID: 513387725198589974
+Username: picklespug
+Name: David
+Message: Excellent, I’m on vacation now but I can give you a brief overview of what I’ve been doing
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Maryam and I are in the topics for AI voice chat if anyone wants to pop in. We're at AI Core
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Alright <@513387725198589974> what did you want us to do for today since you’re out of town?
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Alright we can work with that I think
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: I can make tuesday I just have class till 1130 on Monday other than that it works for me
+
+ID: 455931400991014913
+Username: ferdelance2948
+Name: B0n3cRuSh3r
+Message: Okay so for next week we could meet 9-2 on Monday and Tuesday and Wednesday from 12-3 if that works for everyone? After that we could do morning meetings?
+
+ID: 171307894388555776
+Username: naggingsun7
+Name: Naggingsun7
+Message: I'm here usually Monday at 1130 till like 5 and Tuesday 9 to 3
+
+ID: 910404454937923585
+Username: maryam_87755
+Name: Maryam_87755
+Message: <@171307894388555776> Hey Devin we’re trying to figure out what days and times we could meet
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 🧠 Scientific XR Visualization Platform
+
+With our partners at CATalyst Studios Main Libraries this game dev team is authoring an XR platform for the visualization of UArizona scientific data. This summer: explore the inner topology of the human neural network as revealed in FRMI brain scan data come to life in stunning virtual reality!
+
+🧑‍💻 Join the Trello board for this project here: https://trello.com/b/zE1nm3WO/scientific-xr
+
+✋ If you're interested in being on this project team react to this message with  🥇 for first choice, 🥈 for second choice, or 🥉 for your third choice project!
+

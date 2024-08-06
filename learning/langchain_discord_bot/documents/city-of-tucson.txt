@@ -1,0 +1,1296 @@
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: yes, id say focus on integrating a RAG system to get responses with the data we have currently.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: I dont think it'll make too much of a difference, if it does we'll be able to pass it into chatgpt later on anyway which will reformat the whole thing so don't stress it
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: And it occasionally missed a few of 'global name' in the latest messages. The old messages look fine.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Perfect!
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: 
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: found it. it was 'global_name'.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: For getting the author name maybe try message.author.display_name
+or
+message.author.name
+or message.author
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Looks great!
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: 
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: `747494247766163596,ehsan_zoha,```An LLM-powered Discord bot that provides users with accurate and responsive information about AI Core, leveraging natural language understanding and RAG (Retrieval-Augmented Generation) techniques to process contextual data from prior Discord messages, the website, and the marketing team. The bot's scalable architecture ensures seamless integration within our team's Discord channel and can be adapted for use by other teams and companies. This bot enhances user engagement, collaboration, and support within the AI Core community and beyond.```
+747494247766163596,ehsan_zoha,join the bench vc
+1078167503852797962,christianarancon,I’m here gang
+407627908761387019,jacksongrove,Let's all meet 11-12. `
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: author_id, username, and msgs order. Any feedback before pushing it to github?
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: ```An LLM-powered Discord bot that provides users with accurate and responsive information about AI Core, leveraging natural language understanding and RAG (Retrieval-Augmented Generation) techniques to process contextual data from prior Discord messages, the website, and the marketing team. The bot's scalable architecture ensures seamless integration within our team's Discord channel and can be adapted for use by other teams and companies. This bot enhances user engagement, collaboration, and support within the AI Core community and beyond.```
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: join the bench vc
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: I’m here gang
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Let's all meet 11-12. 
+
+Keep up the great work and try to get as much done beforehand as you can. This will be an opportunity to see how things are fitting together and if we need to pivot at all before development ends on tuesday
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Ok no worries, just hop on call at 11 if you can then
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: I’ll be out most of the day
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: I'm pretty flexible tomorrow.
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: I’m pretty flexible.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: That's fine. Is there a better time later that day where you think you'd be able to come in or are you working most of the day?
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: I might be able to hop on a call as I work a different job on thursdays.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Also <@&1253746683632943206> are we able to meet Thursday 11-12 as a final full-team check in before the weekend?
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: Ok. will be there around 1:30
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Great work on this so far tho!
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: I would just be cautious of the names and usernames getting lost in the messages so just make sure they're formatted to be easily visible (maybe author, username, msg or author, username, \n, msg)
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: I think as long as its clear and chatgpt will understand anything's ok
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Yeah sure however you want to do it
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: Got it. So print like  "msg, author, username"
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: I’ll be at the office around 12
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: After that let's pass it into chatgpt to map each person's name to a description of their personality/things about them in csv format. Chatgpt should be able to handle this once you get the names alongside the messages in your scraping
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: A txt file should work for the messages, I think revising your scraping approach so you can see who is sending each message (if I remember correctly it's message.author.name)
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: And mentors, this is our PT slide draft. Feel free to add comments or edit it. (need to sign up first, though)
+https://gamma.app/docs/lsivzi7rrcl5o4f?following_id=u2diq42oxebc427&follow_on_start=true
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: <@1247196149601796229> <@1078167503852797962> Can we meet a bit earlier than 2:30 to review and update the feedback we received yesterday before the meeting?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Awesome!
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: I scraped all the previous messages in this channel and saved them as a .txt file. Our plan is to provide it to our Discord bot's GPT prompt? or will it be integrated into a LangGraph architecture later? In this case, what the result should look like?
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: 
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: Hey guys, i’ll be back on monday, tuesday, and for the presentation. Im excited to see the progress you guys made!
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: If the architecture code is giving errors let me know, I can help debug
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: https://docs.google.com/document/d/10VL-CXSLf_W0ldznOvrDV2Ym4UPoT61v8qcOrbRTSbs/edit
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: And that's ok, we'll be hanging out until Zoha gets here too
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Feel free to just join the bench
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: should we join a breakout room, we're just waiting for one more person
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Feel free to add me on one of the laptops
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Hey <@&1253746683632943206> if you all wanted to grab a room if you're not in one already we can get things started for today's meeting
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Reminder: Presentations are due on Tuesday. Most of it should be completed. Then we can work together and make adjustments.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Awesome looks great! Just merged it with our main branch
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: I added LangChain Discord Chatbot into my local branch. Feel free to try it.
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: `git reset --soft HEAD~`
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: https://discord.gg/xVPErZcg
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: `SECRET_KEY_REPLACED`
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: `install Certificate.command`
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: ```sh
+rm -rf city-of-tucson-ai-core
+```
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: ```sh
+git clone https://github.com/jacksongrove/city-of-tucson-ai-core.git
+cd city-of-tucson-ai-core/
+```
+
+ID: 194598193114251264
+Username: specify_
+Name: specify_
+Message: `git branch -v -a`
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: By guys
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Ok
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: STEPS TO USE GIT AND GITHUB
+**To get repo on your computer:**git clone <link-to-repo>
+**Move to your branch:** git checkout <branch-name-which-is-your-first-name>
+**Check what branch you're in: **git branch
+
+this is where you write your code and change all files you need and when you are done...
+
+**To add files to staging:** git add .
+**Add commit message:** git commit -m "<your-message-here>"
+**Upload to github: **git push
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://github.com/jacksongrove/city-of-tucson-ai-core.git
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://git-scm.com/download/mac
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Christianarancon@arizona.edu
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: seulgichung@arizona.edu
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: arceh@arizona.edu
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: source .venv/bin/activate
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: python get-pip.py
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Seulgi can you hear? Or speak?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Try closing discord and rejoining
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Oh no
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: This thing turned off on its own
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: My screen just went black
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Yeah black screen
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://www.python.org/downloads/
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: python get-pip.py
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Hey I’m here but I’ll have to stay muted
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Sounds good
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Something came up so I will have to be remote in the meeting. But I can still join and listen
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Here is the link to the canvas template you guys will be using. (You guys can change the template) Can edit it to your liking as a team. https://www.canva.com/design/DAGL0PeXFIY/xAKA07f_DuZHTy4EBvP5zA/edit?utm_content=DAGL0PeXFIY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton Make sure to use the other one that Lucy created for us as an example. I'm not sure yet what we are calling this project but we will figure that out shortly for now focus on what to add etc. on the presentation and we can name it later.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Send me an update if you guys end up getting it to work! Let's plan to meet tomorrow at 11-12 and hash out some next steps
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Good luck everyone, let me know if you need anything
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Awesome
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: ok, we will try our best
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: it can just be a simple openai call, not too complicated. But talking to chatgpt through discord would be a really great stopping point for today if you guys can get to there
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: we watched this tutorial. 
+https://www.youtube.com/watch?v=UYJDKSah-Ww
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Try to get it integrated with a singular langgraph node if you can
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: before we go, what function or feature could we try to get the chatbot doing?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Let me know if anything comes up
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Let's check in then!
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Perfect sounds great
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: We can meet tommorow on zoom at 11 or 11:30
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: I think we are fine on our own so far.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Thats amazing u got one up tho. Super fast!
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Up to you guys
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Did you guys want to meet and work through it? It sounds like you're making progress on your own so I won't interfere if that's the case
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: I got a js one working but had to trash it since it wasn't python
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Oh awesome
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: We are watching some tutorials on getting a code for a discord bot
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Hey <@&1253746683632943206> how's it coming along?
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: https://www.canva.com/design/DAGJET7gRsg/en9I-VFGzDr6bDKFaRJfzg/edit?utm_content=DAGJET7gRsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Here is the (example) template. Make it your own presentation as a team and don't use this template in your presentation. It's only to be used as an example. Since we're still working on the project itself, you guys can get started on the Canva and putting things together tomorrow. Due next week Tuesday.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: This is a great resource for langgraph demos too
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://discordpy.readthedocs.io/en/stable/api.html
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Yes, we can figure out some specifics for the project then and set some action items for the week
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: There's alot of talk right now and some of us were wondering.
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: <@407627908761387019> Just following up that we are still meeting at 1pm today?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Rachelle will lead the 9-11 meeting, I'll be there later at 1 with you guys
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: <@&1253746683632943206> I’m sick and unfortunately I won’t be coming to office today. However, Jackson and Rachelle will be there and lead the sessions.
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: I’m running a little bit late guys, but I’ll be there at 9:05
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Actually <@&1253746683632943206> still come in at 9 to stay consistent with the schedules we set
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Yes the 9-11 meeting will be cancelled (moved to 1-2) but still come in at 9
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Does this mean we don’t have to come in at 9?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Awesome I'll see you guys then
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Is everyone available from 1-2pm?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Hey <@&1253746683632943206> I know we have a stand up meeting tomorrow 9-11 but let's push it back to later in the day, I have some things I want to introduce to you
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Let me know if it continues to be a problem and I can check things out too
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Oh nice! Yeah they can be tricky, I've found there's a bunch of different ways to do conditional edges that sometimes conflict with each other (so finding compatible documentation is sometimes hard)
+
+Heres some code I got working if you need some inspiration https://github.com/langchain-ai/langgraph/blob/main/examples/agent_executor/base.ipynb
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: Im trying to add a conditional edge that would check if the question is relevant to the context. If it is the workflow would work as normal, where if its not relevant it wont access the tools and act as a regular llm. Still having trouble with this conditional edge though
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: This is great! If anyone else has success with something similar they built this week please share
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: <@1247196149601796229> are you coming?
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: We’re here
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: We added a new agent to provide dress tips following the current weather data!
+
+```
+Output from node 'user_query':
+---
+What can you tell me about Tucson?
+
+---
+
+Output from node 'gpt_response':
+---
+Tucson
+
+---
+
+Output from node 'weather_data':
+---
+In Tucson, the current weather is as follows:
+Detailed status: clear sky
+Wind speed: 5.14 m/s, direction: 340°
+Humidity: 33%
+Temperature: 
+  - Current: 35.39°C
+  - High: 36.79°C
+  - Low: 34.09°C
+  - Feels like: 35.95°C
+Rain: {}
+Heat index: None
+Cloud cover: 0%
+
+---
+
+Output from node 'dress_info':
+---
+1. Wear light and breathable clothing to stay cool in the high temperatures. Opt for loose-fitting, light-colored clothes to help reflect the sun's rays.
+2. Consider wearing a hat and sunglasses to protect your face and eyes from the sun.
+3. Apply sunscreen with a high SPF to protect your skin from sunburn.
+4. Stay hydrated by drinking plenty of water throughout the day.
+5. Avoid strenuous outdoor activities during the hottest part of the day, typically between 10am and 4pm.
+6. If you plan on being outside for an extended period of time, bring a portable fan or cooling towel to help stay comfortable.
+7. Be mindful of the wind direction and speed, as it can affect how the temperature feels. Consider wearing a light jacket or scarf if the wind is strong.
+8. Keep an eye on the weather forecast for any sudden changes in conditions.
+
+---
+
+
+```
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: <@&1253746683632943206>  Team, we will be doing a short visit to the COT office today. Ash and <@1217589600055463958> will  be there. We will meet with the COT and I will give a white board talk/presentation about RAG/Agentic Arch Concepts. We will start from the office at around 2pm today but if you want to go there directly be there 15 minutes before 3. ```DM me if you are interested within 12pm.``` 
+Note: This is not mandatory.
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Yea, I’m holding on to it for you. I wasn’t sure whose it was. So I thought best to hang on to it till I find out who owned it! ☻
+
+ID: 1146314390535151648
+Username: toddjalenlowsayatee_92643
+Name: Todd Jalen Lowe
+Message: I think Rachelle has it bc u left it behind during the Radian Team meeting
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Did anyone see my mac charger anywhere in your room when u guys were heading out?
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: 
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: 
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: 
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: 
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: 
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: 
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Here's the tutorial today's demo was based on if anyone wants to learn more. It mentions conditional edges and loops too which are key LangGraph things we didn't get to. Happy building everyone!
+https://github.com/menloparklab/LangGraphJourney/blob/main/LangGraphLearning.ipynb
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: 
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: 
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: # Activate virtual environment
+!source ./.venv/bin/activate
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Me
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: source' is not recognized as an internal or external command,
+operable program or batch file.
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: seulgi
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: Nicholas
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://github.com/git-guides/install-git
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Link to today's github, feel free to use the following command
+git clone <the-above-link>
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://github.com/jacksongrove/langgraph-agents-demo.git
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://drive.google.com/file/d/1IsfqUKwspWd9pgE-hn5ZkxCZo_pgVeG3/view?usp=sharing
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: git clone https://github.com/jacksongrove/langgraph-agents-demo.git
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Demo for today ^
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://github.com/jacksongrove/langgraph-agents-demo
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: https://docs.google.com/document/d/1YaE7emJodAVYBq4xJDwuOTT2RKayAh3tvxsnHdKj0BE/edit?usp=sharing
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: Room 638
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: In a room, I’ll be there in 4 mins. Are you at the office?
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Will we meet in a room or just hop in the Discord call?
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Hi <@&1253746683632943206> Lets have a meeting at the office tomorrow @9am before the all hands. Jackson will be present. If the time does not work for you, react with a 😭
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Hi guys, great progress. Test the accuracy of your chatbot by asking speciific questions about the documents.
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: Thanks for finishing it! I'm going to try some other prompts tomorrow.
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: Thank you for your awesome code, Nicholas. Without it, I couldn't try to fix it. Regarding that, other information was just hidden below the first person's. Click the '...' button on the notebook you initially shared, then you can see the rest.
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: Nice job! Were you able to fix the problem where it was only scanning Zoha’s resume?
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: I got the answer. It says Amimul Ehsan Zoha has the most relevant experience in software development!
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: 
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: https://colab.research.google.com/drive/1Lcje2Wi5b352WHR4GBW8_Rs_-Xck6Ci7?usp=sharing
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: https://chatgpt.com/g/g-WX3Iu1ZJh-aestportal-connect-with-experts
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: I think this customized chatbot, 'Connect with Experts', has a similar feature to what we're doing. I'll put it here for future reference just in case.
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: You have been added
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: https://colab.research.google.com/drive/1gbBVv3SGvwAOHvX30eVX9bFzVxKwqQxx?usp=sharing
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: https://colab.research.google.com/drive/1gbBVv3SGvwAOHvX30eVX9bFzVxKwqQxx?usp=sharing
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: https://python.langchain.com/v0.1/docs/modules/data_connection/document_loaders/pdf/#using-pypdf
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: https://colab.research.google.com/drive/1gbBVv3SGvwAOHvX30eVX9bFzVxKwqQxx?usp=sharing
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: 
+
+ID: 471861521836802049
+Username: tiany69
+Name: Tiany
+Message: 
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: https://colab.research.google.com/drive/1uy0PLCzeEC23jZmVwOB7P6ZzlGIE9UVJ?usp=sharing
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: 
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: 
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: 
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: 
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: https://www.youtube.com/watch?v=TcvI-Nnebow&list=PLZoTAELRMXVOQPRG7VAuHL--y97opD5GQ&index=13
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: Here is the link for you guys to the google doc where Zoha and I as well as Jackson will have meeting notes on. You guys can also insert your notes to help you and your teemates better undestand the project. It will be updated every monday so you all can see what we will be doing that following tuesday. Right now there are notes from july 2nd meeting. By the end of today there should be notes on todays meeting 7/9 https://docs.google.com/document/d/1YaE7emJodAVYBq4xJDwuOTT2RKayAh3tvxsnHdKj0BE/edit?usp=sharing
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Team, ill be there in 6 mins
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: This video explains how to use langChain with open AI in Python
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: https://www.youtube.com/watch?v=mrjq3lFz23s
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: I'm in the office now. 644?
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: <@&1253746683632943206> If you are in the office in person today drop by the place we did our custom gpt training to work together.
+
+ID: 471861521836802049
+Username: tiany69
+Name: Tiany
+Message: Same
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: My schedule is open for the next two weeks.
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: My schedule is pretty open as well except I cant do thursdays.
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: This is my schedule for the next two weeks. From Week 7, I'm pretty open to anytime except Wednesday morning.
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Hi <@&1253746683632943206> team, lets share our schedules for the next two weeks in here so that we can plan doing some work time together as a team.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Great video if you want a deeper understanding of RAG, uploaded 30 minutes ago lol
+https://www.youtube.com/watch?v=Y08Nn23o_mY
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Yess
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Is rag: Retrieval Augmented Generation?
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: Expert Connection Bot
+Based on the information provided, we have three candidates who meet the criteria for database access and its integration with chatbot functionality for a front-facing AI core site. Here are the details of each candidate:
+
+Candidate with ID: 41152404
+Skills: Database management, Database access, Chatbot integration, Front-end development
+Experience: Proven track record in developing and integrating databases with chatbots and front-end interfaces. Worked on multiple projects involving AI and database interaction.
+
+Candidate with ID: 70089206
+Skills: SQL, Database access, API Integration, Chatbot development
+Experience: Extensive experience in SQL database management and integrating APIs to connect databases with chatbot frameworks. Has worked on user-facing AI solutions with strong backend integration.
+
+Candidate with ID: 22776912
+Skills: Backend development, Database access, Chatbot functionality, AI integration
+Experience: Specialized in backend development and database access for AI applications. Experienced in creating robust chatbot functionalities that interact seamlessly with databases.
+
+Based on their skills and experiences, any of these candidates could be a good fit for the task at hand. However, if we consider the need for both database access and integration with chatbot functions for the front-facing AI core site, Candidate with ID: 41152404 stands out due to their well-rounded experience in both the front-end and backend aspects of the required task.
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: What people can do what tasks?
+We have identified the following candidates who have a substantial number of matching skills for the specified task:
+
+Candidate with ID: 41152404
+Candidate with ID: 70089206
+Candidate with ID: 22776912
+Here are the IDs of the resumes that meet the criteria:
+
+41152404
+70089206
+22776912
+These candidates seem to have the experience and skills relevant to database access and its integration with chatbot functionality for a front-facing AI core site.
+
+If you need further analysis or details, please let me know!
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: Task:
+Discussing database access and its integration with chatbot functionality for a front-facing AI core site.
+Skills Needed:
+Database Management: Knowledge of SQL or NoSQL databases.
+Backend Development: Experience with server-side languages (e.g., Python, Node.js, Java).
+API Integration: Understanding of how to connect databases with chatbots via APIs.
+Chatbot Development: Familiarity with chatbot frameworks (e.g., Dialogflow, Rasa).
+Front-End Integration: Basic understanding of how the front end interacts with the backend and database.
+Security Best Practices: Ensuring secure access to the database.
+Qualifications:
+Experience in software development, particularly in building and integrating chatbots.
+Proficiency in database management and backend development.
+Familiarity with API development and integration.
+Strong problem-solving and communication skills.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Hey could someone meet with me for a bit? I'd like to go over DB access and how that ties into chatbot functionality for the frontfacing AI core site
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: cleaned dataset
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Resumes from kaggle
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Will we have another meeting?
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: Hello team, I will be there for our team meeting starting at 11:00  🙂
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Send what you find!
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: After you get a feel for what agents are and how they are used in an architecture, look into popular architectures. Mixture of Experts is a great one to start with
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: ^
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: 
+
+ID: 762712951047454761
+Username: .gale_
+Name: nitegale_
+Message: These meetings both Mentor and Individual meetings are scheduled every Tuesday, and the schedule is shared in <#1194416882464342051> chat and on D2l. An intern team meeting will just be 2 hours with you and your team no mentors at the time and room listed on the schedule where you guys continue your work without a mentor. If you do need a guidance Patrick will be around to help, or you can reach out to your own mentor if they are available. Your mentor meetings are your whole team including your mentor which is Rachelle, where she will help guide you all on the project and just check in. That time and room is also listed on the schedule.
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: Does the COT team meet at a mentor meeting? or intern team meeting tmr? what is the difference between an intern team meeting and a mentor meeting?
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: We will still be having the mentor meeting on tomorrow. Thank you Zoha.
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: no, we will be having the mentor meeting as per schedule tomorrow
+
+ID: 520854218396008458
+Username: cubez2858
+Name: cubez
+Message: nicholasmontes@arizona.edu
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: Are we ignoring the mentor meeting that’s at 9?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: And if you'd like to be added to the project plan and havent yet send your email and I can add you
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Great meeting you guys! Just a recap of the meeting today, we shared the project plan doc with you all and discussed the agentic architecture we'll be developing over the next 6 weeks. If anyone has any ideas for the architecture let us know, ideas don't have to be polished, more ideas the better! 
+
+Be sure to send your schedules so we can set up working times and also check out the Matthew Berman video I sent earlier and do more research on LangChain or agentic architectures/AI agents. If you find something cool (even if you think other ppl might know it already) definitely share it! The more sharing that happens, the quicker we'll all learn!
+
+Once I have all your emails I'll work with COT IT to get you all added to the MS Teams. It was great meeting you all today!
+
+ID: 471861521836802049
+Username: tiany69
+Name: Tiany
+Message: tommorow we do have our team meeting at 11-1230
+
+ID: 471861521836802049
+Username: tiany69
+Name: Tiany
+Message: I can work around whatever you guys end up doing
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: This is usually my schedule for the week. I dont mind staying later that 3. Just cant do thursdays.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: If you find any cool videos feel free to send them too!
+
+ID: 720062880762036224
+Username: rachelle3523
+Name: Rachelle
+Message: rnkeze@arizona.edu
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: seulgichung@arizona.edu
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: arceh@arizona.edu
+
+ID: 471861521836802049
+Username: tiany69
+Name: Tiany
+Message: christianarancon@arizona.edu
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: amimulehsanzoha@arizona.edu
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: We'll be in the Caracol channel
+
+ID: 471861521836802049
+Username: tiany69
+Name: Tiany
+Message: Where is the virtual meeting going to be?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: It'll be a 30 minute meeting from 2:30-3
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Hey <@&1253746683632943206> team I'll be coming out of a meeting at 2 today, let's actually reschedule to 2:30 to be safe. Does this still work for everyone?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: If anyone has time before our meeting or later this week, this is a great introduction to what we'll be doing with agents. Pay specific attention to what he says about flow engineering (agent architectures) in the 'Questions' section. These architectures is what we will be building
+https://www.youtube.com/watch?v=9ZhbA0FHZYc
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: We'll be virtual so come into the office if you can but otherwise hopping on from home works too
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Ok can everyone meet at meet at 2 today then
+
+ID: 1062140681822412910
+Username: seulgi3049
+Name: Seulgi Chung
+Message: I'll be in the office after 2 today.
+
+ID: 1078167503852797962
+Username: christianarancon
+Name: Christian Arancon
+Message: Be there at 12
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: I just got to the office and can meet whenever you are ready.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: If not I'll show you guys the project when we meet later in the week
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Awesome! If we could meet today to share what we're going to be doing for the next few weeks too that'd be perfect. I know not everyone might not be in at the same time today though so let me know when you'll all be in the office
+
+ID: 1247196149601796229
+Username: hectorarce.i_90875
+Name: Hector Arce
+Message: Good Morning! My schedule is pretty much open from 10am all weekdays except thursdays. I should be in today by 10:30am.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Super excited to work with you all!
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Hey <@&1253746683632943206> team!
+We have a lot of exciting work ahead of us and I'd love to get started as soon as we can. Would you all be able to share your schedules so we can find what time is best to meet for project work?
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 🌞  City of Tucson Chatbot
+
+What does it take to deploy a first generation chatbot capable of being the face of an entire US city? AI Core! This team will learn the ropes of Prompt Engineering, GPTs, RAG, and vector embedding techniques to launch the first-of-its-kind civic chatbot. Certain to become a feature of 21st century urban life, we’ll explore text, image, voice modalities, avatars, and more.
+
+🧑‍💻 Join the Trello board for this project here: https://trello.com/b/Utjegq7s/city-of-tucson
+
+✋ If you're interested in being on this project team react to this message with  🥇 for first choice, 🥈 for second choice, or 🥉 for your third choice project!
+

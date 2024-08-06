@@ -1,0 +1,1239 @@
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: <@370400215427186688> <@1144085904118521999> I'm not seeing any code updates, if you have any questions abt working with chatgpt to write it let me know and I'd be happy to help! Just update me on where we're at right now
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Have we made any progress on the chatbot website?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Hey <@&1254878080070189086> how's the html coming along?
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: 
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: python product/app.py
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: 
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: .venv\Scripts\activate
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: 
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: yufeizhang721@gmail.com
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://github.com/jacksongrove/play-district/tree/main/product
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: source .venv/bin/activate
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: 
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: https://new.express.adobe.com/id/urn:aaid:sc:US:81832ca8-f715-4f6b-8bd3-ce8928d16202?invite=true&promoid=Z2G1FQKR&mv=other
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: While we're waiting can everyone pull the new code from the github and open their VS code
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: You can start first and I can join later.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: If you guys want to find a room and connect me we can get started
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Yes we are
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: I’m on my way to the office.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Yes we can connect on the Bench
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: <@407627908761387019>  are we still meeting today?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://github.com/langchain-ai/langgraph/tree/main/examples
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: # Renamed function_1
+def city_agent(state):
+    user_query = state["user_query"]  # Read query from graph state object
+    gpt_response = state["user_query"]  # Read query from graph state object
+
+    complete_query = "Your task is to provide only the city name based on the user query. \
+        Nothing more, just the city name mentioned. Following is the user query: " + gpt_response
+    response = model.invoke(complete_query)
+    return {"user_query": user_query, "gpt_response": response.content} # Return this to update graph state
+
+# Renamed function_2
+def weather_agent(state):
+    user_query = state["user_query"]
+    gpt_response = state["gpt_response"]
+
+    weather_data = weather.run(gpt_response)
+    return {"user_query": user_query, "gpt_response": weather_data}
+
+# New function
+def summarizer(state):
+    user_query = state["user_query"]
+    question = state["gpt_response"]
+
+    complete_query = "Your task is to interpret the API response to answer the user's query. \
+        Keep it simple. Following is the API response: " + question\
+        + "\nFollowing is the user's query: " + user_query
+    response = model.invoke(complete_query)
+    return {"user_query": user_query, "gpt_response": response.content}
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: import getpass
+import os
+
+
+def _set_env(key: str):
+    if key not in os.environ:
+        os.environ[key] = getpass.getpass(f"{key}:")
+
+
+_set_env("OPENAI_API_KEY")
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: 
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: 
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: ```git clone https://github.com/jacksongrove/play-district.git```
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Link to our github
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://github.com/jacksongrove/play-district.git
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Sounds great, I can join you guys at 11
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: For the presentation, I'd like to give you guys certain slides to work on so no one gets stuck doing it all. 
+Manuel: 3-6
+Annie: 7-10
+<@407627908761387019> : 11 (project demo slide)
+Sebastian: 12-15
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://docs.google.com/document/d/1XssAStS8L4s3lXJqleL60q1IlFMN18j65y89cMIlYB4/edit#heading=h.bl58gbwyggoh
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: I'll be joining you guys at 11 when I'm done with the city of tucson. Feel free to pop in and grab me if you need anything. See you guys soon
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Good morning everyone, I’ll be joining the bench channel here shortly
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys, since i’m sick I’ll be joining you guys from home through discord tomorrow. Please still show up in person to meet with your teams during your regularly scheduled meeting times (unless you’re sick like me and join through discord).
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Keep up the great work team!
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: If anyone is confused feel free to reach out to me. I'm always happy to answer questions! 
+
+And if something requires more info from Katie let me know first (I might have the answer myself) then I can reach out to her on our behalf.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: <@&1254878080070189086> Don't worry too much about the design work unless there's something you've been working on for awhile that you're now finishing up
+
+ID: 1144085904118521999
+Username: annie_73241
+Name: aasher
+Message: I can finish the Adobe Design
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Morning <@&1254878080070189086>, before tomorrow's meeting, we can finalize the following design tasks:
+* Adobe Design for Chatbot Outlook - need 1 person
+* Filter Question Design based on the requirement of "Family Guide Categories and Filters" files in BOX - need 2 person for 2 different versions
+* Finalize the OpenAI assistant prompt
+we can separate the tasks.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Just kidding, I checked with Shalon and there's nothing this Thursday, just the one next week
+
+ID: 1144085904118521999
+Username: annie_73241
+Name: aasher
+Message: https://www.canva.com/design/DAGLyLgZAZg/ZT7JbjHuGwJunVlaMXlsEQ/edit
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Or is that when we’ll be delivering the presentation
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Sounds good! <@1115476493640941659> do we need to prepare anything for demo day this Thursday as well?
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys, on Tuesday we will be doing a practice presentation. This means you guys will need to have maybe more of the presentation done by then than I originally thought. Let me know if you guys need any help with it
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: This is a workflow for the RAG agent. This picture is meant to complement Jackson's image. I hope this can us stay on the same page.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Awesome
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Just to split things up and not overwhelm us
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: Yup that works !
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: I can do  Tuesday and Thursday, and Friday
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Let's do this on Thursday 10-11 instead if it works for everyone <@&1254878080070189086>
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Ok no problem, let's meet our normal tuesday time then
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey <@407627908761387019> due to the design lab’s curriculum our Tuesday meeting time is set in stone
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: We can make great progress next week.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: I have shift everyday next week. All time is good for me.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Actually <@1115476493640941659>, do we have any flexibility with our tuesday meeting time? Sebastian, that's a great idea of meeting Wednesday since it'll give us more time between meetings to learn things and get things done
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: I can meet Wednesday and Thursday as well. I have zero problem with that
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Have a great weekend everyone
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: I think we can make a lot of progress and push forward next week if we meet twice! (monday & normal time tuesday)
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: Yes!
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Hey <@&1254878080070189086> can you like this message if you're free to meet Monday 10-11 to go over the rest of the LangGraph doc?
+
+Edit: changed to Thurs 10-11
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://github.com/jacksongrove/langgraph-agents-demo
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: 
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: 
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Let me know if there's issues doing this, we may need to work through some things since it's private. But just worry about getting on the repo
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: If you haven't already, open VS code and in your terminal run the following command 
+'''git clone https://github.com/jacksongrove/play-district.git'''
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Sorry guys getting pulled away for a quick 5 mins then we'll get back to it
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://github.com/jacksongrove/play-district/tree/main
+Repo for all things play district
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: We can go til 11:20
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: see you then!
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Yeah definitely let's do it
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: <@407627908761387019> Do you mind if we come back in 15 for lunch?
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: https://www.canva.com/design/DAGLyLgZAZg/ZT7JbjHuGwJunVlaMXlsEQ/edit?utm_content=DAGLyLgZAZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: jacksongrove@arizona.edu
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: cpadawer@arizona.edu
+
+ID: 1144085904118521999
+Username: annie_73241
+Name: aasher
+Message: aasher002@arizona.edu
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: mbarcelo@arizona.edu
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: spojman123@gmail.com
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: want to just do it in the bench channel
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Feel free to add me to the call whenever you're ready
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Annie just arrived. Waiting on Sebastian rn i think he's using the restroom
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Alrighty
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Sure sounds good, do we want to get the computer set up and work on installs until she gets here?
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Just got set up in our meeting room. I think we should wait until Annie arrives to start? She said she's going to be a bit late as well.
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Here's instructions on how to do it (you will have to open the terminal app (on mac) or powershell on windows). ChatGPT is also a huge help. Just get through as much as you can to get a head start for today
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: If you guys haven't already <@&1254878080070189086> , spend this time starting to install git as itll allow us to share files
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: I’ll be there shortly. got stuck behind the sunlink on 4th
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Perfect thank you Cami
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Oh sorry that's right
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Yes I can
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: sry, I’m not here today. Can <@1115476493640941659> hook up the computer?
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: We’re gonna be starting our final presentation and one of our other mentors created a nice template for us to use. just take a look
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: <@1229928879318106155> would you be able to hook up a computer for our meeting today so I can see and hear?
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://www.canva.com/design/DAGJET7gRsg/en9I-VFGzDr6bDKFaRJfzg/edit?utm_content=DAGJET7gRsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: No worries sounds good
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: so sorry everyone i’m running late, im gonna send over a document for you guys to look at until I get there
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Great! Just send a message tomorrow whenever you're ready
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Awesome then let's meet then!
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: <@407627908761387019> I will be there from 9-1 tomorrow
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: We have our group meeting from 9am-11am tomorrow. Are you available during that time?
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Excited to get started with you all <@&1254878080070189086>! Let's set up a meeting tomorrow to start things off. 
+
+Can you all send your availability so we can find a time that works for us?
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Hi <@686986285952270359> thank you for your clarification. We’ll contribute to the tasks and follow the plan accordingly.
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Hi <@&1254878080070189086> team (and <@1062863385798115349>) I've spoken directly with <@1235948051877724210> and <@407627908761387019> and want to make clear that I've asked Jackson to take over the management and execution of this project for the remainder of the summer session (from now until August 9th).  Manuel, Cami, Sebastian, Elina, and Annie, please continue to work with Jackson in the days ahead to bring this project over the finish line.  There is a concrete plan to be built here:
+
+-) Establish a FREE and a PAID RAG databases based on The Play District data
+-) Attach both RAGS to a chatbot running in OpenAI with logic for determining if the user is allowed access to the paywall or not
+-) Get that chatbot running in WebFlow and teach the new developer Nathan how to leverage/code it
+-) Build a process for updating the RAGs easily, or automatically
+-) Setup Play District wholly in their own commercial cloud
+
+Team, please share out the side tasks that you've been developing with Jackson and what's great about them but also follow his lead in the accomplishment of the 5 above tasks. With 3 weeks to go there is still a good chance that all of this can be accomplished, and I'm sure you'll all appreciate leveraging some of the cool RAG and Agent solutions that Jackson and the AI Engineers have been discovering!
+
+If this isn't clear please drop by HQ or send me a DM for qualifications.
+
+Elina, thanks for your stewardship of this project to date, please continue to make your contributions as this team focuses on the final 3 weeks.
+
+Thanks all,
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Please jump onto the Bench voice chanell...
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Yes I can probably jump on a call
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@1235948051877724210> are you available to speak now?
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Good morning! Would love to hear where we are at. I Would be happy to meet this week to see an update
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: https://new.express.adobe.com/id/urn:aaid:sc:US:81832ca8-f715-4f6b-8bd3-ce8928d16202?invite=true&promoid=YSYYFZ1T&mv=other
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: 
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: https://www.canva.com/design/DAGLIOHNVOw/41h1LNIqZg7Ai6VJfEqOJQ/edit?utm_content=DAGLIOHNVOw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://www.canva.com/design/DAGLIKYZRYI/xtq3hQ7c3pU434wR3lty0A/edit
+
+ID: 1144085904118521999
+Username: annie_73241
+Name: aasher
+Message: I’m walking over rn, I’ll be there shortly.
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: hey y’all, running a touch late but I’m almost there! I have a fun activity planned for this morning. see you soon
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://arizona.box.com/s/7mmbgkpmwls0lu3uq7pvk9hxe5d8vsvb
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: Absolutely:
+
+Monday 10-3, Tuesday 9-2, Wednesday 10-3, Thursday 10-3, Friday 10-1
+
+ID: 1144085904118521999
+Username: annie_73241
+Name: aasher
+Message: Mon: 10-130, Tues: 9-1, Thurs: 10-230, Friday: 10-11
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: Yes, Monday 10-2, Tuesday 9-1, Thursday 10-1, Friday 10-12
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: <@370400215427186688> <@1144085904118521999> <@655482663473250314> Hello, Could I know your next week's time schedule after you've decided?
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: This is a good video to be familiar with the OpenAI assistant's basic functions and interact through API. 
+https://www.youtube.com/watch?v=LQ5xtsp7gYo
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://colab.research.google.com/drive/18_wbjqhBLUX_sAtQhAP-Gj9phq6ybz9p?usp=sharing
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Here's the quick start of the OpenAI API. You can directly copy and paste to run it on your Colab file.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Got it.
+
+ID: 927988790499360769
+Username: nathanpratt
+Name: Nathan Pratt
+Message: That's correct. Unfortunately, only one designer can be developing at a time. Unless, you had code branching.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Hi <@927988790499360769>, our current problem is our share limitation on Webflow. Our intern and I can't work on the same page physically on the Webflow.
+
+ID: 927988790499360769
+Username: nathanpratt
+Name: Nathan Pratt
+Message: 👋
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Welcome <@927988790499360769>
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Please welcome <@927988790499360769> to the <@&1254878080070189086> team! He is a webflow expert and will be able to assist in integration of data and AI chat bot capabilities
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Be free to play with it and save it as a separate copy page.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Webflow Login
+user email: 
+yufeiz@arizona.edu
+password:
+@1Playdistrict
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: sounds good, thank you jackson
+
+ID: 407627908761387019
+Username: jacksongrove
+Name: Jackson Grove
+Message: Yeah totally, I’ll be in contact with you guys, will most likely set something up next week
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@407627908761387019> I've had a check-in with <@&1254878080070189086> team and I think teammates <@370400215427186688> <@1144085904118521999> and <@655482663473250314> could really benefit from a bit of Prompt Engineering school around 4o.  Would you be able to coordinate with them to do a work session together to pass on some of your tips for setting up ChatGPT as a personality?
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Trying to integrate the Webflow page of Chatbot into our Openai assistant as a demo.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://elinas-clone-chatbot.webflow.io/
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: I need to see the Webflow integration...?
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: The platform link to the Play District Chatbot on Openai
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://platform.openai.com/playground/assistants?assistant=asst_cvVZ2iNHLQUCmgYljxm14xlm&mode=assistant
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@1229928879318106155> and <@&1254878080070189086> can I please get a demo of your working code? I need to see how much progress you've made.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: I would just like to test before we put it on the live site
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: I would love for them to stay within the site as long as possible. And also a way to give preference recommendations to our paid clients
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: I put some ideas in a character persona doc in the box files
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: <@1235948051877724210> I'm certain we can achieve character personalization through prompt engineering, I'll let <@&1254878080070189086> team address the other concept, but for sure we can give it personality!
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Can we also have the recommendations link them directly to the listings on our site?
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Are we able to put some of the character personalizations in before we implement it to the live site?
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Fun!
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: This is a Chatbot that I created using Useful Chatbot. It is based on Chatgpt 3.5 Turbo and with all the pdf files. Be free to play with it. I'm going to integrate it with Webflow.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://usefulchatbot.com/chatbot/w6g31v8sk8l92as995t1bj5q
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Thank you for the update, Katie.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Hi team! Just an update. <@889011619928080495> is still here for some help, but we will be moving to a new developer shortly! Will keep you update
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://www.chatbot.com/help/integrations/webflow-integration/
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: cpadawer@arizona.edu
+
+ID: 1144085904118521999
+Username: annie_73241
+Name: aasher
+Message: spojman@arizona.edu
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: mbarcelo@arizona.edu
+
+ID: 1144085904118521999
+Username: annie_73241
+Name: aasher
+Message: aasher002@arizona.edu
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: I’m running a little late guys so sorry!! I’ll be there around 9:05-9:10
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Please give me any updates
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Sorry guys. Because of family emergency, I’ll not be present today.
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey y'all here's the document we'll all be using for our mentor meetings moving forward https://docs.google.com/document/d/1llewR-vkVQIFSMuvXaYQP_eU9TKAhhqrOXtavmsjJxA/edit?usp=sharing
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: You all are welcome to! I’m going to be remote for the month of July, but will be available
+
+ID: 1144085904118521999
+Username: annie_73241
+Name: aasher
+Message: Are we meeting up in person tomorrow ?
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Cool! I’ll be in HQ for a bit if anyone has any questions!
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: 10 AM for me
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: I'm on board with that!
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Does 9:30 or 10am work?
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Would it be helpful to meet tomorrow before the holiday?
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Be sure to use OFFICIAL workspace
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://trello.com/invite/b/rFVvtUSE/ATTI09a0b245fb032e82d3d8ef4fb6eab26cA1B84709/the-play-district
+
+ID: 1144085904118521999
+Username: annie_73241
+Name: aasher
+Message: aasher002@arizona.edu
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: spojman@arizona.edu
+
+ID: 370400215427186688
+Username: mbarcelo13_
+Name: None
+Message: mbarcelo@arizona.edu
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: cpadawer@arizona.edu
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://python.langchain.com/v0.1/docs/use_cases/sql/
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://aws.amazon.com/what-is/retrieval-augmented-generation/
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://www.youtube.com/watch?v=T-D1OfcDW1M
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://arizona.box.com/s/7mmbgkpmwls0lu3uq7pvk9hxe5d8vsvb
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Awesome!
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Thanks <@1235948051877724210>, I've been in The Play District - Main in the Webflow.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://www.youtube.com/watch?v=OqjJjpjDRLc
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: I forgot to add, I added to the docs in box some ideas for the persona of the chat bot! (When we get there)
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Sure. Be free to come and join.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Sent!
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: yufeiz@arizona.edu
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: <@1229928879318106155> what email should I send the invite to?
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: For what it’s worth, I already have software like VS Code, IntelliJ, and SQL installed, on top of Linux
+
+ID: 655482663473250314
+Username: tampafl
+Name: Tampa, FL 🌴
+Message: Do you think it would be a good idea if I headed down to campus to go over this some more? I happen to be free today
+
+ID: 889011619928080495
+Username: alanpham
+Name: alanpham
+Message: Solid 👌
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Hi there <@&1254878080070189086> Just met with the partner and it looks like this week's work entails:
+
+1) Getting with the <@&1229907313436000256> to have them tackle the Play District database, train the GPT on the schema and get it to be intelligent (similar to breakthroughs with Radian)
+2) Solve the Webflow integration and convey that to Alan
+
+That's it for the week, Let's go!
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: actually i think i am in!
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: <@1229928879318106155> can you lead me where to go.  I am not that familiar with discord
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: The meeting will be on the HQ channel in Discord.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Everything's good right now. 👍
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Anything you need from me ahead of our meeting tomorrow?
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Okay great!
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: I prefer BOX, which can obviously show who uploaded the file. ☺️
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: <@1229928879318106155> should I upload documents to mural or continue adding to box? I’m just trying to gather up some info for tomorrows meeting
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: We'll have a kick-off meeting on Monday, 10-11 AM (MST), introducing the project and discussing the plan. The meeting will be held on Discord.<@686986285952270359>, <@1235948051877724210> and <@889011619928080495> will join us. 👍
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Welcome <@655482663473250314> <@313776839464058882> <@1144085904118521999> <@370400215427186688> to <@&1254878080070189086> team! 🎉
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: This is a canvas containing the materials. Please feel free to edit it.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: https://app.mural.co/t/elinazhang0984/m/elinazhang0984/1719259788946/aaf7b1147556b7fb38dc4287afee07e9ca582d25?sender=ud30b94dc678771366ce09305
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Okay sounds great
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: I've received both Webflow and Memberstack invitations. I'm in the Memberstack. For Webflow, I'm going to discuss with <@686986285952270359> about the account management.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Fantastic! I’ll get you added to those!
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: I've also created the Memberstack account.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: I've created an agent account in Webflow.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: You will also have to Memberstack account as well, but that is free to create
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: If not <@889011619928080495> do you have advice on how they can access the website
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: For webflow, you have to have a freelancer or agency account in order to access. Do you have that?
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Thanks. My email is yufeiz@arizona.edu. The interns will be decided by Friday.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Yes. What email should I invite to them?
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Yes, we’re good at the platform and database management. Can we get access to them?
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Is anyone on the team familiar with webflow I can give access to the website and Memberstack where are user information is
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Hi Katie.  We're planning to build a ChatBot based on your web page by applying the RAG model. Based on the text and CSV files that you've provided, we tend to digest them. 
+For the next stage, we hope you can give more data and share your idea about the ChatBot function which you most concern about.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Hi there! I haven’t heard much from the team. Would love to know where we are at and how I can assist
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Thank you, Katie. No worries. I’ll take a look.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: I apologize in the delay.  Alan has fallen ill, but sent me some data from our current website to do so some preliminary work.  I have added it to box.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Perfect. I’ll add some helpful documents to box
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Sure. 'kids menu' and 'kids price' would also be keywords in the prompt generation.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: For the document store, we seek materials such as guidance documents, handbooks, and calendars, which are crucial for context. We can digest them and store them in vector stores. Then, when the user makes prompts with keywords like "kids or family/families", the customized ChatBot can retrieve content from our document store.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: For restaurants, ensuring they have a kids menu is a start. Kids pricing at attractions
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Also <@889011619928080495> has had some personal issues he has had this past week, so he should get you access to the data soon!
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Can you explain what that is? I think searching for key works like “kids or family/families” would help
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Hi, <@1235948051877724210> We're looking for a document store (in addition to her database) that would help the PlayDistrict bot better understand what it takes to make family-friendly recommendations in Tucson. Can you help us?
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Hi, <@1235948051877724210> We have updated the project plan on the respective Trello card. Please review it at your earliest convenience. We're looking forward to your suggestions.
+
+ID: 1235948051877724210
+Username: kmyaeli
+Name: Katie Y
+Message: Hello! I’m back in town. Please catch me up and let me know what you need from me 🙂
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Updated in the Trello Board for the TO-DO list.
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: Sure! Welcome, Alan. Appreciate your joining.
+
+ID: 889011619928080495
+Username: alanpham
+Name: alanpham
+Message: <@1229928879318106155> I sent an email already but we can talk here if that's better.
+
+Please let me know how I can help with the data
+
+ID: 889011619928080495
+Username: alanpham
+Name: alanpham
+Message: Hello! I am Alan Pham, Katie's lead developer at The Play District!
+
+Nice to meet you all!
+
+ID: 1229928879318106155
+Username: elina0721cd
+Name: Elina(Yufei) Zhang
+Message: <@1235948051877724210> Welcome, Katie. Appreciate your joining in the Discord.
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 🛝   The Play District
+
+Southern Arizona specialists in all things fun and family-friendly The Play District will collaborate with AI Core this summer to explore the power of GenAI and GPTs, taking local search to an all new level. This team will leverage Agents and custom LLMs while working closely with their industry mentor to make AI work for parents and kids all over.
+
+🧑‍💻 Join the Trello board for this project here: https://trello.com/b/rFVvtUSE/the-play-district
+
+✋ If you're interested in being on this project team react to this message with  🥇 for first choice, 🥈 for second choice, or 🥉 for your third choice project!
+

@@ -1,0 +1,1408 @@
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: When you first open it you will have go into options and select advance to website
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: <@&1253412598460973217> Hi Team, some good news.. our application is now hosted on this test domain -
+
+https://vaultlearningtest.org/
+
+Please test it out, i reckon some of the api paths might not be using the .env file so will update but yay we are live on a test server now!!!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Oh sorry about that haha
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: Okay, I sent the js and css to Jackson
+
+ID: 747494247766163596
+Username: ehsan_zoha
+Name: Zoha
+Message: The play district team requires it, not the city of tucson team 😛
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hey <@840865281798045707>  can you share your Chatbot code and logic with <@407627908761387019>, the City of Tucson team requires it for their project and it will be similar logic and code.
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey <@1205560468211499018> i’ve been in the middle of moving but I’ll let you guys know when I sit down to look at it!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Awesome work on the presentation guys! <@1115476493640941659> please review and give us feedbcak! 
+
+Also, let us wrap up our coding tasks by this week or maximum by Monday so that we can merge and focus on the presentation
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Let's try to now add a button to add this image to the add-activity
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Great job <@840865281798045707> !!! Image generation added to our app now . Yay!
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: chat bot dalle image generation
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: No worries thanks for connecting with us through discord. The team will update you on the channel with the changes to the presentation for your feedback.
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: The slides are looking great, guys! Thanks for your work today. Sorry I couldn't be there today, hopefully I'll be back by Friday for All Hands. I'll still be in the breakout room until 3pm with my last group of the day if you have any more questions, and please reach out anytime if you need me to review anything!
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: one sec lemme figure out my mic
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: no rush at all i was gonna grab a snack anyways haha
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hey Cami, we will join the breakout room in 10 mins or so!
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys! I'll be joining the "Palenque" breakout room for our meeting time
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys, since i’m sick I’ll be joining you guys from home through discord tomorrow. Please still show up in person to meet with your teams during your regularly scheduled meeting times (unless you’re sick like me and join through discord).
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Great job An! Our activity details card is looking good now
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: 
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Questions for the chatbot - 
+
+- What might parents ask the chatbot?
+
+What is VAULT?
+What if my child doesn’t have a speech problem?
+Can I use this for older children?
+I don’t see a word I want to teach on here?
+What if I don’t have one of the materials?
+I am not sure if I am doing this right? How will I know?
+How do I get my child to pay attention to what I’m teaching?
+Why do you say it so many times?
+Will my child get bored?
+How do I find a speech therapist for my child?
+What words should I teach my toddler?
+When should I worry about my child&#39;s talking development?
+How do I teach words to kids?
+
+
+- What might interventionists ask the Chabot?
+
+
+What is VAULT?
+How is this different from other therapies?
+What if I don’t have 30 minutes to work on vocabulary?
+I see the sample activities only use 5 doses. Is that enough?
+Does this work for autistic children?
+How can I check for fidelity?
+How do you take data for this treatment?
+How will I know if it is working?
+Does it work better than other treatments?
+How long should this treatment last?
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: 
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: Purple for chatbot
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: rgb(127, 115, 181)
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: 677
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Which room are you guys in?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: thanks
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: yea
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: https://www.canva.com/design/DAGLy3w6Opg/swu18EWhVMxFUy0KgM8p9Q/edit?utm_content=DAGLy3w6Opg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: Can you edit now?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: sounds good
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hi Team i will be coming in at 11 and will join you then!
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: yes, I will share it now
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: <@844608447576277002> can we have edit access to the presentation
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Sure will do, get well soon!
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: I’m sick so i’m not sure i’ll be there for the mentor meeting tomorrow but message me if you need any help with anything
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: my other teams were able to get a good chunk of it done within our 2 hour meeting time so it shouldn’t be too difficult
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: We will be in at  10am tmmrw
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Understood! Thanks for clarifying.
+
+<@&1253412598460973217> Team, let's work on the presentation tomorrow and create an initial draft.
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: 
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Thanks!
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Oh you might be right. I can’t find the due date on D2L but i’m checking in with Abby/Patrick. I’ll let you know
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: No worries! But I thought we had to submit the draft by this Tuesday?
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Sorry I didn’t see your message sooner
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey <@1205560468211499018> the presentation isn’t due until August 8!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: <@400752186125975584> <@840865281798045707> when will you guys be coming in tomorrow?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I can meet any time after 10, that's when I'll be in.
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: O.o
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I thought cami said we had 2 weeks
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hey <@1115476493640941659> is the presentation due this Tuesday?
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: I will be in the office next Monday from 9am to 4pm. Can I know what is the deadline to submit the presentation?
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hi Team, we need to meet next week to work on the presentation and finialise. Can we all pick a time on Monday and work together in office? Please let me know!
+
+We have to submit the presentation by this coming week.
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: I like it
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: What do you guys think about it?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: that looks awesome! good job An
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Wow I love it. Looks amazing!!
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: thank you!
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: looks awesome! thank you 🙂
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: It looks great
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: This is my draft for the Final Presentation: 
+If you want to edit it please let me know so I can share it with you
+
+https://www.canva.com/design/DAGLy3w6Opg/swu18EWhVMxFUy0KgM8p9Q/edit?utm_content=DAGLy3w6Opg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Thanks a lot <@1115476493640941659>, we will update you with the progress we make and communicate who's doing what!
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Also, please send whatever progress you guys make in this chat. I love to see what gets done outside of these meetings! Thanks 🙂
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Until next week I'd like you all to continue working on the chatbot design as well as the presentation. If you guys want to communicate who's doing what, that would be great. Thanks for your work today
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: and 3rd step i will show you how to connect to it through our code
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: we will create a custom gpt on the openAI playground platform
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: yes once you have created the front end
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: Yes but just front end chatbot I think Kashyap is going to use open ai chatbot
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: <@840865281798045707> are you working on the chatbot?
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Apologies for the Github merging issues team, i will fix it soon and get back to you guys. Thanks for being patient.
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://new.express.adobe.com/id/urn:aaid:sc:US:dc9967b8-0ca5-431a-af7c-2922f89d5b85?invite=true&promoid=Z2G1FQKR&mv=other
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Okay, I'll let you know!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: If you need my input, I can join in through discord!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Oh right hahaha makes sense
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: That's what i said lol. i wish we could use it but we'd end up with 50 of the same presentations on presentation day hahahah
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Oh i see, but it looks so cool haha
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Lucy made it and unfortunately we can't use it at all, only as a reference 😦
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Woah this is a great template!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: So that it doesn't look just blank white
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Thanks for getting them started on the final presentation <@1115476493640941659> . If there's time then can the team work on making the design for the chatbot a little prettier? And also come up with a light background colour for the Search/ActivityDetails page
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: <@1205560468211499018> was there anything you wanted us to work on specifically today? I'm getting them started on their final presentation but I'll have time for other things probably
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://www.canva.com/design/DAGJET7gRsg/en9I-VFGzDr6bDKFaRJfzg/edit?utm_content=DAGJET7gRsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hi <@686986285952270359> , can you give access to <@844608447576277002> to OpenAI 4o/ Stable diffusion? Currently she can't use Dall-E in the OpenAI Playground.
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: I have emailed Mary today. We're waiting for a response so we can review and further ask her about the domain transfer/test domain so that her team can use the application and give us further feedback. 
+
+Waiting for her response. Also sent 2-3 background images that we were thinking about.
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Looking promising <@&1253412598460973217> I'm curious, when will Mary have a chance to review?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: That's awesome!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: This is exactly what we want. Excellent job guys
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: WOW!!
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: 
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Sure, I'll try it out and get back to you
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Just let meknow
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: i can also put it on a larger white/reflective background if it's too small for the webpage/to make it fit better
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: No problem 🙂 Let me know what she thinks
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Thanks Cami, this is great!!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: I love it! We'll upload it to the website and show it to Mary.
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Here's another version i did yesterday. let me know what you think
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: i think it looks nice haha
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: was just messing around some more and did this
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: 
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: 
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: 
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://new.express.adobe.com/id/urn:aaid:sc:US:16bfda46-ddf2-4889-9bbe-38d692d8b759?category=elements&tab=shapes&assetCollection=urn%3Aaaid%3Asc%3AVA6C2%3A3448a674-0b68-4144-9ad8-823f2a5f3927
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://new.express.adobe.com/id/urn:aaid:sc:US:dc9967b8-0ca5-431a-af7c-2922f89d5b85?category=templates
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: 
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: color
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: https://vaultlearning.org/index.html
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: 
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: 
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: 
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: 
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://new.express.adobe.com/id/urn:aaid:sc:US:dc9967b8-0ca5-431a-af7c-2922f89d5b85?invite=true&promoid=Z2G1FQKR&mv=other
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hi <@&1253412598460973217> Team, I will be late by 20 mins. Continue with your tasks, we will review and discuss them once I'm in the office. Thank you!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Wow that's amazing. See you tomorrow!
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: and the app bar now persists throughout the website
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: changed the cards
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: pushed the latest updates
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: <@686986285952270359> Yes will do! Working on merging all our components
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: updated home page design
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 686986285952270359
+Username: ashblack.
+Name: Ash Black
+Message: Hi <@&1253412598460973217> Can I see the progress on the website rebuild? I'd like to demo in browser and see what is working, thanks!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Let's go with that but for now, yah just do the background with the robot
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Yeah let's just keep the robot for now, but if you find some cute gif/image with a sunflower or some plant.... or some other idea which is not robot related haha!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Haha alright
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I just wanted to edit the animation xD but it's okay, i'll just do the background with the robot
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: or maybe instead of a gif, we can just add a picture
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Oh wait then what's the issue?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I'll add it
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: displaying it isn't the issue.
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hey <@844608447576277002> maybe you can connect with Kevin and show how you've displayed the Gif
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Great work Kevin!
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: Yeah I would say just implement GIF we have for right now 😂
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: But maybe just the gif alone would be okay, i'll give it a shot
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: Yeah
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: Oh ok I got it, u wanna edit the animation
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: i'll do it and see what people think
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: But actually maybe that's okay
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I can just overlay the gif as the background
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I can get the gif it's just using the animation that's difficult since I can't edit the animation of the GIF
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: Have u tried importing GIf from src
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: that's for the appbar
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I think i'd have to create the animation from scratch? I'm not sure
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I tried to find a way to use the little robot animation but since it's a GIF. I couldn't find a way to incorporate it
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: Do you have the css code for this,  maybe I can just implement into search page style
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: Nice design, I like it
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I've pushed the changes
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Let's discuss once when you're back! and then we can send her the design
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: Or what would you like to see different before sending to her?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: Seach input box will be bigger. Will resize when I get back in an hour or so. Then push updates. Is this okay to show to Maddy? <@1205560468211499018>
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: Got it
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: <@400752186125975584>  and  <@840865281798045707> , take note when you design the search component use this
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: <@&1253412598460973217> this is the "color" scheme we'll be using for the website: 
+Background: rgb(093, 117, 153)
+On hover: rgba(159, 074, 150, 0.9)
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: UI design tool: https://www.visily.ai/
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: Colorblind Safe Color Schemes: https://www.nceas.ucsb.edu/sites/default/files/2022-06/Colorblind%20Safe%20Color%20Schemes.pdf
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://coolors.co/3b429f-aa7dce-f5d7e3-f4a5ae-a8577e
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: All good <@1205560468211499018> no worries at all
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Yes, will do <@1115476493640941659>
+
+Apologies for not filling it out till now
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys, if you could fill out what you got done during your intern meetings last week in that section on the document I sent yesterday that would be great. Also <@1205560468211499018> if you can put goals for today's meeting that will help me to facilitate! thanks guys
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Hey guys, here's the document we're going to use for our upcoming mentor meetings. https://docs.google.com/document/d/1YMHYCNMJ1q_PvPy2Or6Z9ct3QPpJHhMp9cOMai0U_BA/edit?usp=sharing
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: Everyday from 9-1pm as expected, today we have meeting aren't able to make it
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I'll be in today 10-2
+Tomorrow 10-2
+Wednesday 10-3
+
+Next week 
+Monday 10-2
+Tuesday 9-2
+Wednesday 9-1
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: I will be at the office today from 9AM - 4PM
+For next week (7/15 - 7/21):
+Monday: 9AM - 4PM
+Tuesday: 9AM - 2PM
+Friday: 10AM - 11AM
+
+For the week (7/22 - 7/28):
+Tuesday: 9AM - 4PM
+Thursday: 9AM - 2PM (This is if I have my Establish Care Appointment on Monday. If not, I will be at the office on Monday instead of Thursday from 9AM - 4PM)
+Friday: 10AM - 11AM
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: <@&1253412598460973217> hi team, who all are coming in today?
+
+Please drop by your schedules for the next two weeks so I can plan ahead! Thanks
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Oh I'm not sure why that is but good to know you connected to the database
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: <@1205560468211499018> one thing I encounter is that I couldn;t scroll up and down on activity list page
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: u won;t be able to see update on adding actitivyt if u didn;t connect to databse server
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: <@840865281798045707> lmk if u encounter problem on MS server to connect to database
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: <@1205560468211499018> database showed up now on front end
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: okay
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Yes sure do you want to get on call?
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: can you explain more about that?
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Because that is what we want to integrate
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Good work An, I want you to also research and look into OpenAI's speech models
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: this is .js file, .css file, and .html file:
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: This looks good, we can add more styling to it but first focus on the functionality
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: I use the code for the text-to-speech that was updated yesterday, and it works well, but the problem here is we cannot see the speaker icon.
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: haven't tested with database, but just with this styling, do we want to proceed with this kind of visual image or I need to make some adjustment
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: this is what I have for now
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: Yes
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: Yeah, I will review it and try to integrate some of the stylistic choices
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hey guys, yes please connect and worth together!
+
+
+Kevin, An's code will be different compared to ours but you can still integrate it
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: Do you need the .html file as well?
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: If you need, I will post them here
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: I just using a gif 😁
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: Or post them here
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: Could you send me your .css and .js files to look at?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I like your design, how can get the little animated robot/layout?
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: I will send out a document with a list of steps
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: <@&1253412598460973217> guys check your Emails for invitation to the Learning Vault Github project. Create your own fork with your name and then clone that repository to your local system
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: yes
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Can you come into room 643? <@844608447576277002>
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hey An
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Awesome work!
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: Small update, instead of clicking on the text we can click on the speak button next to the text to convert text to speech.
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: So that it can be a workable document. But I also posted what we have so far as a photo as well
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: I posted a link to the jamboard via a google doc in the shared drive
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: kashyapnadendla@arizona.edu
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: 
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: https://trello.com/b/5JHwLBtU/the-learning-vault
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: cpadawer@arizona.edu
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: those are the standards
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: when looking at accessibility you can search for: "WCAG 2.1"
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: cpadawer@arizona.edu
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: ANd here's a tool that evaluates the accessibility of websites: https://wave.webaim.org/
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: I used this for MIS and it has a lot of useful tips for creating accessible websites
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://www.washington.edu/accesscomputing/AU/before.html
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: could you give me access to the google drive
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: notes and ideas ^
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: https://docs.google.com/document/d/1wug5ZQMiVrIlIDvmxMixcQvdPveJknqDVr8YetHUvng/edit
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Thank you !!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Ah alright, we will be there in 648!
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Everyone needs to come to room 648 at 11am since everyone's rotating at that time
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: We are in room 645 <@1115476493640941659>
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: kevasan@arizona.edu
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: an2005@arizona.edu
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: yaoleib@gmail.com, andybian@arizona.edu
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: mandyjiang@arizona.edu Github
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: https://vaultlearning.org/index.html
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: https://drive.google.com/drive/u/2/folders/1gtTQ5WERC7QuXH8Jxf-RKJYC4N_xoOIi 
+Made a google drive for us to share documents
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Great thanks!
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 645
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hey guys I'll be with you in 15 mins or so. What room is ours?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: https://docs.google.com/document/d/1V8p178Ik30S-8M3bLPzXvTouI4_FrKqeSV7v0YSpTi4/edit?usp=sharing
+I've created a requirements document to get a better idea for what we're focusing on. It's the Systems in me that crave an outline and some sort of structure to have things make sense for me. But others might find it useful.
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: 
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: Me and mandy made the web design ideas to live using React, it’s hosted on github responsity, so we code and see each other’s change using git, let me know if anyone interested, we can add you to the code contributor, hopefully we can add this direct to the production code
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: I have work at UITS everyday from 1-5pm, but let me know if you need me, I can still chat while working
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Amazing work <@844608447576277002> ! Guys, keep discussing and giving your thoughts on what's being posted!!
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: This is my new update for the website. For the search bar, users can use the search bar to find the activities, the activities will appear like in the video. In addition, I also added Screen Reader (Text Speech) code so that when the user clicks on text, it will read out loud. I use this video for the code: https://www.youtube.com/watch?v=zGRpeHFxFDo
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: For the activity builder I need to add all of you as admins
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: "search" does direct me to the function. I was trying to look at the activity builder
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Anyway, I will provide the GitHub access to the new website
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hmm will have to check this
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Does the search work?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: website doesn't load the tabs I press and just automatically moves to home page again
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: 
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: What issues are you facing?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: anyone else having issues with the Vault Learning website?
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: 
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Thank you!
+
+ID: 1115476493640941659
+Username: camii1242
+Name: Cami
+Message: Gotcha i'm gonna join the call right now
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hi <@1115476493640941659>, do I join another zoom call?
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: This is fantastic! Keep the ideas and information coming in
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: Will we have a meeting today?
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: https://color.a11y.com/
+this is an awesome tool when considering human centered design (HCD). The tool ensures color contrasts adhere to a standard for Web Content Accessibility Guidelines (WCAG). WCAG mostly focuses on accessibility with those with disabilities however I think some aspects can be taken from there to improve the design of a website when considering HCD.
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: These are great ideas Andy! Let's discuss further tomorrow or if you are free today from 2-6.
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: I'll be in 
+```Today 1pm-3pm, 
+Tuesday 9am-3pm
+Wednesday 9am-2pm
+Email: Kevasan@arizona.edu
+```
+
+ID: 400752186125975584
+Username: yaoleiandy
+Name: Andy(Andrew)
+Message: here is the ideas we are working on right now: https://docs.google.com/document/d/1LZqBi3kH5Pb4Xr8Jx_J_Fkv2HTw6uDmzkBWHPxNOhIg/edit?usp=sharing
+
+ID: 840865281798045707
+Username: mxdy_
+Name: emj
+Message: mandyjiang@arizona.edu
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Not yet, I will soon.
+
+Please everyone share your Arizona ID which is linked to github
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: Did you share the code?
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: Okay, I will try!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: You can create a mock up similar to your home page!
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Okay great, An it would be great if you can work on a design from the Search page which displays Activities
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: For this week, I will work on Monday and Tuesday from 9 am to 4 pm, my email is: an2005@arizona.edu
+
+ID: 1205560468211499018
+Username: kashyap_wildcat
+Name: Kashyap
+Message: Hi guys, please share your working schedules and also your GitHub email IDs
+
+ID: 844608447576277002
+Username: dha_05
+Name: An Dang
+Message: Just a basic website design
+
+ID: 315776843510710272
+Username: epsilon6992
+Name: Epsilonrook
+Message: https://www.childrensclinics.org/ 
+A good website to reference at least for the accessibility available since the focus is on learning. I think the options provided help with the goals of the learning vault which is to help toddlers and kids learn. The way these options get there, is through accommodating for and considering other issues that children who are delayed learners might encounter have. I personally found the ADHD friendly profile to be incredibly helpful as it casts a shadow around the area the mouse isn't directly over to help with focus.
+
+ID: 864537084790177813
+Username: tortoisems
+Name: Mollie
+Message: 💬  The Learning Vault
+
+Speech, Language, and Hearing Sciences professor and lab crew team up with AI Core to apply Web Applications and AI technology to the task of helping delayed-learning toddlers and young kids acquire language skills. We’ll also be exploring GenAI for improving visual communication strategies and the cutting-edge technique of manufacturing synthetic data to accelerate AI reasoning capabilities.
+
+🧑‍💻 Join the Trello board for this project here: https://trello.com/b/5JHwLBtU/vault-learning
+
+✋ If you're interested in being on this project team react to this message with  🥇 for first choice, 🥈 for second choice, or 🥉 for your third choice project!
+
